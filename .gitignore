@@ -2,3 +2,7 @@ __pycache__
 .venv
 .vscode
 streamlit_nhanes.conf
+csv
+txt
+htm
+xpt

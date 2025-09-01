@@ -1,0 +1,6432 @@
+{
+  "2013-2014": {
+    "Other": [
+      {
+        "code": "AAS_H",
+        "desc": "Aromatic Amines - Urine - Special Sample  (AAS_H)"
+      },
+      {
+        "code": "AA_H",
+        "desc": "Aromatic Amines - Urine  (AA_H)"
+      },
+      {
+        "code": "ACQ_H",
+        "desc": "Acculturation (ACQ_H)"
+      },
+      {
+        "code": "ALDS_H",
+        "desc": "Aldehydes - Serum - Special Sample  (ALDS_H)"
+      },
+      {
+        "code": "ALD_H",
+        "desc": "Aldehydes - Serum  (ALD_H)"
+      },
+      {
+        "code": "AMDGDS_H",
+        "desc": "Acrylamide & Glycidamide - Special Sample (AMDGDS_H)"
+      },
+      {
+        "code": "AMDGYD_H",
+        "desc": "Acrylamide & Glycidamide  (AMDGYD_H)"
+      },
+      {
+        "code": "APOB_H",
+        "desc": "Apolipoprotein B (ApoB_H)"
+      },
+      {
+        "code": "BFRPOL_H",
+        "desc": "Brominated Flame Retardants (BFRs) - Pooled Samples (BFRPOL_H)"
+      },
+      {
+        "code": "BIOPRO_H",
+        "desc": "Standard Biochemistry Profile (BIOPRO_H)"
+      },
+      {
+        "code": "BPQ_H",
+        "desc": "Blood Pressure & Cholesterol (BPQ_H)"
+      },
+      {
+        "code": "CAFE_H",
+        "desc": "Caffeine & Caffeine Metabolites - Urine (CAFE_H)"
+      },
+      {
+        "code": "CBQ_H",
+        "desc": "Consumer Behavior (CBQ_H)"
+      },
+      {
+        "code": "CFQ_H",
+        "desc": "Cognitive Functioning  (CFQ_H)"
+      },
+      {
+        "code": "CHLMDA_H",
+        "desc": "Chlamydia - Urine (CHLMDA_H)"
+      },
+      {
+        "code": "CKQ_H",
+        "desc": "Creatine Kinase (CKQ_H)"
+      },
+      {
+        "code": "COT_H",
+        "desc": "Cotinine and Hydroxycotinine - Serum (COT_H)"
+      },
+      {
+        "code": "CSQ_H",
+        "desc": "Taste & Smell (CSQ_H)"
+      },
+      {
+        "code": "CSX_H",
+        "desc": "Taste & Smell (CSX_H)"
+      },
+      {
+        "code": "CUSEZN_H",
+        "desc": "Copper, Selenium & Zinc - Serum (CUSEZN_H)"
+      },
+      {
+        "code": "DEET_H",
+        "desc": "DEET and Metabolites (DEET_H)"
+      },
+      {
+        "code": "DEQ_H",
+        "desc": "Dermatology (DEQ_H)"
+      },
+      {
+        "code": "DIQ_H",
+        "desc": "Diabetes (DIQ_H)"
+      },
+      {
+        "code": "DLQ_H",
+        "desc": "Disability (DLQ_H)"
+      },
+      {
+        "code": "DPQ_H",
+        "desc": "Mental Health - Depression Screener (DPQ_H)"
+      },
+      {
+        "code": "DRXFCD_H",
+        "desc": "Dietary Interview Technical Support File - Food Codes (DRXFCD_H)"
+      },
+      {
+        "code": "DS1IDS_H",
+        "desc": "Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day (DS1IDS_H)"
+      },
+      {
+        "code": "DS1TOT_H",
+        "desc": "Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day  (DS1TOT_H)"
+      },
+      {
+        "code": "DS2IDS_H",
+        "desc": "Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day (DS2IDS_H)"
+      },
+      {
+        "code": "DS2TOT_H",
+        "desc": "Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day  (DS2TOT_H)"
+      },
+      {
+        "code": "DSQIDS_H",
+        "desc": "Dietary Supplement Use 30-Day - Individual Dietary Supplements  (DSQIDS_H)"
+      },
+      {
+        "code": "DSQTOT_H",
+        "desc": "Dietary Supplement Use 30-Day - Total Dietary Supplements  (DSQTOT_H)"
+      },
+      {
+        "code": "DUQ_H",
+        "desc": "Drug Use (DUQ_H)"
+      },
+      {
+        "code": "DXXAAC_H",
+        "desc": "Dual-Energy X-ray Absorptiometry - Abdominal Aortic Calcification (DXXAAC_H)"
+      },
+      {
+        "code": "DXXAG_H",
+        "desc": "Dual-Energy X-ray Absorptiometry - Android/Gynoid Measurements  (DXXAG_H)"
+      },
+      {
+        "code": "DXXFEM_H",
+        "desc": "Dual-Energy X-ray Absorptiometry - Femur (DXXFEM_H)"
+      },
+      {
+        "code": "DXXFRX_H",
+        "desc": "Dual-Energy X-ray Absorptiometry - FRAX Score (DXXFRX_H)"
+      },
+      {
+        "code": "DXXL1_H",
+        "desc": "Dual-Energy X-ray Absorptiometry - L1 Vertebrae Morphology  (DXXL1_H)"
+      },
+      {
+        "code": "DXXL2_H",
+        "desc": "Dual-Energy X-ray Absorptiometry - L2 Vertebrae Morphology  (DXXL2_H)"
+      },
+      {
+        "code": "DXXL3_H",
+        "desc": "Dual-Energy X-ray Absorptiometry - L3 Vertebrae Morphology  (DXXL3_H)"
+      },
+      {
+        "code": "DXXL4_H",
+        "desc": "Dual-Energy X-ray Absorptiometry - L4 Vertebrae Morphology  (DXXL4_H)"
+      },
+      {
+        "code": "DXXSPN_H",
+        "desc": "Dual-Energy X-ray Absorptiometry - Spine (DXXSPN_H)"
+      },
+      {
+        "code": "DXXT10_H",
+        "desc": "Dual-Energy X-ray Absorptiometry - T10 Vertebrae Morphology  (DXXT10_H)"
+      },
+      {
+        "code": "DXXT11_H",
+        "desc": "Dual-Energy X-ray Absorptiometry - T11 Vertebrae Morphology  (DXXT11_H)"
+      },
+      {
+        "code": "DXXT12_H",
+        "desc": "Dual-Energy X-ray Absorptiometry - T12 Vertebrae Morphology  (DXXT12_H)"
+      },
+      {
+        "code": "DXXT4_H",
+        "desc": "Dual-Energy X-ray Absorptiometry - T4 Vertebrae Morphology  (DXXT4_H)"
+      },
+      {
+        "code": "DXXT5_H",
+        "desc": "Dual-Energy X-ray Absorptiometry - T5 Vertebrae Morphology (DXXT5_H)"
+      },
+      {
+        "code": "DXXT6_H",
+        "desc": "Dual-Energy X-ray Absorptiometry - T6 Vertebrae Morphology  (DXXT6_H)"
+      },
+      {
+        "code": "DXXT7_H",
+        "desc": "Dual-Energy X-ray Absorptiometry - T7 Vertebrae Morphology  (DXXT7_H)"
+      },
+      {
+        "code": "DXXT8_H",
+        "desc": "Dual-Energy X-ray Absorptiometry - T8 Vertebrae Morphology  (DXXT8_H)"
+      },
+      {
+        "code": "DXXT9_H",
+        "desc": "Dual-Energy X-ray Absorptiometry - T9 Vertebrae Morphology  (DXXT9_H)"
+      },
+      {
+        "code": "DXXVFA_H",
+        "desc": "Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment (DXXVFA_H)"
+      },
+      {
+        "code": "DXX_H",
+        "desc": "Dual-Energy X-ray Absorptiometry - Whole Body  (DXX_H)"
+      },
+      {
+        "code": "ECQ_H",
+        "desc": "Early Childhood (ECQ_H)"
+      },
+      {
+        "code": "EPHPP_H",
+        "desc": "Personal Care and Consumer Product Chemicals and Metabolites  (EPHPP_H)"
+      },
+      {
+        "code": "ETHOXS_H",
+        "desc": "Ethylene Oxide - Special Sample (ETHOXS_H)"
+      },
+      {
+        "code": "ETHOX_H",
+        "desc": "Ethylene Oxide (ETHOX_H)"
+      },
+      {
+        "code": "FASTQX_H",
+        "desc": "Fasting Questionnaire (FASTQX_H)"
+      },
+      {
+        "code": "FAS_H",
+        "desc": "Fatty Acids - Serum  (FAS_H)"
+      },
+      {
+        "code": "FLDEP_H",
+        "desc": "Fluoride - Plasma (FLDEP_H)"
+      },
+      {
+        "code": "FLDEW_H",
+        "desc": "Fluoride - Water (FLDEW_H)"
+      },
+      {
+        "code": "FLXCLN_H",
+        "desc": "Fluorosis - Clinical  (FLXCLN_H)"
+      },
+      {
+        "code": "FOLATE_H",
+        "desc": "Folate - RBC (FOLATE_H)"
+      },
+      {
+        "code": "FOLFMS_H",
+        "desc": "Folate Forms - Total & Individual - Serum (FOLFMS_H)"
+      },
+      {
+        "code": "FORMAL_H",
+        "desc": "Formaldehyde (FORMAL_H)"
+      },
+      {
+        "code": "FORMAS_H",
+        "desc": "Formaldehyde - Special Sample (FORMAS_H)"
+      },
+      {
+        "code": "FSQ_H",
+        "desc": "Food Security (FSQ_H)"
+      },
+      {
+        "code": "GHB_H",
+        "desc": "Glycohemoglobin (GHB_H)"
+      },
+      {
+        "code": "GLU_H",
+        "desc": "Plasma Fasting Glucose (GLU_H)"
+      },
+      {
+        "code": "HCAAS_H",
+        "desc": "Heterocyclic Aromatic Amines (HCAA) - Urine - Special Sample (HCAAS_H)"
+      },
+      {
+        "code": "HCAA_H",
+        "desc": "Heterocyclic Aromatic Amines - Urine  (HCAA_H)"
+      },
+      {
+        "code": "HEPA_H",
+        "desc": "Hepatitis A (HEPA_H)"
+      },
+      {
+        "code": "HEPBD_H",
+        "desc": "Hepatitis B: core antibody, surface antigen, and Hepatitis D antibody  (HEPBD_H)"
+      },
+      {
+        "code": "HEPB_S_H",
+        "desc": "Hepatitis B: Surface Antibody (HEPB_S_H)"
+      },
+      {
+        "code": "HEPC_H",
+        "desc": "Hepatitis C: RNA (HCV-RNA) and Hepatitis C Genotype (HEPC_H)"
+      },
+      {
+        "code": "HEPE_H",
+        "desc": "Hepatitis E: IgG & IgM Antibodies (HEPE_H)"
+      },
+      {
+        "code": "HEQ_H",
+        "desc": "Hepatitis (HEQ_H)"
+      },
+      {
+        "code": "HIQ_H",
+        "desc": "Health Insurance (HIQ_H)"
+      },
+      {
+        "code": "HIV_H",
+        "desc": "HIV Antibody Test (HIV_H)"
+      },
+      {
+        "code": "HOQ_H",
+        "desc": "Housing Characteristics (HOQ_H)"
+      },
+      {
+        "code": "HPVP_H",
+        "desc": "Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array (HPVP_H)"
+      },
+      {
+        "code": "HPVSWR_H",
+        "desc": "Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array (HPVSWR_H)"
+      },
+      {
+        "code": "HSV_H",
+        "desc": "Herpes Simplex Virus Type-1 & Type-2 (HSV_H)"
+      },
+      {
+        "code": "HUQ_H",
+        "desc": "Hospital Utilization & Access to Care (HUQ_H)"
+      },
+      {
+        "code": "IHGEM_H",
+        "desc": "Mercury: Inorganic, Ethyl and Methyl - Blood (IHGEM_H)"
+      },
+      {
+        "code": "IMQ_H",
+        "desc": "Immunization (IMQ_H)"
+      },
+      {
+        "code": "INQ_H",
+        "desc": "Income (INQ_H)"
+      },
+      {
+        "code": "INS_H",
+        "desc": "Insulin (INS_H)"
+      },
+      {
+        "code": "KIQ_U_H",
+        "desc": "Kidney Conditions - Urology (KIQ_U_H)"
+      },
+      {
+        "code": "MCQ_H",
+        "desc": "Medical Conditions (MCQ_H)"
+      },
+      {
+        "code": "MGX_H",
+        "desc": "Muscle Strength - Grip Test (MGX_H)"
+      },
+      {
+        "code": "MMA_H",
+        "desc": "Methylmalonic Acid (MMA_H)"
+      },
+      {
+        "code": "OCQ_H",
+        "desc": "Occupation (OCQ_H)"
+      },
+      {
+        "code": "OGTT_H",
+        "desc": "Oral Glucose Tolerance Test (OGTT_H)"
+      },
+      {
+        "code": "OHQ_H",
+        "desc": "Oral Health (OHQ_H)"
+      },
+      {
+        "code": "OHXDEN_H",
+        "desc": "Oral Health - Dentition (OHXDEN_H)"
+      },
+      {
+        "code": "OHXPER_H",
+        "desc": "Oral Health - Periodontal  (OHXPER_H)"
+      },
+      {
+        "code": "OHXREF_H",
+        "desc": "Oral Health - Recommendation of Care  (OHXREF_H)"
+      },
+      {
+        "code": "ORHPV_H",
+        "desc": "Human Papillomavirus (HPV) - Oral Rinse (ORHPV_H)"
+      },
+      {
+        "code": "OSQ_H",
+        "desc": "Osteoporosis (OSQ_H)"
+      },
+      {
+        "code": "PAH_H",
+        "desc": "Polycyclic Aromatic Hydrocarbons (PAH) - Urine (PAH_H)"
+      },
+      {
+        "code": "PAQ_H",
+        "desc": "Physical Activity (PAQ_H)"
+      },
+      {
+        "code": "PAXDAY_H",
+        "desc": "Physical Activity Monitor - Day (PAXDAY_H)"
+      },
+      {
+        "code": "PAXHD_H",
+        "desc": "Physical Activity Monitor - Header (PAXHD_H)"
+      },
+      {
+        "code": "PAXHR_H",
+        "desc": "Physical Activity Monitor - Hour (PAXHR_H)"
+      },
+      {
+        "code": "PBCD_H",
+        "desc": "Lead, Cadmium, Total Mercury, Selenium, and Manganese - Blood (PBCD_H)"
+      },
+      {
+        "code": "PCBPOL_H",
+        "desc": "Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples  (PCBPOL_H)"
+      },
+      {
+        "code": "PERNTS_H",
+        "desc": "Perchlorate, Nitrate & Thiocyanate - Urine - Special Sample (PERNTS_H)"
+      },
+      {
+        "code": "PERNT_H",
+        "desc": "Perchlorate, Nitrate & Thiocyanate - Urine (PERNT_H)"
+      },
+      {
+        "code": "PFAS_H",
+        "desc": "Perfluoroalkyl and Polyfluoroalkyl Substances (formerly Polyfluoroalkyl Chemicals - PFC)   (PFAS_H)"
+      },
+      {
+        "code": "PFQ_H",
+        "desc": "Physical Functioning (PFQ_H)"
+      },
+      {
+        "code": "PHTHTE_H",
+        "desc": "Phthalates and Plasticizers Metabolites - Urine  (PHTHTE_H)"
+      },
+      {
+        "code": "POOLTF_H",
+        "desc": "Pooled-Sample Technical Support File  (POOLTF_H)"
+      },
+      {
+        "code": "PSTPOL_H",
+        "desc": "Pesticides - Organochlorine Pesticides - Pooled Samples (PSTPOL_H)"
+      },
+      {
+        "code": "PUQMEC_H",
+        "desc": "Pesticide Use (PUQMEC_H)"
+      },
+      {
+        "code": "RHQ_H",
+        "desc": "Reproductive Health (RHQ_H)"
+      },
+      {
+        "code": "RXQASA_H",
+        "desc": "Preventive Aspirin Use (RXQASA_H)"
+      },
+      {
+        "code": "RXQ_RX_H",
+        "desc": "Prescription Medications (RXQ_RX_H)"
+      },
+      {
+        "code": "SLQ_H",
+        "desc": "Sleep Disorders (SLQ_H)"
+      },
+      {
+        "code": "SSCT_H",
+        "desc": "Chlamydia Pgp3 (plasmid gene product 3) ELISA (enzyme linked immunosorbent assay) and multiplex bead array (MBA) results  (SSCT_H)"
+      },
+      {
+        "code": "SSFLRT_H",
+        "desc": "Flame Retardant Metabolites - Urine (Surplus) (SSFLRT_H)"
+      },
+      {
+        "code": "SSGLYP_H",
+        "desc": "Glyphosate (GLYP) - Urine (SSGLYP_H)"
+      },
+      {
+        "code": "SSHEPC_H",
+        "desc": "Hepatitis C: Confirmed Antibody (INNO-LIA)  (SSHEPC_H)"
+      },
+      {
+        "code": "SSKL_H",
+        "desc": "Klotho - Serum (Surplus) (SSKL_H)"
+      },
+      {
+        "code": "SSPFAC_H",
+        "desc": "Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age (SSPFAC_H)"
+      },
+      {
+        "code": "SSPFAS_H",
+        "desc": "Perfluoroalkyl and Polyfluoroalkyl Substances - Linear and Branched PFOS and PFOA Isomers (Surplus) (SSPFAS_H)"
+      },
+      {
+        "code": "SSPFSU_H",
+        "desc": "Perfluoroalkyl and Polyfluoroalkyl Substances  (SSPFSU_H)"
+      },
+      {
+        "code": "SSPHTE_H",
+        "desc": "Phthalates and Plasticizers Metabolites - Urine (Surplus) (SSPHTE_H)"
+      },
+      {
+        "code": "SSSNFL_H",
+        "desc": "Serum Neurofilament Light Chain - Serum (SSSNFL_H)"
+      },
+      {
+        "code": "SSTERP_H",
+        "desc": "Terpenes – Serum (Surplus)  (SSTERP_H)"
+      },
+      {
+        "code": "SSTOCA_H",
+        "desc": "Antibody to Toxocara spp. (Surplus) (SSTOCA_H)"
+      },
+      {
+        "code": "SSTOXO_H",
+        "desc": "Toxoplasma gondii Antibody - Serum (Surplus) (SSTOXO_H)"
+      },
+      {
+        "code": "SXQ_H",
+        "desc": "Sexual Behavior (SXQ_H)"
+      },
+      {
+        "code": "TGEMA_H",
+        "desc": "Tissue Transglutaminase Assay (IgA-TTG) & IgA Endomyseal Antibody Assay (IgA EMA) (TGEMA_H)"
+      },
+      {
+        "code": "TRICH_H",
+        "desc": "Trichomonas - Urine (TRICH_H)"
+      },
+      {
+        "code": "TRIGLY_H",
+        "desc": "Cholesterol - LDL & Triglycerides (TRIGLY_H)"
+      },
+      {
+        "code": "TSNA_H",
+        "desc": "Tobacco-specific Nitrosamines (TSNAs) - Urine (TSNA_H)"
+      },
+      {
+        "code": "TST_H",
+        "desc": "Sex Steroid Hormone - Serum (TST_H)"
+      },
+      {
+        "code": "UASS_H",
+        "desc": "Arsenics - Speciated - Urine - Special Sample (UASS_H)"
+      },
+      {
+        "code": "UAS_H",
+        "desc": "Arsenics - Speciated - Urine (UAS_H)"
+      },
+      {
+        "code": "UCFLOW_H",
+        "desc": "Urine Flow Rate (UCFLOW_H)"
+      },
+      {
+        "code": "UCOTS_H",
+        "desc": "Cotinine, Hydroxycotinine, & Other Nicotine Metabolites and Analogs - Urine - Special Sample (UCOTS_H)"
+      },
+      {
+        "code": "UCOT_H",
+        "desc": "Cotinine, Hydroxycotinine, & Other Nicotine Metabolites and Analogs - Urine (UCOT_H)"
+      },
+      {
+        "code": "UCPREG_H",
+        "desc": "Pregnancy Test - Urine (UCPREG_H)"
+      },
+      {
+        "code": "UHG_H",
+        "desc": "Mercury: Inorganic - Urine (UHG_H)"
+      },
+      {
+        "code": "UIO_H",
+        "desc": "Iodine - Urine (UIO_H)"
+      },
+      {
+        "code": "UMS_H",
+        "desc": "Metals - Urine - Special Sample (UMS_H)"
+      },
+      {
+        "code": "UM_H",
+        "desc": "Metals - Urine (UM_H)"
+      },
+      {
+        "code": "UPHOPM_H",
+        "desc": "Pyrethroids, Herbicides, & Organophosphorus Metabolites - Urine (UPHOPM_H)"
+      },
+      {
+        "code": "UTASS_H",
+        "desc": "Arsenic - Total - Urine - Special Sample (UTASS_H)"
+      },
+      {
+        "code": "UTAS_H",
+        "desc": "Arsenic - Total - Urine (UTAS_H)"
+      },
+      {
+        "code": "UVOCS_H",
+        "desc": "Volatile Organic Compound (VOC) Metabolites - Urine - Special Sample (UVOCS_H)"
+      },
+      {
+        "code": "UVOC_H",
+        "desc": "Volatile Organic Compound (VOC) Metabolites - Urine (UVOC_H)"
+      },
+      {
+        "code": "VID_H",
+        "desc": "Vitamin D (VID_H)"
+      },
+      {
+        "code": "VITB12_H",
+        "desc": "Vitamin B12 (VITB12_H)"
+      },
+      {
+        "code": "VNAS_H",
+        "desc": "Volatile N-Nitrosamine Compounds (VNAs) - Urine - Special Sample (VNAS_H)"
+      },
+      {
+        "code": "VNA_H",
+        "desc": "Volatile N-Nitrosamine Compounds (VNAs) - Urine  (VNA_H)"
+      },
+      {
+        "code": "VOCWBS_H",
+        "desc": "Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample (VOCWBS_H)"
+      },
+      {
+        "code": "VOCWB_H",
+        "desc": "Volatile Organic Compounds and Trihalomethanes/MTBE - Blood (VOCWB_H)"
+      },
+      {
+        "code": "VTQ_H",
+        "desc": "Volatile Toxicant (VTQ_H)"
+      },
+      {
+        "code": "WHQMEC_H",
+        "desc": "Weight History - Youth (WHQMEC_H)"
+      },
+      {
+        "code": "WHQ_H",
+        "desc": "Weight History (WHQ_H)"
+      }
+    ],
+    "Laboratory": [
+      {
+        "code": "ALB_CR_H",
+        "desc": "Albumin & Creatinine - Urine (ALB_CR_H)"
+      },
+      {
+        "code": "CBC_H",
+        "desc": "Complete Blood Count with 5-part Differential - Whole Blood (CBC_H)"
+      },
+      {
+        "code": "HDL_H",
+        "desc": "Cholesterol - HDL (HDL_H)"
+      },
+      {
+        "code": "TCHOL_H",
+        "desc": "Cholesterol - Total (TCHOL_H)"
+      }
+    ],
+    "Questionnaire": [
+      {
+        "code": "ALQ_H",
+        "desc": "Alcohol Use (ALQ_H)"
+      },
+      {
+        "code": "CDQ_H",
+        "desc": "Cardiovascular Health (CDQ_H)"
+      },
+      {
+        "code": "HSQ_H",
+        "desc": "Current Health Status (HSQ_H)"
+      },
+      {
+        "code": "SMQFAM_H",
+        "desc": "Smoking - Household Smokers (SMQFAM_H)"
+      },
+      {
+        "code": "SMQRTU_H",
+        "desc": "Smoking - Recent Tobacco Use (SMQRTU_H)"
+      },
+      {
+        "code": "SMQSHS_H",
+        "desc": "Smoking - Secondhand Smoke Exposure (SMQSHS_H)"
+      },
+      {
+        "code": "SMQ_H",
+        "desc": "Smoking - Cigarette Use (SMQ_H)"
+      }
+    ],
+    "Examination": [
+      {
+        "code": "BMX_H",
+        "desc": "Body Measures (BMX_H)"
+      },
+      {
+        "code": "BPX_H",
+        "desc": "Blood Pressure (BPX_H)"
+      }
+    ],
+    "Dietary": [
+      {
+        "code": "DBQ_H",
+        "desc": "Diet Behavior & Nutrition (DBQ_H)"
+      },
+      {
+        "code": "DR1IFF_H",
+        "desc": "Dietary Interview - Individual Foods, First Day (DR1IFF_H)"
+      },
+      {
+        "code": "DR1TOT_H",
+        "desc": "Dietary Interview - Total Nutrient Intakes, First Day (DR1TOT_H)"
+      },
+      {
+        "code": "DR2IFF_H",
+        "desc": "Dietary Interview - Individual Foods, Second Day (DR2IFF_H)"
+      },
+      {
+        "code": "DR2TOT_H",
+        "desc": "Dietary Interview - Total Nutrient Intakes, Second Day (DR2TOT_H)"
+      }
+    ],
+    "Demographics": [
+      {
+        "code": "DEMO_H",
+        "desc": "Demographic Variables and Sample Weights (DEMO_H)"
+      }
+    ]
+  },
+  "Unknown": {
+    "Other": [
+      {
+        "code": "ACQ",
+        "desc": "Acculturation (ACQ)"
+      },
+      {
+        "code": "AUQ",
+        "desc": "Audiometry (AUQ)"
+      },
+      {
+        "code": "AUX1",
+        "desc": "Audiometry (AUX1)"
+      },
+      {
+        "code": "AUXAR",
+        "desc": "Audiometry - Acoustic Reflex (AUXAR)"
+      },
+      {
+        "code": "AUXTYM",
+        "desc": "Audiometry - Tympanometry (AUXTYM)"
+      },
+      {
+        "code": "BAQ",
+        "desc": "Balance (BAQ)"
+      },
+      {
+        "code": "BAX",
+        "desc": "Balance (BAX)"
+      },
+      {
+        "code": "BIX",
+        "desc": "Bioelectrical Impedance Analysis (BIX)"
+      },
+      {
+        "code": "BPQ",
+        "desc": "Blood Pressure & Cholesterol (BPQ)"
+      },
+      {
+        "code": "CFQ",
+        "desc": "Cognitive Functioning (CFQ)"
+      },
+      {
+        "code": "CIQGAD",
+        "desc": "Mental Health - Generalized Anxiety Disorder (CIQGAD)"
+      },
+      {
+        "code": "CIQMDEP",
+        "desc": "Mental Health - Depression (CIQMDEP)"
+      },
+      {
+        "code": "CIQPANIC",
+        "desc": "Mental Health - Panic Disorder (CIQPANIC)"
+      },
+      {
+        "code": "CVX",
+        "desc": "Cardiovascular Fitness (CVX)"
+      },
+      {
+        "code": "DEQ",
+        "desc": "Dermatology (DEQ)"
+      },
+      {
+        "code": "DIQ",
+        "desc": "Diabetes (DIQ)"
+      },
+      {
+        "code": "DRXFMT",
+        "desc": "Dietary Interview Technical Support File - Food Code Format File (DRXFMT)"
+      },
+      {
+        "code": "DRXIFF",
+        "desc": "Dietary Interview - Individual Foods (DRXIFF)"
+      },
+      {
+        "code": "DRXTOT",
+        "desc": "Dietary Interview - Total Nutrient Intakes (DRXTOT)"
+      },
+      {
+        "code": "DSBI",
+        "desc": "Dietary Supplement Database - Blend Information (DSBI)"
+      },
+      {
+        "code": "DSII",
+        "desc": "Dietary Supplement Database - Ingredient Information (DSII)"
+      },
+      {
+        "code": "DSPI",
+        "desc": "Dietary Supplement Database - Product Information (DSPI)"
+      },
+      {
+        "code": "DSQFILE1",
+        "desc": "Dietary Supplement Use 30-Day - File 1, Supplement Counts (DSQFILE1)"
+      },
+      {
+        "code": "DSQFILE2",
+        "desc": "Dietary Supplement Use 30-Day - File 2, Participant's Use of Supplements (DSQFILE2)"
+      },
+      {
+        "code": "DUQ",
+        "desc": "Drug Use (DUQ)"
+      },
+      {
+        "code": "ECQ",
+        "desc": "Early Childhood (ECQ)"
+      },
+      {
+        "code": "FSQ",
+        "desc": "Food Security (FSQ)"
+      },
+      {
+        "code": "HIQ",
+        "desc": "Health Insurance (HIQ)"
+      },
+      {
+        "code": "HOQ",
+        "desc": "Housing Characteristics (HOQ)"
+      },
+      {
+        "code": "HUQ",
+        "desc": "Hospital Utilization & Access to Care (HUQ)"
+      },
+      {
+        "code": "IMQ",
+        "desc": "Immunization (IMQ)"
+      },
+      {
+        "code": "KIQ",
+        "desc": "Kidney Conditions (KIQ)"
+      },
+      {
+        "code": "L02HBS",
+        "desc": "Hepatitis B Surface Antibody (L02HBS)"
+      },
+      {
+        "code": "L02HPA_A",
+        "desc": "Hepatitis A Antibody (L02HPA_a)"
+      },
+      {
+        "code": "LEXABPI",
+        "desc": "Lower Extremity Disease - Ankle Brachial Blood Pressure Index (LEXABPI)"
+      },
+      {
+        "code": "LEXPN",
+        "desc": "Lower Extremity Disease - Peripheral Neuropathy (LEXPN)"
+      },
+      {
+        "code": "MCQ",
+        "desc": "Medical Conditions (MCQ)"
+      },
+      {
+        "code": "MPQ",
+        "desc": "Miscellaneous Pain (MPQ)"
+      },
+      {
+        "code": "MSX",
+        "desc": "Muscle Strength (MSX)"
+      },
+      {
+        "code": "OCQ",
+        "desc": "Occupation (OCQ)"
+      },
+      {
+        "code": "OHQ",
+        "desc": "Oral Health (OHQ)"
+      },
+      {
+        "code": "OHXDENT",
+        "desc": "Oral Health - Dentition (OHXDENT)"
+      },
+      {
+        "code": "OHXPERIO",
+        "desc": "Oral Health - Periodontal (OHXPERIO)"
+      },
+      {
+        "code": "OHXREF",
+        "desc": "Oral Health - Recommendation of Care (OHXREF)"
+      },
+      {
+        "code": "OSQ",
+        "desc": "Osteoporosis (OSQ)"
+      },
+      {
+        "code": "PAQ",
+        "desc": "Physical Activity (PAQ)"
+      },
+      {
+        "code": "PAQIAF",
+        "desc": "Physical Activity - Individual Activities (PAQIAF)"
+      },
+      {
+        "code": "PFC_POOL",
+        "desc": "Polyfluoroalkyl Chemicals - Pooled Samples (Surplus) (PFC_Pool)"
+      },
+      {
+        "code": "PFQ",
+        "desc": "Physical Functioning (PFQ)"
+      },
+      {
+        "code": "PH",
+        "desc": "Fasting Questionnaire (PH)"
+      },
+      {
+        "code": "PHPYPA",
+        "desc": "Phthalates, Phytoestrogens & PAHs - Urine PHPYPA Urinary Phthalates (PHPYPA)"
+      },
+      {
+        "code": "PUQ",
+        "desc": "Pesticide Use (PUQ)"
+      },
+      {
+        "code": "P_ACQ",
+        "desc": "Acculturation (P_ACQ)"
+      },
+      {
+        "code": "P_ALB_CR",
+        "desc": "Albumin & Creatinine - Urine (P_ALB_CR)"
+      },
+      {
+        "code": "P_ALQ",
+        "desc": "Alcohol Use (P_ALQ)"
+      },
+      {
+        "code": "P_AUQ",
+        "desc": "Audiometry (P_AUQ)"
+      },
+      {
+        "code": "P_AUX",
+        "desc": "Audiometry (P_AUX)"
+      },
+      {
+        "code": "P_AUXAR",
+        "desc": "Audiometry - Acoustic Reflex (P_AUXAR)"
+      },
+      {
+        "code": "P_AUXTYM",
+        "desc": "Audiometry - Tympanometry  (P_AUXTYM)"
+      },
+      {
+        "code": "P_AUXWBR",
+        "desc": "Audiometry - Wideband Reflectance (P_AUXWBR)"
+      },
+      {
+        "code": "P_BIOPRO",
+        "desc": "Standard Biochemistry Profile (P_BIOPRO)"
+      },
+      {
+        "code": "P_BMX",
+        "desc": "Body Measures  (P_BMX)"
+      },
+      {
+        "code": "P_BPQ",
+        "desc": "Blood Pressure & Cholesterol (P_BPQ)"
+      },
+      {
+        "code": "P_BPXO",
+        "desc": "Blood Pressure - Oscillometric Measurement  (P_BPXO)"
+      },
+      {
+        "code": "P_CBC",
+        "desc": "Complete Blood Count with 5-Part Differential in Whole Blood (P_CBC)"
+      },
+      {
+        "code": "P_CBQPFA",
+        "desc": "Consumer Behavior Phone Follow-up Module - Adult (P_CBQPFA)"
+      },
+      {
+        "code": "P_CBQPFC",
+        "desc": "Consumer Behavior Phone Follow-up Module – Child (P_CBQPFC)"
+      },
+      {
+        "code": "P_CDQ",
+        "desc": "Cardiovascular Health (P_CDQ)"
+      },
+      {
+        "code": "P_CMV",
+        "desc": "Cytomegalovirus IgG & IgM Antibodies - Serum (P_CMV)"
+      },
+      {
+        "code": "P_COT",
+        "desc": "Cotinine and Hydroxycotinine - Serum (P_COT)"
+      },
+      {
+        "code": "P_CRCO",
+        "desc": "Chromium & Cobalt (P_CRCO)"
+      },
+      {
+        "code": "P_DBQ",
+        "desc": "Diet Behavior & Nutrition (P_DBQ)"
+      },
+      {
+        "code": "P_DEMO",
+        "desc": "Demographic Variables and Sample Weights (P_DEMO)"
+      },
+      {
+        "code": "P_DEQ",
+        "desc": "Dermatology (P_DEQ)"
+      },
+      {
+        "code": "P_DIQ",
+        "desc": "Diabetes (P_DIQ)"
+      },
+      {
+        "code": "P_DPQ",
+        "desc": "Mental Health - Depression Screener (P_DPQ)"
+      },
+      {
+        "code": "P_DR1IFF",
+        "desc": "Dietary Interview - Individual Foods, First Day (P_DR1IFF)"
+      },
+      {
+        "code": "P_DR1TOT",
+        "desc": "Dietary Interview - Total Nutrient Intakes, First Day (P_DR1TOT)"
+      },
+      {
+        "code": "P_DR2IFF",
+        "desc": "Dietary Interview - Individual Foods, Second Day (P_DR2IFF)"
+      },
+      {
+        "code": "P_DR2TOT",
+        "desc": "Dietary Interview - Total Nutrient Intakes, Second Day (P_DR2TOT)"
+      },
+      {
+        "code": "P_DRXFCD",
+        "desc": "Dietary Interview Technical Support File - Food Codes (P_DRXFCD)"
+      },
+      {
+        "code": "P_DS1IDS",
+        "desc": "Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day (P_DS1IDS)"
+      },
+      {
+        "code": "P_DS1TOT",
+        "desc": "Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day (P_DS1TOT)"
+      },
+      {
+        "code": "P_DS2IDS",
+        "desc": "Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day (P_DS2IDS)"
+      },
+      {
+        "code": "P_DS2TOT",
+        "desc": "Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day (P_DS2TOT)"
+      },
+      {
+        "code": "P_DSQIDS",
+        "desc": "Dietary Supplement Use 30-Day - Individual Dietary Supplements (P_DSQIDS)"
+      },
+      {
+        "code": "P_DSQTOT",
+        "desc": "Dietary Supplement Use 30-Day - Total Dietary Supplements (P_DSQTOT)"
+      },
+      {
+        "code": "P_DXXFEM",
+        "desc": "Dual-Energy X-ray Absorptiometry - Femur  (P_DXXFEM)"
+      },
+      {
+        "code": "P_DXXSPN",
+        "desc": "Dual-Energy X-ray Absorptiometry - Spine  (P_DXXSPN)"
+      },
+      {
+        "code": "P_ECQ",
+        "desc": "Early Childhood (P_ECQ)"
+      },
+      {
+        "code": "P_ETHOX",
+        "desc": "Ethylene Oxide (P_ETHOX)"
+      },
+      {
+        "code": "P_FASTQX",
+        "desc": "Fasting Questionnaire  (P_FASTQX)"
+      },
+      {
+        "code": "P_FERTIN",
+        "desc": "Ferritin (P_FERTIN)"
+      },
+      {
+        "code": "P_FETIB",
+        "desc": "Iron Status - Serum (P_FETIB)"
+      },
+      {
+        "code": "P_FOLATE",
+        "desc": "Folate - RBC (P_FOLATE)"
+      },
+      {
+        "code": "P_FOLFMS",
+        "desc": "Folate Forms - Total & Individual - Serum (P_FOLFMS)"
+      },
+      {
+        "code": "P_FR",
+        "desc": "Flame Retardants - Urine (P_FR)"
+      },
+      {
+        "code": "P_FSQ",
+        "desc": "Food Security (P_FSQ)"
+      },
+      {
+        "code": "P_GHB",
+        "desc": "Glycohemoglobin (P_GHB)"
+      },
+      {
+        "code": "P_GLU",
+        "desc": "Plasma Fasting Glucose (P_GLU)"
+      },
+      {
+        "code": "P_HDL",
+        "desc": "Cholesterol - High - Density Lipoprotein (HDL) (P_HDL)"
+      },
+      {
+        "code": "P_HEPA",
+        "desc": "Hepatitis A (P_HEPA)"
+      },
+      {
+        "code": "P_HEPBD",
+        "desc": "Hepatitis B: Core antibody, Surface antigen, and Hepatitis D antibody  (P_HEPBD)"
+      },
+      {
+        "code": "P_HEPB_S",
+        "desc": "Hepatitis B Surface Antibody (P_HEPB_S)"
+      },
+      {
+        "code": "P_HEPC",
+        "desc": "Hepatitis C: RNA (HCV-RNA), Confirmed Antibody (INNO-LIA), & Genotype (P_HEPC)"
+      },
+      {
+        "code": "P_HEPE",
+        "desc": "Hepatitis E: IgG & IgM Antibodies (P_HEPE)"
+      },
+      {
+        "code": "P_HEQ",
+        "desc": "Hepatitis (P_HEQ)"
+      },
+      {
+        "code": "P_HIQ",
+        "desc": "Health Insurance (P_HIQ)"
+      },
+      {
+        "code": "P_HSCRP",
+        "desc": "High-Sensitivity C-Reactive Protein (P_HSCRP)"
+      },
+      {
+        "code": "P_HSQ",
+        "desc": "Current Health Status (P_HSQ)"
+      },
+      {
+        "code": "P_HUQ",
+        "desc": "Hospital Utilization & Access to Care (P_HUQ)"
+      },
+      {
+        "code": "P_IHGEM",
+        "desc": "Inorganic, Ethyl and Methyl - Blood  (P_IHGEM)"
+      },
+      {
+        "code": "P_IMQ",
+        "desc": "Immunization (P_IMQ)"
+      },
+      {
+        "code": "P_INQ",
+        "desc": "Income (P_INQ)"
+      },
+      {
+        "code": "P_INS",
+        "desc": "Insulin (P_INS)"
+      },
+      {
+        "code": "P_KIQ_U",
+        "desc": "Kidney Conditions - Urology (P_KIQ_U)"
+      },
+      {
+        "code": "P_LUX",
+        "desc": "Liver Ultrasound Transient Elastography  (P_LUX)"
+      },
+      {
+        "code": "P_MCQ",
+        "desc": "Medical Conditions (P_MCQ)"
+      },
+      {
+        "code": "P_OCQ",
+        "desc": "Occupation (P_OCQ)"
+      },
+      {
+        "code": "P_OHQ",
+        "desc": "Oral Health (P_OHQ)"
+      },
+      {
+        "code": "P_OHXDEN",
+        "desc": "Oral Health - Dentition  (P_OHXDEN)"
+      },
+      {
+        "code": "P_OHXREF",
+        "desc": "Oral Health - Recommendation of Care   (P_OHXREF)"
+      },
+      {
+        "code": "P_OPD",
+        "desc": "Organophosphate Insecticides - Dialkyl Phosphate Metabolites - Urine (P_OPD)"
+      },
+      {
+        "code": "P_OSQ",
+        "desc": "Osteoporosis (P_OSQ)"
+      },
+      {
+        "code": "P_PAQ",
+        "desc": "Physical Activity (P_PAQ)"
+      },
+      {
+        "code": "P_PAQY",
+        "desc": "Physical Activity - Youth (P_PAQY)"
+      },
+      {
+        "code": "P_PBCD",
+        "desc": "Lead, Cadmium, Total Mercury, Selenium, & Manganese - Blood  (P_PBCD)"
+      },
+      {
+        "code": "P_PERNT",
+        "desc": "Perchlorate, Nitrate & Thiocyanate - Urine (P_PERNT)"
+      },
+      {
+        "code": "P_PFAS",
+        "desc": "Perfluoroalkyl and Polyfluoroalkyl Substances (P_PFAS)"
+      },
+      {
+        "code": "P_PUQMEC",
+        "desc": "Pesticide Use (P_PUQMEC)"
+      },
+      {
+        "code": "P_RHQ",
+        "desc": "Reproductive Health (P_RHQ)"
+      },
+      {
+        "code": "P_RXQASA",
+        "desc": "Preventive Aspirin Use (P_RXQASA)"
+      },
+      {
+        "code": "P_RXQ_RX",
+        "desc": "Prescription Medications (P_RXQ_RX)"
+      },
+      {
+        "code": "P_SLQ",
+        "desc": "Sleep Disorders (P_SLQ)"
+      },
+      {
+        "code": "P_SMQ",
+        "desc": "Smoking - Cigarette Use (P_SMQ)"
+      },
+      {
+        "code": "P_SMQFAM",
+        "desc": "Smoking - Household Smokers (P_SMQFAM)"
+      },
+      {
+        "code": "P_SMQRTU",
+        "desc": "Smoking - Recent Tobacco Use (P_SMQRTU)"
+      },
+      {
+        "code": "P_SMQSHS",
+        "desc": "Smoking - Secondhand Smoke Exposure (P_SMQSHS)"
+      },
+      {
+        "code": "P_SSAGP",
+        "desc": "Alpha-1-Acid Glycoprotein - Serum (Surplus)  (P_SSAGP)"
+      },
+      {
+        "code": "P_SSFR",
+        "desc": "Flame Retardants - Urine (Surplus) (P_SSFR)"
+      },
+      {
+        "code": "P_TCHOL",
+        "desc": "Cholesterol - Total (P_TCHOL)"
+      },
+      {
+        "code": "P_TFR",
+        "desc": "Transferrin Receptor  (P_TFR)"
+      },
+      {
+        "code": "P_TRIGLY",
+        "desc": "Cholesterol - Low-Density Lipoproteins (LDL) & Triglycerides (P_TRIGLY)"
+      },
+      {
+        "code": "P_TST",
+        "desc": "Sex Steroid Hormone Panel - Serum (P_TST)"
+      },
+      {
+        "code": "P_UAS",
+        "desc": "Arsenics - Speciated - Urine (P_UAS)"
+      },
+      {
+        "code": "P_UCFLOW",
+        "desc": "Urine Flow Rate (P_UCFLOW)"
+      },
+      {
+        "code": "P_UCM",
+        "desc": "Chromium - Urine  (P_UCM)"
+      },
+      {
+        "code": "P_UCPREG",
+        "desc": "Urine Pregnancy Test (P_UCPREG)"
+      },
+      {
+        "code": "P_UHG",
+        "desc": "Mercury: Inorganic - Urine (P_UHG)"
+      },
+      {
+        "code": "P_UIO",
+        "desc": "Iodine - Urine (P_UIO)"
+      },
+      {
+        "code": "P_UM",
+        "desc": "Metals - Urine (P_UM)"
+      },
+      {
+        "code": "P_UNI",
+        "desc": "Nickel - Urine (P_UNI)"
+      },
+      {
+        "code": "P_UTAS",
+        "desc": "Arsenic - Total - Urine  (P_UTAS)"
+      },
+      {
+        "code": "P_UVOC",
+        "desc": "Volatile Organic Compound (VOC) Metabolites - Urine (P_UVOC)"
+      },
+      {
+        "code": "P_UVOC2",
+        "desc": "Volatile Organic Compound (VOC) Metabolites II - Urine (P_UVOC2)"
+      },
+      {
+        "code": "P_VOCWB",
+        "desc": "Volatile Organic Compounds and Trihalomethanes/MTBE - Blood (P_VOCWB)"
+      },
+      {
+        "code": "P_VTQ",
+        "desc": "Volatile Toxicant (P_VTQ)"
+      },
+      {
+        "code": "P_WHQ",
+        "desc": "Weight History (P_WHQ)"
+      },
+      {
+        "code": "P_WHQMEC",
+        "desc": "Weight History - Youth (P_WHQMEC)"
+      },
+      {
+        "code": "RDQ",
+        "desc": "Respiratory Health (RDQ)"
+      },
+      {
+        "code": "RHQ",
+        "desc": "Reproductive Health (RHQ)"
+      },
+      {
+        "code": "RXQ_ANA",
+        "desc": "Analgesic Pain Relievers (RXQ_ANA)"
+      },
+      {
+        "code": "RXQ_DRUG",
+        "desc": "Prescription Medications - Drug Information (RXQ_DRUG)"
+      },
+      {
+        "code": "RXQ_RX",
+        "desc": "Prescription Medications (RXQ_RX)"
+      },
+      {
+        "code": "SEQ",
+        "desc": "Shared Exclusion Questions (SEQ)"
+      },
+      {
+        "code": "SSAFB_A",
+        "desc": "Aflatoxin B1-lysine - Serum (Surplus) (SSAFB_A)"
+      },
+      {
+        "code": "SSAMH_A",
+        "desc": "Anti-Mullerian Hormone (AMH) & Inhibin-B (Surplus) (SSAMH_A)"
+      },
+      {
+        "code": "SSANA2_A",
+        "desc": "Autoantibodies - Immunofluorescence Analyses (Surplus) (SSANA2_A)"
+      },
+      {
+        "code": "SSANA_A",
+        "desc": "Autoantibodies - Immunofluorescence & Immunoprecipitation Analyses (Surplus) (SSANA_A)"
+      },
+      {
+        "code": "SSBNP_A",
+        "desc": "N-terminal Pro-BNP (Surplus) (SSBNP_A)"
+      },
+      {
+        "code": "SSCAFE_A",
+        "desc": "Caffeine & Caffeine Metabolites - Urine (Surplus) (SSCAFE_A)"
+      },
+      {
+        "code": "SSCARD_A",
+        "desc": "Glycated albumin, Beta-2 Microglobulin, Cystatin C (Surplus) (SSCARD_A)"
+      },
+      {
+        "code": "SSCHL_A",
+        "desc": "Sex Steroid Hormone - Men (Surplus) (SSCHL_A)"
+      },
+      {
+        "code": "SSCMVG_A",
+        "desc": "Cytomegalovirus Genotypes - Urine (Surplus) (SSCMVG_A)"
+      },
+      {
+        "code": "SSCMV_A",
+        "desc": "Cytomegalovirus Antibodies - Serum (Surplus) (SSCMV_A)"
+      },
+      {
+        "code": "SSCYST_A",
+        "desc": "Cystatin C - Serum (Surplus) (SSCYST_A)"
+      },
+      {
+        "code": "SSDFS_A",
+        "desc": "Autoantibodies - Anti-DFS70 Autoantibody Analyses (Surplus) (SSDFS_A)"
+      },
+      {
+        "code": "SSFOL_A",
+        "desc": "Folic Acid - Unmetabolized (Surplus) (SSFOL_A)"
+      },
+      {
+        "code": "SSHSV1_A",
+        "desc": "Herpes Simplex Virus Type-1 (Surplus) (SSHSV1_A)"
+      },
+      {
+        "code": "SSMUMP_A",
+        "desc": "Mumps Antibody - Serum (Surplus) (SSMUMP_A)"
+      },
+      {
+        "code": "SSNH4THY",
+        "desc": "Thyroid Profile (Surplus) (SSNH4THY)"
+      },
+      {
+        "code": "SSNORO_A",
+        "desc": "Norovirus antibody - Serum  (SSNORO_A)"
+      },
+      {
+        "code": "SSOL_A",
+        "desc": "Monoclonal gammopathy of undetermined significance (MGUS) (Surplus) (SSOL_A)"
+      },
+      {
+        "code": "SSPFC_A",
+        "desc": "Perfluoroalkyl Chemicals - Serum (Surplus) (SSPFC_A)"
+      },
+      {
+        "code": "SSQ",
+        "desc": "Social Support (SSQ)"
+      },
+      {
+        "code": "SSTFR_A",
+        "desc": "Transferrin Receptor - Pregnant Women (Surplus) (SSTFR_A)"
+      },
+      {
+        "code": "SSTROP_A",
+        "desc": "High-sensitivity cardiac troponins (Surplus)  (SSTROP_A)"
+      },
+      {
+        "code": "SSUCSH_A",
+        "desc": "Cytomegalovirus shedding - Urine (Surplus) (SSUCSH_A)"
+      },
+      {
+        "code": "SSVARI_A",
+        "desc": "Varicella-Zoster Virus Antibody (Surplus) (SSVARI_A)"
+      },
+      {
+        "code": "SXQ",
+        "desc": "Sexual Behavior (SXQ)"
+      },
+      {
+        "code": "TB",
+        "desc": "Tuberculosis (TB)"
+      },
+      {
+        "code": "TBQ",
+        "desc": "Tuberculosis (TBQ)"
+      },
+      {
+        "code": "TELO_A",
+        "desc": "Telomere Mean and Standard Deviation (Surplus) (TELO_A)"
+      },
+      {
+        "code": "TFA_A",
+        "desc": "Trans Fatty Acids (TFA_A)"
+      },
+      {
+        "code": "UC",
+        "desc": "Pregnancy Test - Urine (UC)"
+      },
+      {
+        "code": "VIQ",
+        "desc": "Vision (VIQ)"
+      },
+      {
+        "code": "VIX",
+        "desc": "Vision (VIX)"
+      },
+      {
+        "code": "WHQ",
+        "desc": "Weight History (WHQ)"
+      }
+    ],
+    "Questionnaire": [
+      {
+        "code": "ALQ",
+        "desc": "Alcohol Use (ALQ)"
+      },
+      {
+        "code": "CDQ",
+        "desc": "Cardiovascular Health (CDQ)"
+      },
+      {
+        "code": "HSQ",
+        "desc": "Current Health Status (HSQ)"
+      },
+      {
+        "code": "SMQ",
+        "desc": "Smoking - Cigarette/Tobacco Use - Adult (SMQ)"
+      },
+      {
+        "code": "SMQFAM",
+        "desc": "Smoking - Household Smokers (SMQFAM)"
+      },
+      {
+        "code": "SMQMEC",
+        "desc": "Smoking - Adult Recent Tobacco Use & Youth Cigarette/Tobacco Use (SMQMEC)"
+      }
+    ],
+    "Examination": [
+      {
+        "code": "BMX",
+        "desc": "Body Measures (BMX)"
+      },
+      {
+        "code": "BPX",
+        "desc": "Blood Pressure (BPX)"
+      }
+    ],
+    "Dietary": [
+      {
+        "code": "DBQ",
+        "desc": "Diet Behavior & Nutrition (DBQ)"
+      }
+    ],
+    "Demographics": [
+      {
+        "code": "DEMO",
+        "desc": "Demographic Variables & Sample Weights (DEMO)"
+      }
+    ],
+    "Laboratory": [
+      {
+        "code": "LAB02",
+        "desc": "Hepatitis B: Core Antibody & Surface Antigen; Hepatitis C: Confirmed Antibody & RNA (HCV-RNA); Hepatitis D Antibody (Lab02)"
+      },
+      {
+        "code": "LAB03",
+        "desc": "HIV Antibody Test, CD4+ T Lymphocytes & CD8+ T Cells (LAB03)"
+      },
+      {
+        "code": "LAB04",
+        "desc": "Volatile Organic Compounds - Blood & Water (LAB04)"
+      },
+      {
+        "code": "LAB05",
+        "desc": "Chlamydia & Gonorrhea - Urine (LAB05)"
+      },
+      {
+        "code": "LAB06",
+        "desc": "Cadmium, Lead, Mercury, Cotinine & Nutritional Biochemistries (LAB06)"
+      },
+      {
+        "code": "LAB06HM",
+        "desc": "Metals - Urine (LAB06HM)"
+      },
+      {
+        "code": "LAB07",
+        "desc": "Latex (LAB07)"
+      },
+      {
+        "code": "LAB09",
+        "desc": "Herpes Simplex Virus Type-1 & Type-2 (lab09)"
+      },
+      {
+        "code": "LAB10",
+        "desc": "Glycohemoglobin (LAB10)"
+      },
+      {
+        "code": "LAB10AM",
+        "desc": "Plasma Fasting Glucose, Serum C-peptide & Insulin (LAB10AM)"
+      },
+      {
+        "code": "LAB11",
+        "desc": "C-Reactive Protein (CRP) (LAB11)"
+      },
+      {
+        "code": "LAB13",
+        "desc": "Cholesterol - Total & HDL (Lab13)"
+      },
+      {
+        "code": "LAB13AM",
+        "desc": "Cholesterol - LDL & Triglycerides (LAB13AM)"
+      },
+      {
+        "code": "LAB16",
+        "desc": "Albumin & Creatinine - Urine (LAB16)"
+      },
+      {
+        "code": "LAB17",
+        "desc": "Cryptosporidum & Toxoplasma (LAB17)"
+      },
+      {
+        "code": "LAB18",
+        "desc": "Standard Biochemistry Profile & Hormones (LAB18)"
+      },
+      {
+        "code": "LAB18T4",
+        "desc": "Thyroid - Stimulating Hormone & Thyroxine (TSH & T4) (LAB18T4)"
+      },
+      {
+        "code": "LAB19",
+        "desc": "Measles, Rubella, & Varicella (LAB19)"
+      },
+      {
+        "code": "LAB20",
+        "desc": "Lead - Dust (LAB20)"
+      },
+      {
+        "code": "LAB21",
+        "desc": "Volatile Organic Compounds (VOC) - Personal Exposure Badge (LAB21)"
+      },
+      {
+        "code": "LAB22",
+        "desc": "Mercury - Hair (LAB22)"
+      },
+      {
+        "code": "LAB25",
+        "desc": "Complete Blood Count with 5-part Differential - Whole Blood (LAB25)"
+      },
+      {
+        "code": "LAB26PP",
+        "desc": "Pesticides - Current Use - Urine (Formerly Priority Pesticides, Non-persistent Pesticide Metabolites) (LAB26PP)"
+      },
+      {
+        "code": "LAB28POC",
+        "desc": "Dioxins, Furans, & Coplanar PCBs (LAB28POC)"
+      }
+    ]
+  },
+  "2001-2002": {
+    "Other": [
+      {
+        "code": "ACQ_B",
+        "desc": "Acculturation (ACQ_B)"
+      },
+      {
+        "code": "AUQ_B",
+        "desc": "Audiometry (AUQ_B)"
+      },
+      {
+        "code": "AUXAR_B",
+        "desc": "Audiometry - Acoustic Reflex (AUXAR_B)"
+      },
+      {
+        "code": "AUXTYM_B",
+        "desc": "Audiometry - Tympanometry (AUXTYM_B)"
+      },
+      {
+        "code": "AUX_B",
+        "desc": "Audiometry (AUX_B)"
+      },
+      {
+        "code": "BAQ_B",
+        "desc": "Balance (BAQ_B)"
+      },
+      {
+        "code": "BAX_B",
+        "desc": "Balance (BAX_B)"
+      },
+      {
+        "code": "BIX_B",
+        "desc": "Bioelectrical Impedance Analysis (BIX_B)"
+      },
+      {
+        "code": "BPQ_B",
+        "desc": "Blood Pressure & Cholesterol (BPQ_B)"
+      },
+      {
+        "code": "CFQ_B",
+        "desc": "Cognitive Functioning (CFQ_B)"
+      },
+      {
+        "code": "CIQDEP_B",
+        "desc": "Mental Health - Depression (CIQDEP_B)"
+      },
+      {
+        "code": "CIQGAD_B",
+        "desc": "Mental Health - Generalized Anxiety Disorder (CIQGAD_B)"
+      },
+      {
+        "code": "CIQPAN_B",
+        "desc": "Mental Health - Panic Disorder (CIQPAN_B)"
+      },
+      {
+        "code": "CVX_B",
+        "desc": "Cardiovascular Fitness (CVX_B)"
+      },
+      {
+        "code": "DEQ_B",
+        "desc": "Dermatology (DEQ_B)"
+      },
+      {
+        "code": "DIQ_B",
+        "desc": "Diabetes (DIQ_B)"
+      },
+      {
+        "code": "DRXFMT_B",
+        "desc": "Dietary Interview Technical Support File - Food Code Format File (DRXFMT_B)"
+      },
+      {
+        "code": "DRXIFF_B",
+        "desc": "Dietary Interview - Individual Foods (DRXIFF_B)"
+      },
+      {
+        "code": "DRXTOT_B",
+        "desc": "Dietary Interview - Total Nutrient Intakes (DRXTOT_B)"
+      },
+      {
+        "code": "DSQ1_B",
+        "desc": "Dietary Supplement Use 30-Day - File 1, Supplement Counts (DSQ1_B)"
+      },
+      {
+        "code": "DSQ2_B",
+        "desc": "Dietary Supplement Use 30-Day - File 2, Participant's Use of Supplements (DSQ2_B)"
+      },
+      {
+        "code": "DUQ_B",
+        "desc": "Drug Use (DUQ_B)"
+      },
+      {
+        "code": "DXX_2_B",
+        "desc": "Dual-Energy X-ray Absorptiometry - Whole Body, Second Exam (DXX_2_B)"
+      },
+      {
+        "code": "ECQ_B",
+        "desc": "Early Childhood (ECQ_B)"
+      },
+      {
+        "code": "FSQ_B",
+        "desc": "Food Security (FSQ_B)"
+      },
+      {
+        "code": "HCQ_B",
+        "desc": "Hepatitis C Follow Up (HCQ_B)"
+      },
+      {
+        "code": "HIQ_B",
+        "desc": "Health Insurance (HIQ_B)"
+      },
+      {
+        "code": "HOQ_B",
+        "desc": "Housing Characteristics (HOQ_B)"
+      },
+      {
+        "code": "HUQ_B",
+        "desc": "Hospital Utilization & Access to Care (HUQ_B)"
+      },
+      {
+        "code": "IMQ_B",
+        "desc": "Immunization (IMQ_B)"
+      },
+      {
+        "code": "KIQ_P_B",
+        "desc": "Prostate Conditions (KIQ_P_B)"
+      },
+      {
+        "code": "KIQ_U_B",
+        "desc": "Kidney Conditions - Urology (KIQ_U_B)"
+      },
+      {
+        "code": "L02HBS_B",
+        "desc": "Hepatitis B Surface Antibody (L02HBS_B)"
+      },
+      {
+        "code": "L02HPA_B",
+        "desc": "Hepatitis A Antibody (L02HPA_B)"
+      },
+      {
+        "code": "L02_B",
+        "desc": "Hepatitis B: Core Antibody & Surface Antigen; Hepatitis C: Confirmed Antibody & RNA (HCV-RNA); Hepatitis D Antibody (L02_B)"
+      },
+      {
+        "code": "L03_B",
+        "desc": "HIV Antibody Test, CD4+ T Lymphocytes & CD8+ T Cells (L03_B)"
+      },
+      {
+        "code": "L04VOC_B",
+        "desc": "Volatile Organic Compounds - Blood & Water (L04VOC_B)"
+      },
+      {
+        "code": "L05_B",
+        "desc": "Chlamydia & Gonorrhea - Urine (L05_B)"
+      },
+      {
+        "code": "L06HM_B",
+        "desc": "Metals - Urine (L06HM_B)"
+      },
+      {
+        "code": "L06UIO_B",
+        "desc": "Iodine - Urine (L06UIO_B)"
+      },
+      {
+        "code": "L06VIT_B",
+        "desc": "Vitamin A, Vitamin E & Carotenoids (L06VIT_B)"
+      },
+      {
+        "code": "L06_2_B",
+        "desc": "Cadmium, Lead, Total Mercury, Ferritin, Serum Folate, RBC Folate, Vitamin B12, Homocysteine, Methylmalonic acid, Cotinine - Blood, Second Exam (L06_2_B)"
+      },
+      {
+        "code": "L06_B",
+        "desc": "Cadmium, Lead, Mercury, Cotinine & Nutritional Biochemistries (L06_B)"
+      },
+      {
+        "code": "L09_B",
+        "desc": "Herpes Simplex Virus Type-1 & Type-2 (l09_b)"
+      },
+      {
+        "code": "L10AM_B",
+        "desc": "Plasma Fasting Glucose, Serum C-peptide & Insulin (L10AM_B)"
+      },
+      {
+        "code": "L10_2_B",
+        "desc": "Glycohemoglobin, Plasma Glucose, Serum C-peptide, & Insulin, Second Exam (L10_2_B)"
+      },
+      {
+        "code": "L10_B",
+        "desc": "Glycohemoglobin (L10_B)"
+      },
+      {
+        "code": "L11PSA_B",
+        "desc": "Prostate specific antigen (PSA) (L11PSA_B)"
+      },
+      {
+        "code": "L11P_2_B",
+        "desc": "Prostate-specific Antigen (PSA), Second Exam (l11p_2_b)"
+      },
+      {
+        "code": "L11_2_B",
+        "desc": "C-Reactive Protein & Others, Second Exam (L11_2_b)"
+      },
+      {
+        "code": "L11_B",
+        "desc": "C-Reactive protein (CRP), Fibrinogen, Bone Alkaline Phosphatase & Urinary N-telopeptides (L11_B)"
+      },
+      {
+        "code": "L13AM_B",
+        "desc": "Cholesterol - LDL & Triglycerides (L13AM_B)"
+      },
+      {
+        "code": "L13_2_B",
+        "desc": "Cholesterol - Total, HDL, LDL  & Triglycerides, Second Exam (l13_2_b)"
+      },
+      {
+        "code": "L13_B",
+        "desc": "Cholesterol - Total & HDL (l13_b)"
+      },
+      {
+        "code": "L16_2_B",
+        "desc": "Creatinine & Albumin - Urine, Second Exam (L16_2_B)"
+      },
+      {
+        "code": "L16_B",
+        "desc": "Albumin & Creatinine - Urine (L16_B)"
+      },
+      {
+        "code": "L17_B",
+        "desc": "Toxoplasma (IgG), Toxoplasma (IgM),Toxoplasma (Dye),Toxoplasma Differential Agglutination, & Toxoplasma (Avidity) (L17_B)"
+      },
+      {
+        "code": "L19_2_B",
+        "desc": "Measles, Rubella, & Varicella, Second Exam (L19_2_B)"
+      },
+      {
+        "code": "L19_B",
+        "desc": "Measles, Rubella, & Varicella (L19_B)"
+      },
+      {
+        "code": "L20_B",
+        "desc": "Lead - Dust (L20_B)"
+      },
+      {
+        "code": "L25_2_B",
+        "desc": "Complete Blood Count with 5-part Differential - Whole Blood, Second Exam (l25_2_b)"
+      },
+      {
+        "code": "L25_B",
+        "desc": "Complete Blood Count with 5-part Differential - Whole Blood (L25_B)"
+      },
+      {
+        "code": "L26PP_B",
+        "desc": "Pesticides - Current Use - Urine (Formerly Priority Pesticides, Non-persistent Pesticide Metabolites) (l26PP_B)"
+      },
+      {
+        "code": "L28POC_B",
+        "desc": "Dioxins, Furans, & Coplanar PCBs (L28POC_B)"
+      },
+      {
+        "code": "L34_B",
+        "desc": "Bacterial vaginosis (BV) & Trichomonas vaginalis (l34_b)"
+      },
+      {
+        "code": "L35_B",
+        "desc": "Methicillin - Resistant Staphylococcus aureus (MRSA) (L35_B)"
+      },
+      {
+        "code": "L36_B",
+        "desc": "Syphilis-IgG, Syphilis Rapid Plasma Reagin (RPR) & Treponema pallidum Particle Agglutination (TP-PA) (L36_B)"
+      },
+      {
+        "code": "L39_2_B",
+        "desc": "Erythrocyte Protoporphyrin (l39_2_b)"
+      },
+      {
+        "code": "L39_B",
+        "desc": "Erythrocyte Protoporphyrin (L39_B)"
+      },
+      {
+        "code": "L40FE_B",
+        "desc": "Iron, Total Iron Binding Capacity (TIBC), & Transferrin Saturation (L40FE_B)"
+      },
+      {
+        "code": "L40T4_B",
+        "desc": "Thyroid - Stimulating Hormone & Thyroxine (TSH & T4) (L40T4_B)"
+      },
+      {
+        "code": "L40_2_B",
+        "desc": "Standard Biochemistry Profile, Follicle Stimulating Hormone & Luteinizing Hormone, Second Exam (L40_2_B)"
+      },
+      {
+        "code": "L40_B",
+        "desc": "Standard Biochemistry Profile (L40_B)"
+      },
+      {
+        "code": "LEXAB_B",
+        "desc": "Lower Extremity Disease - Ankle Brachial Blood Pressure Index (LEXAB_B)"
+      },
+      {
+        "code": "LEXPN_B",
+        "desc": "Lower Extremity Disease - Peripheral Neuropathy (LEXPN_B)"
+      },
+      {
+        "code": "MCQ_B",
+        "desc": "Medical Conditions (MCQ_B)"
+      },
+      {
+        "code": "MPQ_B",
+        "desc": "Miscellaneous Pain (MPQ_B)"
+      },
+      {
+        "code": "MSX_B",
+        "desc": "Muscle Strength (MSX_B)"
+      },
+      {
+        "code": "OCQ_B",
+        "desc": "Occupation (OCQ_B)"
+      },
+      {
+        "code": "OHQ_B",
+        "desc": "Oral Health (OHQ_B)"
+      },
+      {
+        "code": "OHXDEN_B",
+        "desc": "Oral Health - Dentition (OHXDEN_B)"
+      },
+      {
+        "code": "OHXPRL_B",
+        "desc": "Oral Health - Periodontal/Lower (OHXPRL_B)"
+      },
+      {
+        "code": "OHXPRU_B",
+        "desc": "Oral Health - Periodontal/Upper (OHXPRU_B)"
+      },
+      {
+        "code": "OHXREF_B",
+        "desc": "Oral Health - Recommendation of Care (OHXREF_B)"
+      },
+      {
+        "code": "OSQ_B",
+        "desc": "Osteoporosis (OSQ_B)"
+      },
+      {
+        "code": "PAQIAF_B",
+        "desc": "Physical Activity - Individual Activities (PAQIAF_B)"
+      },
+      {
+        "code": "PAQ_B",
+        "desc": "Physical Activity (PAQ_B)"
+      },
+      {
+        "code": "PFQ_B",
+        "desc": "Physical Functioning (PFQ_B)"
+      },
+      {
+        "code": "PHPYPA_B",
+        "desc": "Phthalates, Phytoestrogens & PAHs - Urine (PHPYPA_B)"
+      },
+      {
+        "code": "PH_B",
+        "desc": "Fasting Questionnaire (PH_B)"
+      },
+      {
+        "code": "PUQ_B",
+        "desc": "Pesticide Use (PUQ_B)"
+      },
+      {
+        "code": "RDQ_B",
+        "desc": "Respiratory Health (RDQ_B)"
+      },
+      {
+        "code": "RHQ_B",
+        "desc": "Reproductive Health (RHQ_B)"
+      },
+      {
+        "code": "RXQANA_B",
+        "desc": "Analgesic Pain Relievers (RXQANA_B)"
+      },
+      {
+        "code": "RXQ_RX_B",
+        "desc": "Prescription Medications (RXQ_RX_B)"
+      },
+      {
+        "code": "SSAMH_B",
+        "desc": "Anti-Mullerian Hormone (AMH) & Inhibin-B (Surplus) (SSAMH_B)"
+      },
+      {
+        "code": "SSBFR_B",
+        "desc": "Brominated Flame Retardants (BFRs) - Pooled Samples (Surplus) (SSBFR_B)"
+      },
+      {
+        "code": "SSCAFE_B",
+        "desc": "Caffeine & Caffeine Metabolites - Urine (Surplus) (SSCAFE_B)"
+      },
+      {
+        "code": "SSCA_B",
+        "desc": "Cancer antigen CA125 and CA15.3 - Serum (Surplus) (SSCA_B)"
+      },
+      {
+        "code": "SSCGA_B",
+        "desc": "Cancer antigen CA125, CA15.3 and HE4 IgG antibodies - Serum (Surplus)  (SSCGA_B)"
+      },
+      {
+        "code": "SSCHL_B",
+        "desc": "Sex Steroid Hormone - Men (Surplus) (SSCHL_B)"
+      },
+      {
+        "code": "SSCMV_B",
+        "desc": "Cytomegalovirus Antibodies - Serum (Surplus) (SSCMV_B)"
+      },
+      {
+        "code": "SSCYST_B",
+        "desc": "Cystatin C (Surplus) (SSCYST_B)"
+      },
+      {
+        "code": "SSHE4_B",
+        "desc": "Human epididymal secretory protein E4 (HE4) - Serum (Surplus)  (SSHE4_B)"
+      },
+      {
+        "code": "SSHSV1_B",
+        "desc": "Herpes Simplex Virus Type-1 (Surplus) (SSHSV1_B)"
+      },
+      {
+        "code": "SSMUMP_B",
+        "desc": "Mumps Antibody - Serum (Surplus) (SSMUMP_B)"
+      },
+      {
+        "code": "SSNO3P_B",
+        "desc": "Perchlorate, Nitrate & Thiocyanate - Urine (Surplus) (SSNO3P_B)"
+      },
+      {
+        "code": "SSOL_B",
+        "desc": "Monoclonal gammopathy of undetermined significance (MGUS) (Surplus) (SSOL_B)"
+      },
+      {
+        "code": "SSPCB_B",
+        "desc": "Non-dioxin-like Polychlorinated Biphenyls - Pooled Samples (Surplus Sera) (SSPCB_B)"
+      },
+      {
+        "code": "SSPST_B",
+        "desc": "Pesticides - Organochlorine Metabolites - Serum - Pooled Samples (Surplus) (SSPST_B)"
+      },
+      {
+        "code": "SSQ_B",
+        "desc": "Social Support (SSQ_B)"
+      },
+      {
+        "code": "SSTFR_B",
+        "desc": "Transferrin Receptor - Pregnant Women (Surplus) (SSTFR_B)"
+      },
+      {
+        "code": "SSVARI_B",
+        "desc": "Varicella-Zoster Virus Antibody (Surplus) (SSVARI_B)"
+      },
+      {
+        "code": "SXQ_B",
+        "desc": "Sexual Behavior (SXQ_B)"
+      },
+      {
+        "code": "TELO_B",
+        "desc": "Telomere Mean and Standard Deviation (Surplus) (TELO_B)"
+      },
+      {
+        "code": "UC_B",
+        "desc": "Pregnancy Test - Urine (UC_B)"
+      },
+      {
+        "code": "VIQ_B",
+        "desc": "Vision (VIQ_B)"
+      },
+      {
+        "code": "VIT_2_B",
+        "desc": "Vitamin A, Vitamin E, & Carotenoids, Second Exam (VIT_2_B)"
+      },
+      {
+        "code": "VIX_B",
+        "desc": "Vision (VIX_B)"
+      },
+      {
+        "code": "WHQ_B",
+        "desc": "Weight History (WHQ_B)"
+      }
+    ],
+    "Questionnaire": [
+      {
+        "code": "ALQ_B",
+        "desc": "Alcohol Use (ALQ_B)"
+      },
+      {
+        "code": "CDQ_B",
+        "desc": "Cardiovascular Health (CDQ_B)"
+      },
+      {
+        "code": "HSQ_B",
+        "desc": "Current Health Status (HSQ_B)"
+      },
+      {
+        "code": "SMQFAM_B",
+        "desc": "Smoking - Household Smokers (SMQFAM_B)"
+      },
+      {
+        "code": "SMQMEC_B",
+        "desc": "Smoking - Adult Recent Tobacco Use & Youth Cigarette/Tobacco Use (SMQMEC_B)"
+      },
+      {
+        "code": "SMQ_B",
+        "desc": "Smoking - Cigarette/Tobacco Use - Adult (SMQ_B)"
+      }
+    ],
+    "Examination": [
+      {
+        "code": "BMX_B",
+        "desc": "Body Measures (BMX_B)"
+      },
+      {
+        "code": "BPX_B",
+        "desc": "Blood Pressure (BPX_B)"
+      }
+    ],
+    "Dietary": [
+      {
+        "code": "DBQ_B",
+        "desc": "Diet Behavior & Nutrition (DBQ_B)"
+      }
+    ],
+    "Demographics": [
+      {
+        "code": "DEMO_B",
+        "desc": "Demographic Variables & Sample Weights (DEMO_B)"
+      }
+    ]
+  },
+  "2003-2004": {
+    "Other": [
+      {
+        "code": "ACQ_C",
+        "desc": "Acculturation (ACQ_C)"
+      },
+      {
+        "code": "AUQ_C",
+        "desc": "Audiometry (AUQ_C)"
+      },
+      {
+        "code": "AUXAR_C",
+        "desc": "Audiometry - Acoustic Reflex (AUXAR_C)"
+      },
+      {
+        "code": "AUXTYM_C",
+        "desc": "Audiometry - Tympanometry (AUXTYM_C)"
+      },
+      {
+        "code": "AUX_C",
+        "desc": "Audiometry (AUX_C)"
+      },
+      {
+        "code": "BAQ_C",
+        "desc": "Balance (BAQ_C)"
+      },
+      {
+        "code": "BAX_C",
+        "desc": "Balance (BAX_C)"
+      },
+      {
+        "code": "BIX_C",
+        "desc": "Bioelectrical Impedance Analysis (BIX_C)"
+      },
+      {
+        "code": "BPQ_C",
+        "desc": "Blood Pressure & Cholesterol (BPQ_C)"
+      },
+      {
+        "code": "CIQDEP_C",
+        "desc": "Mental Health - Depression (CIQDEP_C)"
+      },
+      {
+        "code": "CIQGAD_C",
+        "desc": "Mental Health - Generalized Anxiety Disorder (CIQGAD_C)"
+      },
+      {
+        "code": "CIQPAN_C",
+        "desc": "Mental Health - Panic Disorder (CIQPAN_C)"
+      },
+      {
+        "code": "CVX_C",
+        "desc": "Cardiovascular Fitness (CVX_C)"
+      },
+      {
+        "code": "DEQ_C",
+        "desc": "Dermatology (DEQ_C)"
+      },
+      {
+        "code": "DEX_C",
+        "desc": "Dermatology (DEX_C)"
+      },
+      {
+        "code": "DIQ_C",
+        "desc": "Diabetes (DIQ_C)"
+      },
+      {
+        "code": "DRXFCD_C",
+        "desc": "Dietary Interview Technical Support File - Food Codes (DRXFCD_C)"
+      },
+      {
+        "code": "DRXMCD_C",
+        "desc": "Dietary Interview Technical Support File - Modification Codes (DRXMCD_C)"
+      },
+      {
+        "code": "DSQ1_C",
+        "desc": "Dietary Supplement Use 30-Day - File 1, Supplement Counts (DSQ1_C)"
+      },
+      {
+        "code": "DSQ2_C",
+        "desc": "Dietary Supplement Use 30-Day - File 2, Participant's Use of Supplements (DSQ2_C)"
+      },
+      {
+        "code": "DUQ_C",
+        "desc": "Drug Use (DUQ_C)"
+      },
+      {
+        "code": "DXXAG_C",
+        "desc": "Dual Energy X-ray Absorptiometry - Android/Gynoid (DXXAG_C)"
+      },
+      {
+        "code": "ECQ_C",
+        "desc": "Early Childhood (ECQ_C)"
+      },
+      {
+        "code": "FFQDC_C",
+        "desc": "Food Frequency Questionnaire - Output from DietCalc Software (FFQDC_C)"
+      },
+      {
+        "code": "FFQRAW_C",
+        "desc": "Food Frequency Questionnaire - Raw Questionnaire Responses (FFQRAW_C)"
+      },
+      {
+        "code": "FOODLK_C",
+        "desc": "Food Frequency Questionnaire - Look-Up Table FOODLOOK (FOODLK_C)"
+      },
+      {
+        "code": "FSQ_C",
+        "desc": "Food Security (FSQ_C)"
+      },
+      {
+        "code": "HCQ_C",
+        "desc": "Hepatitis C Follow Up (HCQ_C)"
+      },
+      {
+        "code": "HIQ_C",
+        "desc": "Health Insurance (HIQ_C)"
+      },
+      {
+        "code": "HOQ_C",
+        "desc": "Housing Characteristics (HOQ_C)"
+      },
+      {
+        "code": "HUQ_C",
+        "desc": "Hospital Utilization & Access to Care (HUQ_C)"
+      },
+      {
+        "code": "IMQ_C",
+        "desc": "Immunization (IMQ_C)"
+      },
+      {
+        "code": "KIQ_P_C",
+        "desc": "Prostate Conditions (KIQ_P_C)"
+      },
+      {
+        "code": "KIQ_U_C",
+        "desc": "Kidney Conditions - Urology (KIQ_U_C)"
+      },
+      {
+        "code": "L02HBS_C",
+        "desc": "Hepatitis B Surface Antibody (L02HBS_C)"
+      },
+      {
+        "code": "L02HPA_C",
+        "desc": "Hepatitis A Antibody (L02HPA_C)"
+      },
+      {
+        "code": "L02_C",
+        "desc": "Hepatitis B: Core Antibody & Surface Antigen; Hepatitis C: Confirmed Antibody & RNA (HCV-RNA); Hepatitis D Antibody (L02_C)"
+      },
+      {
+        "code": "L03_C",
+        "desc": "HIV Antibody Test, CD4+ T Lymphocytes & CD8+ T Cells (L03_C)"
+      },
+      {
+        "code": "L04PER_C",
+        "desc": "Perchlorate - Urine (L04PER_C)"
+      },
+      {
+        "code": "L04VOC_C",
+        "desc": "Volatile Organic Compounds - Blood, Water, & Related Questionnaire Items  (L04VOC_C)"
+      },
+      {
+        "code": "L05_C",
+        "desc": "Chlamydia & Gonorrhea - Urine (L05_C)"
+      },
+      {
+        "code": "L06AGE_C",
+        "desc": "Acrylamide & Glycidamide (L06AGE_C)"
+      },
+      {
+        "code": "L06BMT_C",
+        "desc": "Cadmium, Lead, & Total Mercury - Blood (L06BMT_C)"
+      },
+      {
+        "code": "L06COT_C",
+        "desc": "Cotinine - Serum (L06COT_C)"
+      },
+      {
+        "code": "L06HM_C",
+        "desc": "Metals - Urine (L06HM_C)"
+      },
+      {
+        "code": "L06MH_C",
+        "desc": "Methylmalonic acid & Homocysteine (L06MH_C)"
+      },
+      {
+        "code": "L06NB_C",
+        "desc": "Folate - RBC & Serum, and Vitamin B12 (L06NB_C)"
+      },
+      {
+        "code": "L06PHY_C",
+        "desc": "Phytoestrogens - Urine (L06PHY_C)"
+      },
+      {
+        "code": "L06TFR_C",
+        "desc": "Ferritin & Transferrin Receptor (L06TFR_C)"
+      },
+      {
+        "code": "L06UAS_C",
+        "desc": "Arsenics - Total & Speciated - Urine (L06UAS_C)"
+      },
+      {
+        "code": "L06UHG_C",
+        "desc": "Mercury: Inorganic - Urine (L06UHG_C)"
+      },
+      {
+        "code": "L06UIO_C",
+        "desc": "Iodine - Urine (L06UIO_C)"
+      },
+      {
+        "code": "L06VIT_C",
+        "desc": "Vitamin C (L06VIT_C)"
+      },
+      {
+        "code": "L09_C",
+        "desc": "Herpes Simplex Virus Type-1 & Type-2 (l09_c)"
+      },
+      {
+        "code": "L10AM_C",
+        "desc": "Plasma Fasting Glucose, Serum C-peptide & Insulin (L10AM_C)"
+      },
+      {
+        "code": "L10_C",
+        "desc": "Glycohemoglobin (L10_C)"
+      },
+      {
+        "code": "L11PSA_C",
+        "desc": "Prostate Specific Antigen (PSA) (L11PSA_C)"
+      },
+      {
+        "code": "L11_C",
+        "desc": "C-Reactive Protein (CRP), Bone Alkaline Phosphatase (BAP) & Parathyroid Hormone (PTH) (L11_C)"
+      },
+      {
+        "code": "L13AM_C",
+        "desc": "Cholesterol - LDL & Triglycerides (L13AM_C)"
+      },
+      {
+        "code": "L13_C",
+        "desc": "Cholesterol - Total & HDL (l13_c)"
+      },
+      {
+        "code": "L16_C",
+        "desc": "Albumin & Creatinine - Urine (L16_C)"
+      },
+      {
+        "code": "L17_C",
+        "desc": "Toxoplasma (IgG) & Toxoplasma (IgM) (L17_C)"
+      },
+      {
+        "code": "L19_C",
+        "desc": "Measles, Rubella, & Varicella (L19_C)"
+      },
+      {
+        "code": "L20_C",
+        "desc": "Lead - Dust (L20_C)"
+      },
+      {
+        "code": "L24EPH_C",
+        "desc": "Environmental Phenols (L24EPH_C)"
+      },
+      {
+        "code": "L24PFC_C",
+        "desc": "Polyfluoroalkyl Chemicals (L24PFC_C)"
+      },
+      {
+        "code": "L24PH_C",
+        "desc": "Phthalates - Urine (L24PH_C)"
+      },
+      {
+        "code": "L24PP_C",
+        "desc": "Pesticides - Environmental - Urine (L24PP_C)"
+      },
+      {
+        "code": "L25_C",
+        "desc": "Complete Blood Count with 5-part Differential - Whole Blood (L25_C)"
+      },
+      {
+        "code": "L26OPD_C",
+        "desc": "Organophosphate Insecticides - Diakyl Phosphate Metabolites - Urine (L26OPD_C)"
+      },
+      {
+        "code": "L26UPP_C",
+        "desc": "Pesticides - Current Use - Urine (Formerly Priority Pesticides, Non-persistent Pesticide Metabolites) (L26UPP_C)"
+      },
+      {
+        "code": "L28DFP_C",
+        "desc": "Dioxins, Furans, & Coplanar PCBs (L28DFP_C)"
+      },
+      {
+        "code": "L28NPB_C",
+        "desc": "Non-dioxin-like Polychlorinated Biphenyls (L28NPB_C)"
+      },
+      {
+        "code": "L28OCP_C",
+        "desc": "Pesticides - Organochlorine Metabolites - Serum (Surplus) (L28OCP_C)"
+      },
+      {
+        "code": "L28PBE_C",
+        "desc": "Brominated Flame Retardants (BFRs) (L28PBE_C)"
+      },
+      {
+        "code": "L31PAH_C",
+        "desc": "Polyaromatic Hydrocarbons (PAHs) - Urine (L31PAH_C)"
+      },
+      {
+        "code": "L34_C",
+        "desc": "Bacterial vaginosis (BV) & Trichomonas vaginalis (l34_c)"
+      },
+      {
+        "code": "L35_C",
+        "desc": "Methicillin - Resistant Staphylococcus aureus (MRSA) (L35_C)"
+      },
+      {
+        "code": "L36_C",
+        "desc": "Syphilis-IgG, Syphilis Rapid Plasma Reagin (RPR) & Treponema pallidum Particle Agglutination (TP-PA) (L36_C)"
+      },
+      {
+        "code": "L37SWA_C",
+        "desc": "Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Prototype Line Blot Assay (L37SWA_C)"
+      },
+      {
+        "code": "L37SWR_C",
+        "desc": "Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Linear Array (L37SWR_C)"
+      },
+      {
+        "code": "L39EPP_C",
+        "desc": "Erythrocyte Protoporphyrin & Selenium (L39EPP_C)"
+      },
+      {
+        "code": "L40FE_C",
+        "desc": "Iron, Total Iron Binding Capacity (TIBC), & Transferrin Saturation (L40FE_C)"
+      },
+      {
+        "code": "L40_C",
+        "desc": "Standard Biochemistry Profile (L40_C)"
+      },
+      {
+        "code": "L43_C",
+        "desc": "Vitamin B6 (L43_C)"
+      },
+      {
+        "code": "L45VIT_C",
+        "desc": "Vitamin A, Vitamin E & Carotenoids (L45VIT_C)"
+      },
+      {
+        "code": "L52SER_C",
+        "desc": "Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody - Serum: 4-plex CLIA (L52SER_C)"
+      },
+      {
+        "code": "LEXAB_C",
+        "desc": "Lower Extremity Disease - Ankle Brachial Blood Pressure Index (LEXAB_C)"
+      },
+      {
+        "code": "LEXPN_C",
+        "desc": "Lower Extremity Disease - Peripheral Neuropathy (LEXPN_C)"
+      },
+      {
+        "code": "MCQ_C",
+        "desc": "Medical Conditions (MCQ_C)"
+      },
+      {
+        "code": "MPQ_C",
+        "desc": "Miscellaneous Pain (MPQ_C)"
+      },
+      {
+        "code": "OCQ_C",
+        "desc": "Occupation (OCQ_C)"
+      },
+      {
+        "code": "OHQ_C",
+        "desc": "Oral Health (OHQ_C)"
+      },
+      {
+        "code": "OHXADD_C",
+        "desc": "Oral Health - Addendum (OHXADD_C)"
+      },
+      {
+        "code": "OHXDEN_C",
+        "desc": "Oral Health - Dentition (OHXDEN_C)"
+      },
+      {
+        "code": "OHXPRL_C",
+        "desc": "Oral Health - Periodontal/Lower (OHXPRL_C)"
+      },
+      {
+        "code": "OHXPRU_C",
+        "desc": "Oral Health - Periodontal/Upper (OHXPRU_C)"
+      },
+      {
+        "code": "OHXREF_C",
+        "desc": "Oral Health - Recommendation of Care (OHXREF_C)"
+      },
+      {
+        "code": "OSQ_C",
+        "desc": "Osteoporosis (OSQ_C)"
+      },
+      {
+        "code": "PAQIAF_C",
+        "desc": "Physical Activity - Individual Activities (PAQIAF_C)"
+      },
+      {
+        "code": "PAQ_C",
+        "desc": "Physical Activity (PAQ_C)"
+      },
+      {
+        "code": "PFQ_C",
+        "desc": "Physical Functioning (PFQ_C)"
+      },
+      {
+        "code": "PH_C",
+        "desc": "Fasting Questionnaire (PH_C)"
+      },
+      {
+        "code": "PSQ_C",
+        "desc": "Prostate Specific Antigen Follow-up (PSQ_C)"
+      },
+      {
+        "code": "PUQ_C",
+        "desc": "Pesticide Use (PUQ_C)"
+      },
+      {
+        "code": "RDQ_C",
+        "desc": "Respiratory Health (RDQ_C)"
+      },
+      {
+        "code": "RHQ_C",
+        "desc": "Reproductive Health (RHQ_C)"
+      },
+      {
+        "code": "RXQANA_C",
+        "desc": "Analgesic Pain Relievers (RXQANA_C)"
+      },
+      {
+        "code": "RXQ_RX_C",
+        "desc": "Prescription Medications (RXQ_RX_C)"
+      },
+      {
+        "code": "SSAMH_C",
+        "desc": "Anti-Mullerian Hormone (AMH) & Inhibin-B (Surplus) (SSAMH_C)"
+      },
+      {
+        "code": "SSCHL_C",
+        "desc": "Sex Steroid Hormone - Men (Surplus) (SSCHL_C)"
+      },
+      {
+        "code": "SSCMV_C",
+        "desc": "Cytomegalovirus Antibodies - Serum (Surplus) (SSCMV_C)"
+      },
+      {
+        "code": "SSEBV_C",
+        "desc": "Epstein-Barr Virus (VCA IgG) - Serum (Surplus) (SSEBV_C)"
+      },
+      {
+        "code": "SSFA_C",
+        "desc": "Fatty Acids - Plasma (Surplus) (SSFA_C)"
+      },
+      {
+        "code": "SSHCVR_C",
+        "desc": "Hepatitis C RNA (HCV-RNA) & HCV Genotype (Surplus) (SSHCVR_C)"
+      },
+      {
+        "code": "SSMEL_C",
+        "desc": "Melamine - Urine (Surplus) (SSMEL_C)"
+      },
+      {
+        "code": "SSMUMP_C",
+        "desc": "Mumps Antibody - Serum (Surplus) (SSMUMP_C)"
+      },
+      {
+        "code": "SSNORO_C",
+        "desc": "Norovirus antibody - Serum  (SSNORO_C)"
+      },
+      {
+        "code": "SSOL_C",
+        "desc": "Monoclonal gammopathy of undetermined significance (MGUS) (Surplus) (SSOL_C)"
+      },
+      {
+        "code": "SSQFEV_C",
+        "desc": "Coxiella Burnetii (Q Fever) Antibodies - Serum (Surplus) (SSQFEV_C)"
+      },
+      {
+        "code": "SSQ_C",
+        "desc": "Social Support (SSQ_C)"
+      },
+      {
+        "code": "SSVARI_C",
+        "desc": "Varicella-Zoster Virus Antibody (Surplus) (SSVARI_C)"
+      },
+      {
+        "code": "SXQ_C",
+        "desc": "Sexual Behavior (SXQ_C)"
+      },
+      {
+        "code": "UC_C",
+        "desc": "Pregnancy Test - Urine (UC_C)"
+      },
+      {
+        "code": "VARLK_C",
+        "desc": "Food Frequency Questionnaire - Look-Up Table VARLOOK (VARLK_C)"
+      },
+      {
+        "code": "VIQ_C",
+        "desc": "Vision (VIQ_C)"
+      },
+      {
+        "code": "VIX_C",
+        "desc": "Vision (VIX_C)"
+      },
+      {
+        "code": "WHQ_C",
+        "desc": "Weight History (WHQ_C)"
+      }
+    ],
+    "Questionnaire": [
+      {
+        "code": "ALQ_C",
+        "desc": "Alcohol Use (ALQ_C)"
+      },
+      {
+        "code": "CDQ_C",
+        "desc": "Cardiovascular Health (CDQ_C)"
+      },
+      {
+        "code": "HSQ_C",
+        "desc": "Current Health Status (HSQ_C)"
+      },
+      {
+        "code": "SMQFAM_C",
+        "desc": "Smoking - Household Smokers (SMQFAM_C)"
+      },
+      {
+        "code": "SMQMEC_C",
+        "desc": "Smoking - Adult Recent Tobacco Use & Youth Cigarette/Tobacco Use (SMQMEC_C)"
+      },
+      {
+        "code": "SMQ_C",
+        "desc": "Smoking - Cigarette/Tobacco Use - Adult (SMQ_C)"
+      }
+    ],
+    "Examination": [
+      {
+        "code": "BMX_C",
+        "desc": "Body Measures (BMX_C)"
+      },
+      {
+        "code": "BPX_C",
+        "desc": "Blood Pressure (BPX_C)"
+      }
+    ],
+    "Dietary": [
+      {
+        "code": "DBQ_C",
+        "desc": "Diet Behavior & Nutrition (DBQ_C)"
+      },
+      {
+        "code": "DR1IFF_C",
+        "desc": "Dietary Interview - Individual Foods, First Day (DR1IFF_C)"
+      },
+      {
+        "code": "DR1TOT_C",
+        "desc": "Dietary Interview - Total Nutrient Intakes, First Day (DR1TOT_C)"
+      },
+      {
+        "code": "DR2IFF_C",
+        "desc": "Dietary Interview - Individual Foods, Second Day (DR2IFF_C)"
+      },
+      {
+        "code": "DR2TOT_C",
+        "desc": "Dietary Interview - Total Nutrient Intakes, Second Day (DR2TOT_C)"
+      }
+    ],
+    "Demographics": [
+      {
+        "code": "DEMO_C",
+        "desc": "Demographic Variables & Sample Weights (DEMO_C)"
+      }
+    ]
+  },
+  "2005-2006": {
+    "Other": [
+      {
+        "code": "ACQ_D",
+        "desc": "Acculturation (ACQ_D)"
+      },
+      {
+        "code": "AGQ_D",
+        "desc": "Allergy (AGQ_D)"
+      },
+      {
+        "code": "ALDUST_D",
+        "desc": "Allergens - Household Dust (ALDUST_D)"
+      },
+      {
+        "code": "AL_IGE_D",
+        "desc": "Allergen Specific IgE(s) & Total IgE - Serum (AL_IGE_D)"
+      },
+      {
+        "code": "AMDGYD_D",
+        "desc": "Acrylamide & Glycidamide (AMDGYD_D)"
+      },
+      {
+        "code": "AUQ_D",
+        "desc": "Audiometry (AUQ_D)"
+      },
+      {
+        "code": "AUXAR_D",
+        "desc": "Audiometry - Acoustic Reflex (AUXAR_D)"
+      },
+      {
+        "code": "AUXTYM_D",
+        "desc": "Audiometry - Tympanometry (AUXTYM_D)"
+      },
+      {
+        "code": "AUX_D",
+        "desc": "Audiometry (AUX_D)"
+      },
+      {
+        "code": "B12_D",
+        "desc": "Vitamin B12 (B12_D)"
+      },
+      {
+        "code": "BFRPOL_D",
+        "desc": "Brominated Flame Retardants (BFRs) - Pooled Samples (BFRPOL_D)"
+      },
+      {
+        "code": "BHQ_D",
+        "desc": "Bowel Health (BHQ_D)"
+      },
+      {
+        "code": "BIOPRO_D",
+        "desc": "Standard Biochemistry Profile (BIOPRO_D)"
+      },
+      {
+        "code": "BPQ_D",
+        "desc": "Blood Pressure & Cholesterol (BPQ_D)"
+      },
+      {
+        "code": "CARB_D",
+        "desc": "Pesticides - Carbamates & Organophosphorus Metabolites - Urine (CARB_D)"
+      },
+      {
+        "code": "CHLMDA_D",
+        "desc": "Chlamydia & Gonorrhea - Urine (CHLMDA_D)"
+      },
+      {
+        "code": "COT_D",
+        "desc": "Cotinine - Serum (COT_D)"
+      },
+      {
+        "code": "CRP_D",
+        "desc": "C-Reactive Protein (CRP) (CRP_D)"
+      },
+      {
+        "code": "DEQ_D",
+        "desc": "Dermatology (DEQ_D)"
+      },
+      {
+        "code": "DIQ_D",
+        "desc": "Diabetes (DIQ_D)"
+      },
+      {
+        "code": "DOXPOL_D",
+        "desc": "Polychlorinated dibenzo-p-dioxins (PCDDs), Dibenzofurans (PCDFs) & Coplanar Polychlorinated Biphenyls (cPCBs)  - Pooled Samples (DOXPOL_D)"
+      },
+      {
+        "code": "DPQ_D",
+        "desc": "Mental Health - Depression Screener (DPQ_D)"
+      },
+      {
+        "code": "DRXFCD_D",
+        "desc": "Dietary Interview Technical Support File - Food Codes (DRXFCD_D)"
+      },
+      {
+        "code": "DRXMCD_D",
+        "desc": "Dietary Interview Technical Support File - Modification Codes (DRXMCD_D)"
+      },
+      {
+        "code": "DSQ1_D",
+        "desc": "Dietary Supplement Use 30-Day - File 1, Supplement Counts (DSQ1_D)"
+      },
+      {
+        "code": "DSQ2_D",
+        "desc": "Dietary Supplement Use 30-Day - File 2, Participant's Use of Supplements (DSQ2_D)"
+      },
+      {
+        "code": "DUQ_D",
+        "desc": "Drug Use (DUQ_D)"
+      },
+      {
+        "code": "DXXAG_D",
+        "desc": "Dual Energy X-ray Absorptiometry - Android/Gynoid (DXXAG_D)"
+      },
+      {
+        "code": "DXXFEM_D",
+        "desc": "Dual Energy X-ray Absorptiometry - Femur (DXXFEM_D)"
+      },
+      {
+        "code": "DXXSPN_D",
+        "desc": "Dual Energy X-ray Absorptiometry - Spine (DXXSPN_D)"
+      },
+      {
+        "code": "ECQ_D",
+        "desc": "Early Childhood (ECQ_D)"
+      },
+      {
+        "code": "EPH_D",
+        "desc": "Environmental Phenols & Parabens (EPH_D)"
+      },
+      {
+        "code": "EPP_D",
+        "desc": "Erythrocyte Protoporphyrin (EPP_D)"
+      },
+      {
+        "code": "FASTQX_D",
+        "desc": "Fasting Questionnaire (FASTQX_D)"
+      },
+      {
+        "code": "FERTIN_D",
+        "desc": "Ferritin (FERTIN_D)"
+      },
+      {
+        "code": "FETIB_D",
+        "desc": "Iron, Total Iron Binding Capacity (TIBC), & Transferrin Saturation (FETIB_D)"
+      },
+      {
+        "code": "FFQDC_D",
+        "desc": "Food Frequency Questionnaire - Output from DietCalc Software (FFQDC_D)"
+      },
+      {
+        "code": "FFQRAW_D",
+        "desc": "Food Frequency Questionnaire - Raw Questionnaire Responses (FFQRAW_D)"
+      },
+      {
+        "code": "FOLATE_D",
+        "desc": "Folate - RBC & Serum (FOLATE_D)"
+      },
+      {
+        "code": "FOODLK_D",
+        "desc": "Food Frequency Questionnaire - Look-Up Table FOODLOOK (FOODLK_D)"
+      },
+      {
+        "code": "FSQ_D",
+        "desc": "Food Security (FSQ_D)"
+      },
+      {
+        "code": "GHB_D",
+        "desc": "Glycohemoglobin (GHB_D)"
+      },
+      {
+        "code": "GLU_D",
+        "desc": "Plasma Fasting Glucose & Insulin (GLU_D)"
+      },
+      {
+        "code": "HCQ_D",
+        "desc": "Hepatitis C Follow Up (HCQ_D)"
+      },
+      {
+        "code": "HCY_D",
+        "desc": "Homocysteine (HCY_D)"
+      },
+      {
+        "code": "HEPA_D",
+        "desc": "Hepatitis A Antibody (HEPA_D)"
+      },
+      {
+        "code": "HEPBD_D",
+        "desc": "Hepatitis B: Core Antibody, Surface Antigen; Hepatitis D Antibody (HEPBD_D)"
+      },
+      {
+        "code": "HEPB_S_D",
+        "desc": "Hepatitis B Surface Antibody (HEPB_S_D)"
+      },
+      {
+        "code": "HEPC_D",
+        "desc": "Hepatitis C: Confirmed Antibody, RNA (HCV-RNA), & Genotype (HEPC_D)"
+      },
+      {
+        "code": "HIQ_D",
+        "desc": "Health Insurance (HIQ_D)"
+      },
+      {
+        "code": "HIV_D",
+        "desc": "HIV Antibody Test, CD4+ T Lymphocytes & CD8+ T Cells (HIV_D)"
+      },
+      {
+        "code": "HOQ_D",
+        "desc": "Housing Characteristics (HOQ_D)"
+      },
+      {
+        "code": "HPVSER_D",
+        "desc": "Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody – Serum: 4-plex CLIA (HPVSER_D)"
+      },
+      {
+        "code": "HPVSRM_D",
+        "desc": "Human Papillomavirus (HPV) - Multiplexed 6, 11, 16, 18, 31, 33, 45, 52 & 58 Antibody – Serum: 9-plex CLIA  (HPVSRM_D)"
+      },
+      {
+        "code": "HPVSWR_D",
+        "desc": "Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array (HPVSWR_D)"
+      },
+      {
+        "code": "HSV_D",
+        "desc": "Herpes Simplex Virus Type-1 & Type-2 (HSV_D)"
+      },
+      {
+        "code": "HUQ_D",
+        "desc": "Hospital Utilization & Access to Care (HUQ_D)"
+      },
+      {
+        "code": "IHG_D",
+        "desc": "Mercury: Inorganic - Blood (IHg_D)"
+      },
+      {
+        "code": "IMQ_D",
+        "desc": "Immunization (IMQ_D)"
+      },
+      {
+        "code": "KIQ_P_D",
+        "desc": "Prostate Conditions (KIQ_P_D)"
+      },
+      {
+        "code": "KIQ_U_D",
+        "desc": "Kidney Conditions - Urology (KIQ_U_D)"
+      },
+      {
+        "code": "MCQ_D",
+        "desc": "Medical Conditions (MCQ_D)"
+      },
+      {
+        "code": "OCQ_D",
+        "desc": "Occupation (OCQ_D)"
+      },
+      {
+        "code": "OGTT_D",
+        "desc": "Oral Glucose Tolerance Test (OGTT_D)"
+      },
+      {
+        "code": "OHQ_D",
+        "desc": "Oral Health (OHQ_D)"
+      },
+      {
+        "code": "OHX_D",
+        "desc": "Oral Health (OHX_D)"
+      },
+      {
+        "code": "OPD_D",
+        "desc": "Organophosphate Insecticides - Diakyl Phosphate Metabolites - Urine (OPD_D)"
+      },
+      {
+        "code": "OPXFDT_D",
+        "desc": "Ophthalmology - Frequency Doubling Technology (OPXFDT_D)"
+      },
+      {
+        "code": "OPXRET_D",
+        "desc": "Ophthalmology - Retinal Imaging (OPXRET_D)"
+      },
+      {
+        "code": "OSQ_D",
+        "desc": "Osteoporosis (OSQ_D)"
+      },
+      {
+        "code": "PAH_D",
+        "desc": "Polyaromatic Hydrocarbons (PAHs) - Urine (PAH_D)"
+      },
+      {
+        "code": "PAQIAF_D",
+        "desc": "Physical Activity - Individual Activities (PAQIAF_D)"
+      },
+      {
+        "code": "PAQ_D",
+        "desc": "Physical Activity (PAQ_D)"
+      },
+      {
+        "code": "PBCD_D",
+        "desc": "Cadmium, Lead, & Total Mercury - Blood (PbCd_D)"
+      },
+      {
+        "code": "PCBPOL_D",
+        "desc": "Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Pooled Samples (PCBPOL_D)"
+      },
+      {
+        "code": "PERNT_D",
+        "desc": "Perchlorate, Nitrate & Thiocyanate - Urine (PERNT_D)"
+      },
+      {
+        "code": "PFC_D",
+        "desc": "Polyfluoroalkyl Chemicals (PFC_D)"
+      },
+      {
+        "code": "PFQ_D",
+        "desc": "Physical Functioning (PFQ_D)"
+      },
+      {
+        "code": "PHTHTE_D",
+        "desc": "Phthalates - Urine (PHTHTE_D)"
+      },
+      {
+        "code": "PHYTO_D",
+        "desc": "Phytoestrogens - Urine (PHYTO_D)"
+      },
+      {
+        "code": "POOLTF_D",
+        "desc": "Pooled-Sample Technical Support File (POOLTF_D)"
+      },
+      {
+        "code": "PP_D",
+        "desc": "Pesticides - Environmental - Urine (PP_D)"
+      },
+      {
+        "code": "PSA_D",
+        "desc": "Prostate Specific Antigen (PSA) (PSA_D)"
+      },
+      {
+        "code": "PSQ_D",
+        "desc": "Prostate Specific Antigen Follow-up (PSQ_D)"
+      },
+      {
+        "code": "PSTPOL_D",
+        "desc": "Pesticides - Organochlorine Pesticides - Pooled Samples  (PSTPOL_D)"
+      },
+      {
+        "code": "PTH_D",
+        "desc": "Parathyroid Hormone (PTH_D)"
+      },
+      {
+        "code": "PUQMEC_D",
+        "desc": "Pesticide Use (PUQMEC_D)"
+      },
+      {
+        "code": "RDQ_D",
+        "desc": "Respiratory Health (RDQ_D)"
+      },
+      {
+        "code": "RHQ_D",
+        "desc": "Reproductive Health (RHQ_D)"
+      },
+      {
+        "code": "RXQ_RX_D",
+        "desc": "Prescription Medications (RXQ_RX_D)"
+      },
+      {
+        "code": "SLQ_D",
+        "desc": "Sleep Disorders (SLQ_D)"
+      },
+      {
+        "code": "SSEBV_D",
+        "desc": "Epstein-Barr Virus (VCA IgG) - Serum (Surplus) (SSEBV_D)"
+      },
+      {
+        "code": "SSQ_D",
+        "desc": "Social Support (SSQ_D)"
+      },
+      {
+        "code": "SSSAL_D",
+        "desc": "Salmonella & Campylobacter Antibodies (Surplus) (SSSAL_D)"
+      },
+      {
+        "code": "SSUVOC_D",
+        "desc": "Volatile Organic Compound (VOC) Metabolites - Urine (Surplus) (SSUVOC_D)"
+      },
+      {
+        "code": "SXQ_D",
+        "desc": "Sexual Behavior (SXQ_D)"
+      },
+      {
+        "code": "TFR_D",
+        "desc": "Transferrin Receptor (TFR_D)"
+      },
+      {
+        "code": "TRIGLY_D",
+        "desc": "Cholesterol - LDL, Triglyceride & Apoliprotein (ApoB) (TRIGLY_D)"
+      },
+      {
+        "code": "UAS_D",
+        "desc": "Arsenics - Total & Speciated - Urine (UAS_D)"
+      },
+      {
+        "code": "UCPREG_D",
+        "desc": "Pregnancy Test - Urine (UCPREG_D)"
+      },
+      {
+        "code": "UHG_D",
+        "desc": "Mercury: Inorganic - Urine (UHG_D)"
+      },
+      {
+        "code": "UHM_D",
+        "desc": "Metals - Urine (UHM_D)"
+      },
+      {
+        "code": "UIO_D",
+        "desc": "Iodine - Urine (UIO_D)"
+      },
+      {
+        "code": "UPP_D",
+        "desc": "Pesticides - Current Use - Urine (Formerly Priority Pesticides, Non-persistent Pesticide Metabolites) (UPP_D)"
+      },
+      {
+        "code": "VARLK_D",
+        "desc": "Food Frequency Questionnaire - Look-Up Table VARLOOK (VARLK_D)"
+      },
+      {
+        "code": "VIC_D",
+        "desc": "Vitamin C (VIC_D)"
+      },
+      {
+        "code": "VIQ_D",
+        "desc": "Vision (VIQ_D)"
+      },
+      {
+        "code": "VITAEC_D",
+        "desc": "Vitamin A, Vitamin E & Carotenoids (VITAEC_D)"
+      },
+      {
+        "code": "VIT_B6_D",
+        "desc": "Vitamin B6 (VIT_B6_D)"
+      },
+      {
+        "code": "VIX_D",
+        "desc": "Vision (VIX_D)"
+      },
+      {
+        "code": "VOCWB_D",
+        "desc": "Volatile Organic Compounds - Blood & Related Questionnaire Items (VOCWB_D)"
+      },
+      {
+        "code": "VOC_D",
+        "desc": "Volatile Organic Compounds - Water & Related Questionnaire Items (VOC_D)"
+      },
+      {
+        "code": "WHQMEC_D",
+        "desc": "Weight History - Youth (WHQMEC_D)"
+      },
+      {
+        "code": "WHQ_D",
+        "desc": "Weight History (WHQ_D)"
+      },
+      {
+        "code": "WPIN_D",
+        "desc": "Perchlorate, Nitrate & Iodide - Tap Water (WPIN_D)"
+      }
+    ],
+    "Laboratory": [
+      {
+        "code": "ALB_CR_D",
+        "desc": "Albumin & Creatinine - Urine (ALB_CR_D)"
+      },
+      {
+        "code": "CBC_D",
+        "desc": "Complete Blood Count with 5-Part Differential - Whole Blood (CBC_D)"
+      },
+      {
+        "code": "HDL_D",
+        "desc": "Cholesterol - HDL (HDL_D)"
+      },
+      {
+        "code": "TCHOL_D",
+        "desc": "Cholesterol - Total (TCHOL_D)"
+      }
+    ],
+    "Questionnaire": [
+      {
+        "code": "ALQ_D",
+        "desc": "Alcohol Use (ALQ_D)"
+      },
+      {
+        "code": "CDQ_D",
+        "desc": "Cardiovascular Health (CDQ_D)"
+      },
+      {
+        "code": "HSQ_D",
+        "desc": "Current Health Status (HSQ_D)"
+      },
+      {
+        "code": "SMQFAM_D",
+        "desc": "Smoking - Household Smokers (SMQFAM_D)"
+      },
+      {
+        "code": "SMQRTU_D",
+        "desc": "Smoking - Recent Tobacco Use (SMQRTU_D)"
+      },
+      {
+        "code": "SMQ_D",
+        "desc": "Smoking - Cigarette Use (SMQ_D)"
+      }
+    ],
+    "Examination": [
+      {
+        "code": "BMX_D",
+        "desc": "Body Measures (BMX_D)"
+      },
+      {
+        "code": "BPX_D",
+        "desc": "Blood Pressure (BPX_D)"
+      }
+    ],
+    "Dietary": [
+      {
+        "code": "DBQ_D",
+        "desc": "Diet Behavior & Nutrition (DBQ_D)"
+      },
+      {
+        "code": "DR1IFF_D",
+        "desc": "Dietary Interview - Individual Foods, First Day (DR1IFF_D)"
+      },
+      {
+        "code": "DR1TOT_D",
+        "desc": "Dietary Interview - Total Nutrient Intakes, First Day (DR1TOT_D)"
+      },
+      {
+        "code": "DR2IFF_D",
+        "desc": "Dietary Interview - Individual Foods, Second Day (DR2IFF_D)"
+      },
+      {
+        "code": "DR2TOT_D",
+        "desc": "Dietary Interview - Total Nutrient Intakes, Second Day (DR2TOT_D)"
+      }
+    ],
+    "Demographics": [
+      {
+        "code": "DEMO_D",
+        "desc": "Demographic Variables & Sample Weights (DEMO_D)"
+      }
+    ]
+  },
+  "2007-2008": {
+    "Other": [
+      {
+        "code": "ACQ_E",
+        "desc": "Acculturation (ACQ_E)"
+      },
+      {
+        "code": "APOB_E",
+        "desc": "Apolipoprotein B (ApoB_E)"
+      },
+      {
+        "code": "AQQ_E",
+        "desc": "Air Quality (AQQ_E)"
+      },
+      {
+        "code": "AUQ_E",
+        "desc": "Audiometry (AUQ_E)"
+      },
+      {
+        "code": "AUXAR_E",
+        "desc": "Audiometry - Acoustic Reflex (AUXAR_E)"
+      },
+      {
+        "code": "AUXTYM_E",
+        "desc": "Audiometry - Tympanometry (AUXTYM_E)"
+      },
+      {
+        "code": "AUX_E",
+        "desc": "Audiometry (AUX_E)"
+      },
+      {
+        "code": "BFRPOL_E",
+        "desc": "Brominated Flame Retardants (BFRs) - Pooled Samples (BFRPOL_E)"
+      },
+      {
+        "code": "BHQ_E",
+        "desc": "Bowel Health (BHQ_E)"
+      },
+      {
+        "code": "BIOPRO_E",
+        "desc": "Standard Biochemistry Profile (BIOPRO_E)"
+      },
+      {
+        "code": "BPQ_E",
+        "desc": "Blood Pressure & Cholesterol (BPQ_E)"
+      },
+      {
+        "code": "CARB_E",
+        "desc": "Pesticides - Carbamates & Organophosphorus Metabolites - Urine (CARB_E)"
+      },
+      {
+        "code": "CBQPFA_E",
+        "desc": "Consumer Behavior Phone Follow-up Module - Adult (CBQPFA_E)"
+      },
+      {
+        "code": "CBQPFC_E",
+        "desc": "Consumer Behavior Phone Follow-up Module - Child (CBQPFC_E)"
+      },
+      {
+        "code": "CBQ_E",
+        "desc": "Consumer Behavior (CBQ_E)"
+      },
+      {
+        "code": "CHLMDA_E",
+        "desc": "Chlamydia & Gonorrhea - Urine (CHLMDA_E)"
+      },
+      {
+        "code": "COTNAL_E",
+        "desc": "Cotinine - Serum & Total NNAL - Urine (COTNAL_E)"
+      },
+      {
+        "code": "CRP_E",
+        "desc": "C-Reactive Protein (CRP) (CRP_E)"
+      },
+      {
+        "code": "DEET_E",
+        "desc": "DEET and Metabolites (DEET_E)"
+      },
+      {
+        "code": "DIQ_E",
+        "desc": "Diabetes (DIQ_E)"
+      },
+      {
+        "code": "DOXPOL_E",
+        "desc": "Polychlorinated dibenzo-p-dioxins (PCDDs), Dibenzofurans (PCDFs) & Coplanar Polychlorinated Biphenyls (cPCBs) - Pooled Samples (DOXPOL_E)"
+      },
+      {
+        "code": "DPQ_E",
+        "desc": "Mental Health - Depression Screener (DPQ_E)"
+      },
+      {
+        "code": "DRXFCD_E",
+        "desc": "Dietary Interview Technical Support File - Food Codes (DRXFCD_E)"
+      },
+      {
+        "code": "DRXMCD_E",
+        "desc": "Dietary Interview Technical Support File - Modification Codes (DRXMCD_E)"
+      },
+      {
+        "code": "DS1IDS_E",
+        "desc": "Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day (DS1IDS_E)"
+      },
+      {
+        "code": "DS1TOT_E",
+        "desc": "Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day (DS1TOT_E)"
+      },
+      {
+        "code": "DS2IDS_E",
+        "desc": "Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day (DS2IDS_E)"
+      },
+      {
+        "code": "DS2TOT_E",
+        "desc": "Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day (DS2TOT_E)"
+      },
+      {
+        "code": "DSQIDS_E",
+        "desc": "Dietary Supplement Use 30 Day - Individual Dietary Supplements (DSQIDS_E)"
+      },
+      {
+        "code": "DSQTOT_E",
+        "desc": "Dietary Supplement Use 30-Day - Total Dietary Supplements (DSQTOT_E)"
+      },
+      {
+        "code": "DUQ_E",
+        "desc": "Drug Use (DUQ_E)"
+      },
+      {
+        "code": "DXXFEM_E",
+        "desc": "Dual Energy X-ray Absorptiometry - Femur (DXXFEM_E)"
+      },
+      {
+        "code": "DXXSPN_E",
+        "desc": "Dual Energy X-ray Absorptiometry - Spine (DXXSPN_E)"
+      },
+      {
+        "code": "ECQ_E",
+        "desc": "Early Childhood (ECQ_E)"
+      },
+      {
+        "code": "ENX_E",
+        "desc": "Exhaled Nitric Oxide (ENX_E)"
+      },
+      {
+        "code": "EPH_E",
+        "desc": "Environmental Phenols (EPH_E)"
+      },
+      {
+        "code": "FASTQX_E",
+        "desc": "Fasting Questionnaire (FASTQX_E)"
+      },
+      {
+        "code": "FERTIN_E",
+        "desc": "Ferritin (FERTIN_E)"
+      },
+      {
+        "code": "FOLATE_E",
+        "desc": "Folate - RBC & Serum (FOLATE_E)"
+      },
+      {
+        "code": "FOLFMS_E",
+        "desc": "Folate Forms - Individual - Serum  (FOLFMS_E)"
+      },
+      {
+        "code": "FSQ_E",
+        "desc": "Food Security (FSQ_E)"
+      },
+      {
+        "code": "GHB_E",
+        "desc": "Glycohemoglobin (GHB_E)"
+      },
+      {
+        "code": "GLU_E",
+        "desc": "Plasma Fasting Glucose & Insulin (GLU_E)"
+      },
+      {
+        "code": "HCQ_E",
+        "desc": "Hepatitis C Follow Up (HCQ_E)"
+      },
+      {
+        "code": "HEPA_E",
+        "desc": "Hepatitis A Antibody (HEPA_E)"
+      },
+      {
+        "code": "HEPBD_E",
+        "desc": "Hepatitis B: core antibody, surface antigen, and Hepatitis D antibody  (HEPBD_E)"
+      },
+      {
+        "code": "HEPB_S_E",
+        "desc": "Hepatitis B Surface Antibody (HEPB_S_E)"
+      },
+      {
+        "code": "HEPC_E",
+        "desc": "Hepatitis C: Confirmed Antibody, RNA (HCV-RNA), & Genotype (HEPC_E)"
+      },
+      {
+        "code": "HIQ_E",
+        "desc": "Health Insurance (HIQ_E)"
+      },
+      {
+        "code": "HIV_E",
+        "desc": "HIV Antibody Test (HIV_E)"
+      },
+      {
+        "code": "HOQ_E",
+        "desc": "Housing Characteristics (HOQ_E)"
+      },
+      {
+        "code": "HPVSER_E",
+        "desc": "Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody – Serum: 4-plex CLIA  (HPVSER_E)"
+      },
+      {
+        "code": "HPVSWR_E",
+        "desc": "Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array (HPVSWR_E)"
+      },
+      {
+        "code": "HSV_E",
+        "desc": "Herpes Simplex Virus Type-1 & Type-2 (HSV_E)"
+      },
+      {
+        "code": "HUQ_E",
+        "desc": "Hospital Utilization & Access to Care (HUQ_E)"
+      },
+      {
+        "code": "IHG_E",
+        "desc": "Mercury: Inorganic - Blood (IHg_E)"
+      },
+      {
+        "code": "IMQ_E",
+        "desc": "Immunization (IMQ_E)"
+      },
+      {
+        "code": "INQ_E",
+        "desc": "Income (INQ_E)"
+      },
+      {
+        "code": "KIQ_P_E",
+        "desc": "Prostate Conditions (KIQ_P_E)"
+      },
+      {
+        "code": "KIQ_U_E",
+        "desc": "Kidney Conditions - Urology (KIQ_U_E)"
+      },
+      {
+        "code": "MCQ_E",
+        "desc": "Medical Conditions (MCQ_E)"
+      },
+      {
+        "code": "OCQ_E",
+        "desc": "Occupation (OCQ_E)"
+      },
+      {
+        "code": "OGTT_E",
+        "desc": "Oral Glucose Tolerance Test (OGTT_E)"
+      },
+      {
+        "code": "OHQ_E",
+        "desc": "Oral Health (OHQ_E)"
+      },
+      {
+        "code": "OHX_E",
+        "desc": "Oral Health (OHX_E)"
+      },
+      {
+        "code": "OPD_E",
+        "desc": "Organophosphate Insecticides - Diakyl Phosphate Metabolites - Urine (OPD_E)"
+      },
+      {
+        "code": "OPXFDT_E",
+        "desc": "Ophthalmology - Frequency Doubling Technology (OPXFDT_E)"
+      },
+      {
+        "code": "OPXRET_E",
+        "desc": "Ophthalmology - Retinal Imaging (OPXRET_E)"
+      },
+      {
+        "code": "OSQ_E",
+        "desc": "Osteoporosis (OSQ_E)"
+      },
+      {
+        "code": "PAH_E",
+        "desc": "Polyaromatic Hydrocarbons (PAHs) - Urine (PAH_E)"
+      },
+      {
+        "code": "PAQ_E",
+        "desc": "Physical Activity (PAQ_E)"
+      },
+      {
+        "code": "PBCD_E",
+        "desc": "Cadmium, Lead, & Total Mercury - Blood (PbCd_E)"
+      },
+      {
+        "code": "PCBPOL_E",
+        "desc": "Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Pooled Samples (PCBPOL_E)"
+      },
+      {
+        "code": "PERNT_E",
+        "desc": "Perchlorate, Nitrate & Thiocyanate - Urine (PERNT_E)"
+      },
+      {
+        "code": "PFC_E",
+        "desc": "Polyfluoroalkyl Chemicals (PFC_E)"
+      },
+      {
+        "code": "PFQ_E",
+        "desc": "Physical Functioning (PFQ_E)"
+      },
+      {
+        "code": "PHTHTE_E",
+        "desc": "Phthalates - Urine (PHTHTE_E)"
+      },
+      {
+        "code": "PHYTO_E",
+        "desc": "Phytoestrogens - Urine (PHYTO_E)"
+      },
+      {
+        "code": "POOLTF_E",
+        "desc": "Pooled-Sample Technical Support File (POOLTF_E)"
+      },
+      {
+        "code": "PP_E",
+        "desc": "Pesticides - Environmental - Urine (PP_E)"
+      },
+      {
+        "code": "PSA_E",
+        "desc": "Prostate Specific Antigen (PSA) (PSA_E)"
+      },
+      {
+        "code": "PSTPOL_E",
+        "desc": "Pesticides - Organochlorine Pesticides - Pooled Samples  (PSTPOL_E)"
+      },
+      {
+        "code": "PUQMEC_E",
+        "desc": "Pesticide Use (PUQMEC_E)"
+      },
+      {
+        "code": "RDQ_E",
+        "desc": "Respiratory Health (RDQ_E)"
+      },
+      {
+        "code": "RHQ_E",
+        "desc": "Reproductive Health (RHQ_E)"
+      },
+      {
+        "code": "RXQ_RX_E",
+        "desc": "Prescription Medications (RXQ_RX_E)"
+      },
+      {
+        "code": "SLQ_E",
+        "desc": "Sleep Disorders (SLQ_E)"
+      },
+      {
+        "code": "SPX_E",
+        "desc": "Spirometry - Pre and Post-Bronchodilator (SPX_E)"
+      },
+      {
+        "code": "SSEBV_E",
+        "desc": "Epstein-Barr Virus (VCA IgG) - Serum (Surplus) (SSEBV_E)"
+      },
+      {
+        "code": "SSHCV_E",
+        "desc": "Hepatitis C Antibody Reflex Testing - Serum (Surplus) (SSHCV_E)"
+      },
+      {
+        "code": "SSKL_E",
+        "desc": "Klotho - Serum (Surplus) (SSKL_E)"
+      },
+      {
+        "code": "SSQ_E",
+        "desc": "Social Support (SSQ_E)"
+      },
+      {
+        "code": "SSUSG_E",
+        "desc": "Urine Specific Gravity Measurement (Surplus) (SSUSG_E)"
+      },
+      {
+        "code": "SXQ_E",
+        "desc": "Sexual Behavior (SXQ_E)"
+      },
+      {
+        "code": "TFR_E",
+        "desc": "Transferrin Receptor (TFR_E)"
+      },
+      {
+        "code": "THYROD_E",
+        "desc": "Thyroid Profile (THYROD_E)"
+      },
+      {
+        "code": "TRIGLY_E",
+        "desc": "Cholesterol - LDL & Triglycerides (TRIGLY_E)"
+      },
+      {
+        "code": "UAM_E",
+        "desc": "Atrazine and Metabolites (UAM_E)"
+      },
+      {
+        "code": "UAS_E",
+        "desc": "Arsenics - Total & Speciated - Urine (UAS_E)"
+      },
+      {
+        "code": "UCPREG_E",
+        "desc": "Pregnancy Test - Urine (UCPREG_E)"
+      },
+      {
+        "code": "UHG_E",
+        "desc": "Mercury: Inorganic - Urine (UHG_E)"
+      },
+      {
+        "code": "UHM_E",
+        "desc": "Metals - Urine (UHM_E)"
+      },
+      {
+        "code": "UIO_E",
+        "desc": "Iodine - Urine (UIO_E)"
+      },
+      {
+        "code": "UPHOPM_E",
+        "desc": "Pyrethroids, Herbicides, & OP Metabolites - Urine (UPHOPM_E)"
+      },
+      {
+        "code": "UPP_E",
+        "desc": "Pesticides - Current Use - Urine (Formerly Priority Pesticides, Non-persistent Pesticide Metabolites) (UPP_E)"
+      },
+      {
+        "code": "VIQ_E",
+        "desc": "Vision (VIQ_E)"
+      },
+      {
+        "code": "VIT_B6_E",
+        "desc": "Vitamin B6 (VIT_B6_E)"
+      },
+      {
+        "code": "VIX_E",
+        "desc": "Vision (VIX_E)"
+      },
+      {
+        "code": "VOCMWB_E",
+        "desc": "Volatile Organic Compounds - Trihalomethanes/MTBE/Nitromethane - Blood (VOCMWB_E)"
+      },
+      {
+        "code": "VOCWB_E",
+        "desc": "Volatile Organic Compounds - Blood & Related Questionnaire Items (VOCWB_E)"
+      },
+      {
+        "code": "VOC_E",
+        "desc": "Volatile Organic Compounds - Water & Related Questionnaire Items (VOC_E)"
+      },
+      {
+        "code": "WHQMEC_E",
+        "desc": "Weight History - Youth (WHQMEC_E)"
+      },
+      {
+        "code": "WHQ_E",
+        "desc": "Weight History (WHQ_E)"
+      }
+    ],
+    "Laboratory": [
+      {
+        "code": "ALB_CR_E",
+        "desc": "Albumin & Creatinine - Urine (ALB_CR_E)"
+      },
+      {
+        "code": "CBC_E",
+        "desc": "Complete Blood Count with 5-part Differential - Whole Blood (CBC_E)"
+      },
+      {
+        "code": "HDL_E",
+        "desc": "Cholesterol - HDL (HDL_E)"
+      },
+      {
+        "code": "TCHOL_E",
+        "desc": "Cholesterol - Total (TCHOL_E)"
+      }
+    ],
+    "Questionnaire": [
+      {
+        "code": "ALQ_E",
+        "desc": "Alcohol Use (ALQ_E)"
+      },
+      {
+        "code": "CDQ_E",
+        "desc": "Cardiovascular Health (CDQ_E)"
+      },
+      {
+        "code": "HSQ_E",
+        "desc": "Current Health Status (HSQ_E)"
+      },
+      {
+        "code": "SMQFAM_E",
+        "desc": "Smoking - Household Smokers (SMQFAM_E)"
+      },
+      {
+        "code": "SMQRTU_E",
+        "desc": "Smoking - Recent Tobacco Use (SMQRTU_E)"
+      },
+      {
+        "code": "SMQ_E",
+        "desc": "Smoking - Cigarette Use (SMQ_E)"
+      }
+    ],
+    "Examination": [
+      {
+        "code": "BMX_E",
+        "desc": "Body Measures (BMX_E)"
+      },
+      {
+        "code": "BPX_E",
+        "desc": "Blood Pressure (BPX_E)"
+      }
+    ],
+    "Dietary": [
+      {
+        "code": "DBQ_E",
+        "desc": "Diet Behavior & Nutrition (DBQ_E)"
+      },
+      {
+        "code": "DR1IFF_E",
+        "desc": "Dietary Interview - Individual Foods, First Day (DR1IFF_E)"
+      },
+      {
+        "code": "DR1TOT_E",
+        "desc": "Dietary Interview - Total Nutrient Intakes, First Day (DR1TOT_E)"
+      },
+      {
+        "code": "DR2IFF_E",
+        "desc": "Dietary Interview - Individual Foods, Second Day (DR2IFF_E)"
+      },
+      {
+        "code": "DR2TOT_E",
+        "desc": "Dietary Interview - Total Nutrient Intakes, Second Day (DR2TOT_E)"
+      }
+    ],
+    "Demographics": [
+      {
+        "code": "DEMO_E",
+        "desc": "Demographic Variables & Sample Weights (DEMO_E)"
+      }
+    ]
+  },
+  "2009-2010": {
+    "Other": [
+      {
+        "code": "ACQ_F",
+        "desc": "Acculturation (ACQ_F)"
+      },
+      {
+        "code": "APOB_F",
+        "desc": "Apolipoprotein B (ApoB_F)"
+      },
+      {
+        "code": "AQQ_F",
+        "desc": "Air Quality (AQQ_F)"
+      },
+      {
+        "code": "ARQ_F",
+        "desc": "Arthritis (ARQ_F)"
+      },
+      {
+        "code": "ARX_F",
+        "desc": "Arthritis Body Measures (ARX_F)"
+      },
+      {
+        "code": "AUQ_F",
+        "desc": "Audiometry (AUQ_F)"
+      },
+      {
+        "code": "AUXAR_F",
+        "desc": "Audiometry - Acoustic Reflex (AUXAR_F)"
+      },
+      {
+        "code": "AUXTYM_F",
+        "desc": "Audiometry - Tympanometry (AUXTYM_F)"
+      },
+      {
+        "code": "AUX_F",
+        "desc": "Audiometry (AUX_F)"
+      },
+      {
+        "code": "BFRPOL_F",
+        "desc": "Brominated Flame Retardants (BFRs) - Pooled Samples (BFRPOL_F)"
+      },
+      {
+        "code": "BHQ_F",
+        "desc": "Bowel Health (BHQ_F)"
+      },
+      {
+        "code": "BIOPRO_F",
+        "desc": "Standard Biochemistry Profile (BIOPRO_F)"
+      },
+      {
+        "code": "BPQ_F",
+        "desc": "Blood Pressure & Cholesterol (BPQ_F)"
+      },
+      {
+        "code": "CAFE_F",
+        "desc": "Caffeine & Caffeine Metabolites - Urine (CAFE_F)"
+      },
+      {
+        "code": "CBQPFA_F",
+        "desc": "Consumer Behavior Phone Follow-up Module - Adult (CBQPFA_F)"
+      },
+      {
+        "code": "CBQPFC_F",
+        "desc": "Consumer Behavior Phone Follow-up Module - Child (CBQPFC_F)"
+      },
+      {
+        "code": "CBQ_F",
+        "desc": "Consumer Behavior (CBQ_F)"
+      },
+      {
+        "code": "CHLMDA_F",
+        "desc": "Chlamydia - Urine (CHLMDA_F)"
+      },
+      {
+        "code": "COTNAL_F",
+        "desc": "Cotinine - Serum & Total NNAL - Urine (COTNAL_F)"
+      },
+      {
+        "code": "CRP_F",
+        "desc": "C-Reactive Protein (CRP) (CRP_F)"
+      },
+      {
+        "code": "DEET_F",
+        "desc": "DEET and Metabolites (DEET_F)"
+      },
+      {
+        "code": "DEQ_F",
+        "desc": "Dermatology (DEQ_F)"
+      },
+      {
+        "code": "DIQ_F",
+        "desc": "Diabetes (DIQ_F)"
+      },
+      {
+        "code": "DOXPOL_F",
+        "desc": "Polychlorinated dibenzo-p-dioxins (PCDDs), Dibenzofurans (PCDFs) & Coplanar Polychlorinated Biphenyls (cPCBs) - Pooled Samples (DOXPOL_F)"
+      },
+      {
+        "code": "DPQ_F",
+        "desc": "Mental Health - Depression Screener (DPQ_F)"
+      },
+      {
+        "code": "DRXFCD_F",
+        "desc": "Dietary Interview Technical Support File - Food Codes (DRXFCD_F)"
+      },
+      {
+        "code": "DRXMCD_F",
+        "desc": "Dietary Interview Technical Support File - Modification Codes (DRXMCD_F)"
+      },
+      {
+        "code": "DS1IDS_F",
+        "desc": "Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day (DS1IDS_F)"
+      },
+      {
+        "code": "DS1TOT_F",
+        "desc": "Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day (DS1TOT_F)"
+      },
+      {
+        "code": "DS2IDS_F",
+        "desc": "Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day (DS2IDS_F)"
+      },
+      {
+        "code": "DS2TOT_F",
+        "desc": "Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day (DS2TOT_F)"
+      },
+      {
+        "code": "DSQIDS_F",
+        "desc": "Dietary Supplement Use 30 Day - Individual Dietary Supplements (DSQIDS_F)"
+      },
+      {
+        "code": "DSQTOT_F",
+        "desc": "Dietary Supplement Use 30-Day - Total Dietary Supplements (DSQTOT_F)"
+      },
+      {
+        "code": "DTQ_F",
+        "desc": "Dietary Screener Questionnaire (DTQ_F)"
+      },
+      {
+        "code": "DUQ_F",
+        "desc": "Drug Use (DUQ_F)"
+      },
+      {
+        "code": "DXXFEM_F",
+        "desc": "Dual Energy X-ray Absorptiometry - Femur (DXXFEM_F)"
+      },
+      {
+        "code": "DXXSPN_F",
+        "desc": "Dual Energy X-ray Absorptiometry - Spine (DXXSPN_F)"
+      },
+      {
+        "code": "ECQ_F",
+        "desc": "Early Childhood (ECQ_F)"
+      },
+      {
+        "code": "ENX_F",
+        "desc": "Exhaled Nitric Oxide (ENX_F)"
+      },
+      {
+        "code": "EPH_F",
+        "desc": "Environmental Phenols (EPH_F)"
+      },
+      {
+        "code": "FASTQX_F",
+        "desc": "Fasting Questionnaire (FASTQX_F)"
+      },
+      {
+        "code": "FERTIN_F",
+        "desc": "Ferritin (FERTIN_F)"
+      },
+      {
+        "code": "FLXCLN_F",
+        "desc": "Fluorosis - Clinical  (FLXCLN_F)"
+      },
+      {
+        "code": "FOLATE_F",
+        "desc": "Folate - RBC & Serum (FOLATE_F)"
+      },
+      {
+        "code": "FSQ_F",
+        "desc": "Food Security (FSQ_F)"
+      },
+      {
+        "code": "GHB_F",
+        "desc": "Glycohemoglobin (GHB_F)"
+      },
+      {
+        "code": "GLU_F",
+        "desc": "Plasma Fasting Glucose & Insulin (GLU_F)"
+      },
+      {
+        "code": "HCQ_F",
+        "desc": "Hepatitis C Follow Up (HCQ_F)"
+      },
+      {
+        "code": "HEPA_F",
+        "desc": "Hepatitis A Antibody (HEPA_F)"
+      },
+      {
+        "code": "HEPBD_F",
+        "desc": "Hepatitis B: core antibody, surface antigen, and Hepatitis D antibody  (HEPBD_F)"
+      },
+      {
+        "code": "HEPB_S_F",
+        "desc": "Hepatitis B Surface Antibody (HEPB_S_F)"
+      },
+      {
+        "code": "HEPC_F",
+        "desc": "Hepatitis C: Confirmed Antibody, RNA (HCV-RNA), & Genotype (HEPC_F)"
+      },
+      {
+        "code": "HEPE_F",
+        "desc": "Hepatitis E : IgG & IgM Antibodies (HEPE_F)"
+      },
+      {
+        "code": "HIQ_F",
+        "desc": "Health Insurance (HIQ_F)"
+      },
+      {
+        "code": "HIV_F",
+        "desc": "HIV Antibody Test (HIV_F)"
+      },
+      {
+        "code": "HOQ_F",
+        "desc": "Housing Characteristics (HOQ_F)"
+      },
+      {
+        "code": "HPVSER_F",
+        "desc": "Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody - Serum (HPVSER_F)"
+      },
+      {
+        "code": "HPVSWR_F",
+        "desc": "Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array (HPVSWR_F)"
+      },
+      {
+        "code": "HSV_F",
+        "desc": "Herpes Simplex Virus Type-1 & Type-2 (HSV_F)"
+      },
+      {
+        "code": "HUQ_F",
+        "desc": "Hospital Utilization & Access to Care (HUQ_F)"
+      },
+      {
+        "code": "IHG_F",
+        "desc": "Mercury: Inorganic - Blood (IHg_F)"
+      },
+      {
+        "code": "IMQ_F",
+        "desc": "Immunization (IMQ_F)"
+      },
+      {
+        "code": "INQ_F",
+        "desc": "Income (INQ_F)"
+      },
+      {
+        "code": "KIQ_U_F",
+        "desc": "Kidney Conditions - Urology (KIQ_U_F)"
+      },
+      {
+        "code": "MCQ_F",
+        "desc": "Medical Conditions (MCQ_F)"
+      },
+      {
+        "code": "MMRV_F",
+        "desc": "Measles, Mumps, Rubella & Varicella (MMRV_F)"
+      },
+      {
+        "code": "OCQ_F",
+        "desc": "Occupation (OCQ_F)"
+      },
+      {
+        "code": "OGTT_F",
+        "desc": "Oral Glucose Tolerance Test (OGTT_F)"
+      },
+      {
+        "code": "OHQ_F",
+        "desc": "Oral Health (OHQ_F)"
+      },
+      {
+        "code": "OHXDEN_F",
+        "desc": "Oral Health - Dentition (OHXDEN_F)"
+      },
+      {
+        "code": "OHXPER_F",
+        "desc": "Oral Health - Periodontal (OHXPER_F)"
+      },
+      {
+        "code": "OHXREF_F",
+        "desc": "Oral Health - Recommendation of Care (OHXREF_F)"
+      },
+      {
+        "code": "ORHPV_F",
+        "desc": "Human Papillomavirus (HPV) - Oral Rinse (ORHPV_F)"
+      },
+      {
+        "code": "OSQ_F",
+        "desc": "Osteoporosis (OSQ_F)"
+      },
+      {
+        "code": "PAH_F",
+        "desc": "Polyaromatic Hydrocarbons -Urine (PAH_F)"
+      },
+      {
+        "code": "PAQ_F",
+        "desc": "Physical Activity (PAQ_F)"
+      },
+      {
+        "code": "PBCD_F",
+        "desc": "Cadmium, Lead, & Total Mercury - Blood (PbCd_F)"
+      },
+      {
+        "code": "PCBPOL_F",
+        "desc": "Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Pooled Samples (PCBPOL_F)"
+      },
+      {
+        "code": "PERNT_F",
+        "desc": "Perchlorate, Nitrate & Thiocyanate - Urine (PERNT_F)"
+      },
+      {
+        "code": "PFC_F",
+        "desc": "Polyfluoroalkyl Chemicals (PFC_F)"
+      },
+      {
+        "code": "PFQ_F",
+        "desc": "Physical Functioning (PFQ_F)"
+      },
+      {
+        "code": "PHTHTE_F",
+        "desc": "Phthalates - Urine (PHTHTE_F)"
+      },
+      {
+        "code": "PHYTO_F",
+        "desc": "Phytoestrogens - Urine (PHYTO_F)"
+      },
+      {
+        "code": "POOLTF_F",
+        "desc": "Pooled-Sample Technical Support File  (POOLTF_F)"
+      },
+      {
+        "code": "PP_F",
+        "desc": "Pesticides - Environmental - Urine (PP_F)"
+      },
+      {
+        "code": "PSA_F",
+        "desc": "Prostate Specific Antigen (PSA) (PSA_F)"
+      },
+      {
+        "code": "PSTPOL_F",
+        "desc": "Pesticides - Organochlorine Pesticides - Pooled Samples (PSTPOL_F)"
+      },
+      {
+        "code": "PUQMEC_F",
+        "desc": "Pesticide Use (PUQMEC_F)"
+      },
+      {
+        "code": "RDQ_F",
+        "desc": "Respiratory Health (RDQ_F)"
+      },
+      {
+        "code": "RHQ_F",
+        "desc": "Reproductive Health (RHQ_F)"
+      },
+      {
+        "code": "RXQ_RX_F",
+        "desc": "Prescription Medications (RXQ_RX_F)"
+      },
+      {
+        "code": "SLQ_F",
+        "desc": "Sleep Disorders (SLQ_F)"
+      },
+      {
+        "code": "SPX_F",
+        "desc": "Spirometry - Pre and Post-Bronchodilator (SPX_F)"
+      },
+      {
+        "code": "SSEBV_F",
+        "desc": "Epstein-Barr Virus (VCA IgG) - Serum (Surplus) (SSEBV_F)"
+      },
+      {
+        "code": "SSHPV_F",
+        "desc": "Human Papillomavirus (HPV) Viral Load - Oral Rinse - Oral High-Risk HPV Infections (Surplus) (SSHPV_F)"
+      },
+      {
+        "code": "SSKL_F",
+        "desc": "Klotho - Serum (Surplus) (SSKL_F)"
+      },
+      {
+        "code": "SSPOLI_F",
+        "desc": "Poliovirus Serotypes 1, 2, & 3 Antibodies - Serum (Surplus) (SSPOLI_F)"
+      },
+      {
+        "code": "SSTOXO_F",
+        "desc": "Toxoplasma Gondii Antibody - Serum (Surplus) (SSTOXO_F)"
+      },
+      {
+        "code": "SXQ_F",
+        "desc": "Sexual Behavior (SXQ_F)"
+      },
+      {
+        "code": "TFA_F",
+        "desc": "Trans Fatty Acids (TFA_F)"
+      },
+      {
+        "code": "TFR_F",
+        "desc": "Transferrin Receptor (TFR_F)"
+      },
+      {
+        "code": "TGEMA_F",
+        "desc": "Tissue Transglutaminase Assay (IgA-TTG) & IgA Endomyseal Antibody Assay (IgA EMA) (TGEMA_F)"
+      },
+      {
+        "code": "THYROD_F",
+        "desc": "Thyroid Profile (THYROD_F)"
+      },
+      {
+        "code": "TRIGLY_F",
+        "desc": "Cholesterol - LDL & Triglycerides (TRIGLY_F)"
+      },
+      {
+        "code": "UAS_F",
+        "desc": "Arsenics - Total & Speciated - Urine (UAS_F)"
+      },
+      {
+        "code": "UCFLOW_F",
+        "desc": "Urine Flow Rate (UCFLOW_F)"
+      },
+      {
+        "code": "UCOSMO_F",
+        "desc": "Osmolality - Urine (UCOSMO_F)"
+      },
+      {
+        "code": "UCPREG_F",
+        "desc": "Pregnancy Test - Urine (UCPREG_F)"
+      },
+      {
+        "code": "UHG_F",
+        "desc": "Mercury: Inorganic - Urine (UHG_F)"
+      },
+      {
+        "code": "UHM_F",
+        "desc": "Metals - Urine (UHM_F)"
+      },
+      {
+        "code": "UIO_F",
+        "desc": "Iodine - Urine (UIO_F)"
+      },
+      {
+        "code": "UPHOPM_F",
+        "desc": "Pyrethroids, Herbicides, & OP Metabolites - Urine (UPHOPM_F)"
+      },
+      {
+        "code": "VIT_B6_F",
+        "desc": "Vitamin B6 (VIT_B6_F)"
+      },
+      {
+        "code": "VOCMWB_F",
+        "desc": "Volatile Organic Compounds (VOCs) - Trihalomethanes/MTBE/Nitromethane - Blood (VOCMWB_F)"
+      },
+      {
+        "code": "VOCWB_F",
+        "desc": "Volatile Organic Compounds (VOCs) - Blood (VOCWB_F)"
+      },
+      {
+        "code": "VOC_F",
+        "desc": "Volatile Organic Compounds (VOCs) - Water (VOC_F)"
+      },
+      {
+        "code": "VTQ_F",
+        "desc": "Volatile Toxicant (VTQ_F)"
+      },
+      {
+        "code": "WHQMEC_F",
+        "desc": "Weight History - Youth (WHQMEC_F)"
+      },
+      {
+        "code": "WHQ_F",
+        "desc": "Weight History (WHQ_F)"
+      }
+    ],
+    "Laboratory": [
+      {
+        "code": "ALB_CR_F",
+        "desc": "Albumin & Creatinine - Urine (ALB_CR_F)"
+      },
+      {
+        "code": "CBC_F",
+        "desc": "Complete Blood Count with 5-part Differential - Whole Blood (CBC_F)"
+      },
+      {
+        "code": "HDL_F",
+        "desc": "Cholesterol - HDL (HDL_F)"
+      },
+      {
+        "code": "TCHOL_F",
+        "desc": "Cholesterol - Total (TCHOL_F)"
+      }
+    ],
+    "Questionnaire": [
+      {
+        "code": "ALQY_F",
+        "desc": "Alcohol Use (Ages 18-19) (ALQY_F)"
+      },
+      {
+        "code": "ALQ_F",
+        "desc": "Alcohol Use (ALQ_F)"
+      },
+      {
+        "code": "CDQ_F",
+        "desc": "Cardiovascular Health (CDQ_F)"
+      },
+      {
+        "code": "HSQ_F",
+        "desc": "Current Health Status (HSQ_F)"
+      },
+      {
+        "code": "SMQFAM_F",
+        "desc": "Smoking - Household Smokers (SMQFAM_F)"
+      },
+      {
+        "code": "SMQRTU_F",
+        "desc": "Smoking - Recent Tobacco Use (SMQRTU_F)"
+      },
+      {
+        "code": "SMQ_F",
+        "desc": "Smoking - Cigarette Use (SMQ_F)"
+      }
+    ],
+    "Examination": [
+      {
+        "code": "BMX_F",
+        "desc": "Body Measures (BMX_F)"
+      },
+      {
+        "code": "BPX_F",
+        "desc": "Blood Pressure (BPX_F)"
+      }
+    ],
+    "Dietary": [
+      {
+        "code": "DBQ_F",
+        "desc": "Diet Behavior & Nutrition (DBQ_F)"
+      },
+      {
+        "code": "DR1IFF_F",
+        "desc": "Dietary Interview - Individual Foods, First Day (DR1IFF_F)"
+      },
+      {
+        "code": "DR1TOT_F",
+        "desc": "Dietary Interview - Total Nutrient Intakes, First Day (DR1TOT_F)"
+      },
+      {
+        "code": "DR2IFF_F",
+        "desc": "Dietary Interview - Individual Foods, Second Day (DR2IFF_F)"
+      },
+      {
+        "code": "DR2TOT_F",
+        "desc": "Dietary Interview - Total Nutrient Intakes, Second Day (DR2TOT_F)"
+      }
+    ],
+    "Demographics": [
+      {
+        "code": "DEMO_F",
+        "desc": "Demographic Variables & Sample Weights (DEMO_F)"
+      }
+    ]
+  },
+  "2011-2012": {
+    "Other": [
+      {
+        "code": "ACQ_G",
+        "desc": "Acculturation (ACQ_G)"
+      },
+      {
+        "code": "APOB_G",
+        "desc": "Apolipoprotein B (ApoB_G)"
+      },
+      {
+        "code": "AUQ_G",
+        "desc": "Audiometry (AUQ_G)"
+      },
+      {
+        "code": "AUXAR_G",
+        "desc": "Audiometry - Acoustic Reflex (AUXAR_G)"
+      },
+      {
+        "code": "AUXTYM_G",
+        "desc": "Audiometry - Tympanometry (AUXTYM_G)"
+      },
+      {
+        "code": "AUX_G",
+        "desc": "Audiometry (AUX_G)"
+      },
+      {
+        "code": "BFRPOL_G",
+        "desc": "Brominated Flame Retardants (BFRs) - Pooled Samples (BFRPOL_G)"
+      },
+      {
+        "code": "BIOPRO_G",
+        "desc": "Standard Biochemistry Profile (BIOPRO_G)"
+      },
+      {
+        "code": "BPQ_G",
+        "desc": "Blood Pressure & Cholesterol (BPQ_G)"
+      },
+      {
+        "code": "CAFE_G",
+        "desc": "Caffeine & Caffeine Metabolites - Urine  (CAFE_G)"
+      },
+      {
+        "code": "CBQ_G",
+        "desc": "Consumer Behavior (CBQ_G)"
+      },
+      {
+        "code": "CFQ_G",
+        "desc": "Cognitive Functioning  (CFQ_G)"
+      },
+      {
+        "code": "CHLMDA_G",
+        "desc": "Chlamydia - Urine (CHLMDA_G)"
+      },
+      {
+        "code": "CKQ_G",
+        "desc": "Creatine Kinase (CKQ_G)"
+      },
+      {
+        "code": "CMV_G",
+        "desc": "Cytomegalovirus IgG & IgM Antibodies - Serum (CMV_G)"
+      },
+      {
+        "code": "COTNAL_G",
+        "desc": "Cotinine - Serum & Total NNAL - Urine (COTNAL_G)"
+      },
+      {
+        "code": "CSQ_G",
+        "desc": "Taste & Smell (CSQ_G)"
+      },
+      {
+        "code": "CUSEZN_G",
+        "desc": "Copper, Selenium & Zinc - Serum (CUSEZN_G)"
+      },
+      {
+        "code": "DEET_G",
+        "desc": "DEET and Metabolites (DEET_G)"
+      },
+      {
+        "code": "DEQ_G",
+        "desc": "Dermatology (DEQ_G)"
+      },
+      {
+        "code": "DIQ_G",
+        "desc": "Diabetes (DIQ_G)"
+      },
+      {
+        "code": "DOXPOL_G",
+        "desc": "Polychlorinated dibenzo-p-dioxins (PCDDs), Dibenzofurans (PCDFs) & Coplanar Polychlorinated Biphenyls (cPCBs) - Pooled Samples  (DOXPOL_G)"
+      },
+      {
+        "code": "DPQ_G",
+        "desc": "Mental Health - Depression Screener (DPQ_G)"
+      },
+      {
+        "code": "DRXFCD_G",
+        "desc": "Dietary Interview Technical Support File - Food Codes (DRXFCD_G)"
+      },
+      {
+        "code": "DRXMCD_G",
+        "desc": "Dietary Interview Technical Support File - Modification Codes (DRXMCD_G)"
+      },
+      {
+        "code": "DS1IDS_G",
+        "desc": "Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day (DS1IDS_G)"
+      },
+      {
+        "code": "DS1TOT_G",
+        "desc": "Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day (DS1TOT_G)"
+      },
+      {
+        "code": "DS2IDS_G",
+        "desc": "Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day (DS2IDS_G)"
+      },
+      {
+        "code": "DS2TOT_G",
+        "desc": "Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day (DS2TOT_G)"
+      },
+      {
+        "code": "DSQIDS_G",
+        "desc": "Dietary Supplement Use 30 Day - Individual Dietary Supplements (DSQIDS_G)"
+      },
+      {
+        "code": "DSQTOT_G",
+        "desc": "Dietary Supplement Use 30-Day - Total Dietary Supplements (DSQTOT_G)"
+      },
+      {
+        "code": "DUQ_G",
+        "desc": "Drug Use (DUQ_G)"
+      },
+      {
+        "code": "DXXAG_G",
+        "desc": "Dual-Energy X-ray Absorptiometry - Android/Gynoid Measurements  (DXXAG_G)"
+      },
+      {
+        "code": "DXX_G",
+        "desc": "Dual-Energy X-ray Absorptiometry - Whole Body  (DXX_G)"
+      },
+      {
+        "code": "ECQ_G",
+        "desc": "Early Childhood (ECQ_G)"
+      },
+      {
+        "code": "ENX_G",
+        "desc": "Exhaled Nitric Oxide (ENX_G)"
+      },
+      {
+        "code": "EPH_G",
+        "desc": "Environmental Phenols & Parabens (EPH_G)"
+      },
+      {
+        "code": "FASTQX_G",
+        "desc": "Fasting Questionnaire (FASTQX_G)"
+      },
+      {
+        "code": "FAS_G",
+        "desc": "Fatty Acids - Serum (FAS_G)"
+      },
+      {
+        "code": "FLXCLN_G",
+        "desc": "Fluorosis - Clinical (FLXCLN_G)"
+      },
+      {
+        "code": "FOLATE_G",
+        "desc": "Folate - RBC (FOLATE_G)"
+      },
+      {
+        "code": "FOLFMS_G",
+        "desc": "Folate Forms - Total & Individual - Serum  (FOLFMS_G)"
+      },
+      {
+        "code": "FSQ_G",
+        "desc": "Food Security (FSQ_G)"
+      },
+      {
+        "code": "GHB_G",
+        "desc": "Glycohemoglobin (GHB_G)"
+      },
+      {
+        "code": "GLU_G",
+        "desc": "Plasma Fasting Glucose & Insulin (GLU_G)"
+      },
+      {
+        "code": "HCQ_G",
+        "desc": "Hepatitis C Follow Up (HCQ_G)"
+      },
+      {
+        "code": "HEPA_G",
+        "desc": "Hepatitis A Antibody (HEPA_G)"
+      },
+      {
+        "code": "HEPBD_G",
+        "desc": "Hepatitis B: core antibody, surface antigen, and Hepatitis D antibody  (HEPBD_G)"
+      },
+      {
+        "code": "HEPB_S_G",
+        "desc": "Hepatitis B Surface Antibody (HEPB_S_G)"
+      },
+      {
+        "code": "HEPC_G",
+        "desc": "Hepatitis C: Confirmed Antibody, RNA (HCV-RNA), & Genotype (HEPC_G)"
+      },
+      {
+        "code": "HEPE_G",
+        "desc": "Hepatitis E : IgG & IgM Antibodies (HEPE_G)"
+      },
+      {
+        "code": "HIQ_G",
+        "desc": "Health Insurance (HIQ_G)"
+      },
+      {
+        "code": "HIV_G",
+        "desc": "HIV Antibody Test (HIV_G)"
+      },
+      {
+        "code": "HOQ_G",
+        "desc": "Housing Characteristics (HOQ_G)"
+      },
+      {
+        "code": "HPVSWR_G",
+        "desc": "Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array (HPVSWR_G)"
+      },
+      {
+        "code": "HSV_G",
+        "desc": "Herpes Simplex Virus Type-1 & Type-2 (HSV_G)"
+      },
+      {
+        "code": "HUQ_G",
+        "desc": "Hospital Utilization & Access to Care (HUQ_G)"
+      },
+      {
+        "code": "IHGEM_G",
+        "desc": "Mercury: Inorganic, Ethyl and Methyl - Blood (IHgEM_G)"
+      },
+      {
+        "code": "IMQ_G",
+        "desc": "Immunization (IMQ_G)"
+      },
+      {
+        "code": "INQ_G",
+        "desc": "Income (INQ_G)"
+      },
+      {
+        "code": "KIQ_U_G",
+        "desc": "Kidney Conditions - Urology (KIQ_U_G)"
+      },
+      {
+        "code": "MCQ_G",
+        "desc": "Medical Conditions (MCQ_G)"
+      },
+      {
+        "code": "MGX_G",
+        "desc": "Muscle Strength - Grip Test (MGX_G)"
+      },
+      {
+        "code": "MMA_G",
+        "desc": "Methylmalonic Acid (MMA_G)"
+      },
+      {
+        "code": "OCQ_G",
+        "desc": "Occupation (OCQ_G)"
+      },
+      {
+        "code": "OGTT_G",
+        "desc": "Oral Glucose Tolerance Test (OGTT_G)"
+      },
+      {
+        "code": "OHQ_G",
+        "desc": "Oral Health (OHQ_G)"
+      },
+      {
+        "code": "OHXDEN_G",
+        "desc": "Oral Health - Dentition (OHXDEN_G)"
+      },
+      {
+        "code": "OHXPER_G",
+        "desc": "Oral Health - Periodontal (OHXPER_G)"
+      },
+      {
+        "code": "OHXREF_G",
+        "desc": "Oral Health - Recommendation of Care (OHXREF_G)"
+      },
+      {
+        "code": "OPD_G",
+        "desc": "Organophosphate Insecticides - Dialkyl Phosphate Metabolites - Urine  (OPD_G)"
+      },
+      {
+        "code": "ORHPV_G",
+        "desc": "Human Papillomavirus (HPV) - Oral Rinse (ORHPV_G)"
+      },
+      {
+        "code": "PAHS_G",
+        "desc": "Polyaromatic Hydrocarbons (PAHs)- Urine - Special Sample (PAHS_G)"
+      },
+      {
+        "code": "PAH_G",
+        "desc": "Polyaromatic Hydrocarbons (PAHs) - Urine (PAH_G)"
+      },
+      {
+        "code": "PAQ_G",
+        "desc": "Physical Activity (PAQ_G)"
+      },
+      {
+        "code": "PAXDAY_G",
+        "desc": "Physical Activity Monitor - Day (PAXDAY_G)"
+      },
+      {
+        "code": "PAXHD_G",
+        "desc": "Physical Activity Monitor - Header (PAXHD_G)"
+      },
+      {
+        "code": "PAXHR_G",
+        "desc": "Physical Activity Monitor - Hour (PAXHR_G)"
+      },
+      {
+        "code": "PBCD_G",
+        "desc": "Cadmium, Lead, Total Mercury, Selenium, & Manganese - Blood (PbCd_G)"
+      },
+      {
+        "code": "PCBPOL_G",
+        "desc": "Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Pooled Samples  (PCBPOL_G)"
+      },
+      {
+        "code": "PERNTS_G",
+        "desc": "Perchlorate, Nitrate & Thiocyanate - Urine - Special Sample (PERNTS_G)"
+      },
+      {
+        "code": "PERNT_G",
+        "desc": "Perchlorate, Nitrate & Thiocyanate - Urine (PERNT_G)"
+      },
+      {
+        "code": "PFC_G",
+        "desc": "Polyfluoroalkyl Chemicals (PFC_G)"
+      },
+      {
+        "code": "PFQ_G",
+        "desc": "Physical Functioning (PFQ_G)"
+      },
+      {
+        "code": "PHTHTE_G",
+        "desc": "Phthalates & Plasticizers Metabolites - Urine (PHTHTE_G)"
+      },
+      {
+        "code": "POOLTF_G",
+        "desc": "Pooled-Sample Technical Support File  (POOLTF_G)"
+      },
+      {
+        "code": "PP_G",
+        "desc": "Pesticides - Environmental - Urine (PP_G)"
+      },
+      {
+        "code": "PSTPOL_G",
+        "desc": "Pesticides - Organochlorine Pesticides - Pooled Samples  (PSTPOL_G)"
+      },
+      {
+        "code": "PUQMEC_G",
+        "desc": "Pesticide Use (PUQMEC_G)"
+      },
+      {
+        "code": "RDQ_G",
+        "desc": "Respiratory Health (RDQ_G)"
+      },
+      {
+        "code": "RHQ_G",
+        "desc": "Reproductive Health (RHQ_G)"
+      },
+      {
+        "code": "RXQASA_G",
+        "desc": "Preventive Aspirin Use (RXQASA_G)"
+      },
+      {
+        "code": "RXQ_RX_G",
+        "desc": "Prescription Medications (RXQ_RX_G)"
+      },
+      {
+        "code": "SLQ_G",
+        "desc": "Sleep Disorders (SLQ_G)"
+      },
+      {
+        "code": "SPX_G",
+        "desc": "Spirometry - Pre and Post-Bronchodilator (SPX_G)"
+      },
+      {
+        "code": "SSANA2_G",
+        "desc": "Autoantibodies - Immunofluorescence Analyses (Surplus) (SSANA2_G)"
+      },
+      {
+        "code": "SSDFS_G",
+        "desc": "Autoantibodies - Anti-DFS70 Autoantibody Analyses (Surplus) (SSDFS_G)"
+      },
+      {
+        "code": "SSFR_G",
+        "desc": "Flame Retardants - Urine  (Surplus)  (SSFR_G)"
+      },
+      {
+        "code": "SSKL_G",
+        "desc": "Klotho - Serum (Surplus) (SSKL_G)"
+      },
+      {
+        "code": "SSTOCA_G",
+        "desc": "Antibody to Toxocara spp. (Surplus) (SSTOCA_G)"
+      },
+      {
+        "code": "SSTOXO_G",
+        "desc": "Toxoplasma gondii Antibody - Serum (Surplus) (SSTOXO_G)"
+      },
+      {
+        "code": "SXQ_G",
+        "desc": "Sexual Behavior (SXQ_G)"
+      },
+      {
+        "code": "TBQ_G",
+        "desc": "Tuberculosis (TBQ_G)"
+      },
+      {
+        "code": "TBX_G",
+        "desc": "Tuberculosis (TBX_G)"
+      },
+      {
+        "code": "TB_G",
+        "desc": "Tuberculosis - Quantiferon_In_Gold (TB_G)"
+      },
+      {
+        "code": "TGEMA_G",
+        "desc": "Tissue Transglutaminase Assay (IgA-TTG) & IgA Endomyseal Antibody Assay (IgA EMA) (TGEMA_G)"
+      },
+      {
+        "code": "THYROD_G",
+        "desc": "Thyroid Profile (THYROD_G)"
+      },
+      {
+        "code": "TRIGLY_G",
+        "desc": "Cholesterol - LDL & Triglycerides (TRIGLY_G)"
+      },
+      {
+        "code": "TST_G",
+        "desc": "Total Testosterone (TST_G)"
+      },
+      {
+        "code": "UASS_G",
+        "desc": "Arsenics - Total & Speciated - Urine - Special Sample (UASS_G)"
+      },
+      {
+        "code": "UAS_G",
+        "desc": "Arsenics - Total & Speciated - Urine (UAS_G)"
+      },
+      {
+        "code": "UCFLOW_G",
+        "desc": "Urine Flow Rate (UCFLOW_G)"
+      },
+      {
+        "code": "UCOSMO_G",
+        "desc": "Osmolality - Urine (UCOSMO_G)"
+      },
+      {
+        "code": "UCPREG_G",
+        "desc": "Pregnancy Test - Urine (UCPREG_G)"
+      },
+      {
+        "code": "UHG_G",
+        "desc": "Mercury: Inorganic - Urine (UHG_G)"
+      },
+      {
+        "code": "UHMS_G",
+        "desc": "Metals - Urine - Special Sample (UHMS_G)"
+      },
+      {
+        "code": "UHM_G",
+        "desc": "Metals - Urine (UHM_G)"
+      },
+      {
+        "code": "UIO_G",
+        "desc": "Iodine - Urine (UIO_G)"
+      },
+      {
+        "code": "UPHOPM_G",
+        "desc": "Pyrethroids, Herbicides, & Organophosphorus Metabolites - Urine (UPHOPM_G)"
+      },
+      {
+        "code": "UVOCS_G",
+        "desc": "Volatile Organic Compound (VOC) Metabolites - Urine - Special Sample (UVOCS_G)"
+      },
+      {
+        "code": "UVOC_G",
+        "desc": "Volatile Organic Compound (VOC) Metabolites - Urine (UVOC_G)"
+      },
+      {
+        "code": "VID_G",
+        "desc": "Vitamin D (VID_G)"
+      },
+      {
+        "code": "VITB12_G",
+        "desc": "Vitamin B12 (VITB12_G)"
+      },
+      {
+        "code": "VOCMWB_G",
+        "desc": "Volatile Organic Compounds (VOCs) - Trihalomethanes/MTBE/Nitromethane - Blood (VOCMWB_G)"
+      },
+      {
+        "code": "VOCWB_G",
+        "desc": "Volatile Organic Compounds (VOCs) - Blood (VOCWB_G)"
+      },
+      {
+        "code": "VTQ_G",
+        "desc": "Volatile Toxicant (VTQ_G)"
+      },
+      {
+        "code": "WHQMEC_G",
+        "desc": "Weight History - Youth (WHQMEC_G)"
+      },
+      {
+        "code": "WHQ_G",
+        "desc": "Weight History (WHQ_G)"
+      }
+    ],
+    "Laboratory": [
+      {
+        "code": "ALB_CR_G",
+        "desc": "Albumin & Creatinine - Urine (ALB_CR_G)"
+      },
+      {
+        "code": "CBC_G",
+        "desc": "Complete Blood Count with 5-part Differential - Whole Blood (CBC_G)"
+      },
+      {
+        "code": "HDL_G",
+        "desc": "Cholesterol - HDL (HDL_G)"
+      },
+      {
+        "code": "TCHOL_G",
+        "desc": "Cholesterol - Total (TCHOL_G)"
+      }
+    ],
+    "Questionnaire": [
+      {
+        "code": "ALQ_G",
+        "desc": "Alcohol Use (ALQ_G)"
+      },
+      {
+        "code": "CDQ_G",
+        "desc": "Cardiovascular Health (CDQ_G)"
+      },
+      {
+        "code": "HSQ_G",
+        "desc": "Current Health Status (HSQ_G)"
+      },
+      {
+        "code": "SMQFAM_G",
+        "desc": "Smoking - Household Smokers (SMQFAM_G)"
+      },
+      {
+        "code": "SMQRTU_G",
+        "desc": "Smoking - Recent Tobacco Use (SMQRTU_G)"
+      },
+      {
+        "code": "SMQ_G",
+        "desc": "Smoking - Cigarette Use (SMQ_G)"
+      }
+    ],
+    "Examination": [
+      {
+        "code": "BMX_G",
+        "desc": "Body Measures (BMX_G)"
+      },
+      {
+        "code": "BPX_G",
+        "desc": "Blood Pressure (BPX_G)"
+      }
+    ],
+    "Dietary": [
+      {
+        "code": "DBQ_G",
+        "desc": "Diet Behavior & Nutrition (DBQ_G)"
+      },
+      {
+        "code": "DR1IFF_G",
+        "desc": "Dietary Interview - Individual Foods, First Day (DR1IFF_G)"
+      },
+      {
+        "code": "DR1TOT_G",
+        "desc": "Dietary Interview - Total Nutrient Intakes, First Day (DR1TOT_G)"
+      },
+      {
+        "code": "DR2IFF_G",
+        "desc": "Dietary Interview - Individual Foods, Second Day (DR2IFF_G)"
+      },
+      {
+        "code": "DR2TOT_G",
+        "desc": "Dietary Interview - Total Nutrient Intakes, Second Day (DR2TOT_G)"
+      }
+    ],
+    "Demographics": [
+      {
+        "code": "DEMO_G",
+        "desc": "Demographic Variables & Sample Weights (DEMO_G)"
+      }
+    ]
+  },
+  "2015-2016": {
+    "Other": [
+      {
+        "code": "ACQ_I",
+        "desc": "Acculturation (ACQ_I)"
+      },
+      {
+        "code": "AMDGYD_I",
+        "desc": "Acrylamide & Glycidamide  (AMDGYD_I)"
+      },
+      {
+        "code": "APOB_I",
+        "desc": "Apolipoprotein B (APOB_I)"
+      },
+      {
+        "code": "AUQ_I",
+        "desc": "Audiometry (AUQ_I)"
+      },
+      {
+        "code": "AUXAR_I",
+        "desc": "Audiometry - Acoustic Reflex (AUXAR_I)"
+      },
+      {
+        "code": "AUXTYM_I",
+        "desc": "Audiometry - Tympanometry  (AUXTYM_I)"
+      },
+      {
+        "code": "AUXWBR_I",
+        "desc": "Audiometry – Wideband Reflectance  (AUXWBR_I)"
+      },
+      {
+        "code": "AUX_I",
+        "desc": "Audiometry (AUX_I)"
+      },
+      {
+        "code": "BFRPOL_I",
+        "desc": "Brominated Flame Retardants (BFRs) - Pooled Samples  (BFRPOL_I)"
+      },
+      {
+        "code": "BIOPRO_I",
+        "desc": "Standard Biochemistry Profile  (BIOPRO_I)"
+      },
+      {
+        "code": "BPQ_I",
+        "desc": "Blood Pressure & Cholesterol (BPQ_I)"
+      },
+      {
+        "code": "CBQ_I",
+        "desc": "Consumer Behavior (CBQ_I)"
+      },
+      {
+        "code": "CHLMDA_I",
+        "desc": "Chlamydia - Urine (CHLMDA_I)"
+      },
+      {
+        "code": "COT_I",
+        "desc": "Cotinine and Hydroxycotinine - Serum (COT_I)"
+      },
+      {
+        "code": "CRCO_I",
+        "desc": "Chromium & Cobalt  (CRCO_I)"
+      },
+      {
+        "code": "CUSEZN_I",
+        "desc": "Copper, Selenium & Zinc - Serum (CUSEZN_I)"
+      },
+      {
+        "code": "DEET_I",
+        "desc": "DEET Metabolite - Urine (DEET_I)"
+      },
+      {
+        "code": "DEQ_I",
+        "desc": "Dermatology (DEQ_I)"
+      },
+      {
+        "code": "DIQ_I",
+        "desc": "Diabetes (DIQ_I)"
+      },
+      {
+        "code": "DLQ_I",
+        "desc": "Disability (DLQ_I)"
+      },
+      {
+        "code": "DOXPOL_I",
+        "desc": "Polychlorinated dibenzo-p-dioxins (PCDDs), Dibenzofurans (PCDFs) & Coplanar Polychlorinated Biphenyls (cPCBs) - Pooled Samples  (DOXPOL_I)"
+      },
+      {
+        "code": "DPQ_I",
+        "desc": "Mental Health - Depression Screener (DPQ_I)"
+      },
+      {
+        "code": "DRXFCD_I",
+        "desc": "Dietary Interview Technical Support File - Food Codes (DRXFCD_I)"
+      },
+      {
+        "code": "DS1IDS_I",
+        "desc": "Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day (DS1IDS_I)"
+      },
+      {
+        "code": "DS1TOT_I",
+        "desc": "Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day  (DS1TOT_I)"
+      },
+      {
+        "code": "DS2IDS_I",
+        "desc": "Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day (DS2IDS_I)"
+      },
+      {
+        "code": "DS2TOT_I",
+        "desc": "Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day  (DS2TOT_I)"
+      },
+      {
+        "code": "DSQIDS_I",
+        "desc": "Dietary Supplement Use 30-Day - Individual Dietary Supplements (DSQIDS_I)"
+      },
+      {
+        "code": "DSQTOT_I",
+        "desc": "Dietary Supplement Use 30-Day - Total Dietary Supplements  (DSQTOT_I)"
+      },
+      {
+        "code": "DUQ_I",
+        "desc": "Drug Use (DUQ_I)"
+      },
+      {
+        "code": "DXXAG_I",
+        "desc": "Dual-Energy X-ray Absorptiometry - Android/Gynoid Measurements  (DXXAG_I)"
+      },
+      {
+        "code": "DXX_I",
+        "desc": "Dual-Energy X-ray Absorptiometry - Whole Body  (DXX_I)"
+      },
+      {
+        "code": "ECQ_I",
+        "desc": "Early Childhood (ECQ_I)"
+      },
+      {
+        "code": "EPHPP_I",
+        "desc": "Personal Care and Consumer Product Chemicals and Metabolites  (EPHPP_I)"
+      },
+      {
+        "code": "ETHOX_I",
+        "desc": "Ethylene Oxide (ETHOX_I)"
+      },
+      {
+        "code": "FASTQX_I",
+        "desc": "Fasting Questionnaire  (FASTQX_I)"
+      },
+      {
+        "code": "FERTIN_I",
+        "desc": "Ferritin  (FERTIN_I)"
+      },
+      {
+        "code": "FLDEP_I",
+        "desc": "Fluoride - Plasma  (FLDEP_I)"
+      },
+      {
+        "code": "FLDEW_I",
+        "desc": "Fluoride - Water  (FLDEW_I)"
+      },
+      {
+        "code": "FLXCLN_I",
+        "desc": "Fluorosis - Clinical  (FLXCLN_I)"
+      },
+      {
+        "code": "FOLATE_I",
+        "desc": "Folate - RBC (FOLATE_I)"
+      },
+      {
+        "code": "FOLFMS_I",
+        "desc": "Folate Forms - Total & Individual - Serum  (FOLFMS_I)"
+      },
+      {
+        "code": "FORMAL_I",
+        "desc": "Formaldehyde (FORMAL_I)"
+      },
+      {
+        "code": "FSQ_I",
+        "desc": "Food Security (FSQ_I)"
+      },
+      {
+        "code": "GHB_I",
+        "desc": "Glycohemoglobin (GHB_I)"
+      },
+      {
+        "code": "GLU_I",
+        "desc": "Plasma Fasting Glucose (GLU_I)"
+      },
+      {
+        "code": "HEPA_I",
+        "desc": "Hepatitis A (HEPA_I)"
+      },
+      {
+        "code": "HEPBD_I",
+        "desc": "Hepatitis B: Core antibody, Surface antigen, and Hepatitis D antibody  (HEPBD_I)"
+      },
+      {
+        "code": "HEPB_S_I",
+        "desc": "Hepatitis B: Surface Antibody (HEPB_S_I)"
+      },
+      {
+        "code": "HEPC_I",
+        "desc": "Hepatitis C: RNA (HCV-RNA) and Hepatitis C Genotype (HEPC_I)"
+      },
+      {
+        "code": "HEPE_I",
+        "desc": "Hepatitis E: IgG & IgM Antibodies (HEPE_I)"
+      },
+      {
+        "code": "HEQ_I",
+        "desc": "Hepatitis (HEQ_I)"
+      },
+      {
+        "code": "HIQ_I",
+        "desc": "Health Insurance (HIQ_I)"
+      },
+      {
+        "code": "HIV_I",
+        "desc": "HIV Antibody Test  (HIV_I)"
+      },
+      {
+        "code": "HOQ_I",
+        "desc": "Housing Characteristics (HOQ_I)"
+      },
+      {
+        "code": "HPVP_I",
+        "desc": "Human Papillomavirus (HPV) DNA - Penile Swabs: Roche Linear Array (HPVP_I)"
+      },
+      {
+        "code": "HPVSWC_I",
+        "desc": "Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas High-Risk  (HPVSWC_I)"
+      },
+      {
+        "code": "HPVSWR_I",
+        "desc": "Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Linear Array  (HPVSWR_I)"
+      },
+      {
+        "code": "HSCRP_I",
+        "desc": "High-Sensitivity C-Reactive Protein (hs-CRP)  (HSCRP_I)"
+      },
+      {
+        "code": "HSV_I",
+        "desc": "Herpes Simplex Virus Type-1 & Type-2 (HSV_I)"
+      },
+      {
+        "code": "HUQ_I",
+        "desc": "Hospital Utilization & Access to Care (HUQ_I)"
+      },
+      {
+        "code": "IHGEM_I",
+        "desc": "Mercury: Inorganic, Ethyl and Methyl - Blood (IHGEM_I)"
+      },
+      {
+        "code": "IMQ_I",
+        "desc": "Immunization (IMQ_I)"
+      },
+      {
+        "code": "INQ_I",
+        "desc": "Income (INQ_I)"
+      },
+      {
+        "code": "INS_I",
+        "desc": "Insulin  (INS_I)"
+      },
+      {
+        "code": "KIQ_U_I",
+        "desc": "Kidney Conditions - Urology (KIQ_U_I)"
+      },
+      {
+        "code": "MCQ_I",
+        "desc": "Medical Conditions (MCQ_I)"
+      },
+      {
+        "code": "OCQ_I",
+        "desc": "Occupation (OCQ_I)"
+      },
+      {
+        "code": "OGTT_I",
+        "desc": "Oral Glucose Tolerance Test  (OGTT_I)"
+      },
+      {
+        "code": "OHQ_I",
+        "desc": "Oral Health (OHQ_I)"
+      },
+      {
+        "code": "OHXDEN_I",
+        "desc": "Oral Health - Dentition (OHXDEN_I)"
+      },
+      {
+        "code": "OHXREF_I",
+        "desc": "Oral Health - Recommendation of Care  (OHXREF_I)"
+      },
+      {
+        "code": "OPD_I",
+        "desc": "Organophosphate Insecticides - Dialkyl Phosphate Metabolites - Urine (OPD_I)"
+      },
+      {
+        "code": "ORHPV_I",
+        "desc": "Human Papillomavirus (HPV) - Oral Rinse (ORHPV_I)"
+      },
+      {
+        "code": "PAHS_I",
+        "desc": "Polycyclic Aromatic Hydrocarbons (PAH) - Urine - Special Sample (PAHS_I)"
+      },
+      {
+        "code": "PAH_I",
+        "desc": "Polycyclic Aromatic Hydrocarbons (PAH) - Urine (PAH_I)"
+      },
+      {
+        "code": "PAQ_I",
+        "desc": "Physical Activity (PAQ_I)"
+      },
+      {
+        "code": "PBCD_I",
+        "desc": "Lead, Cadmium, Total Mercury, Selenium & Manganese - Blood (PBCD_I)"
+      },
+      {
+        "code": "PCBPOL_I",
+        "desc": "Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Pooled Samples  (PCBPOL_I)"
+      },
+      {
+        "code": "PERNTS_I",
+        "desc": "Perchlorate, Nitrate & Thiocyanate - Urine - Special Sample (PERNTS_I)"
+      },
+      {
+        "code": "PERNT_I",
+        "desc": "Perchlorate, Nitrate & Thiocyanate - Urine (PERNT_I)"
+      },
+      {
+        "code": "PFAS_I",
+        "desc": "Perfluoroalkyl and Polyfluoroalkyl  (PFAS_I)"
+      },
+      {
+        "code": "PFQ_I",
+        "desc": "Physical Functioning (PFQ_I)"
+      },
+      {
+        "code": "PHTHTE_I",
+        "desc": "Phthalates and Plasticizers Metabolites - Urine (PHTHTE_I)"
+      },
+      {
+        "code": "POOLTF_I",
+        "desc": "Pooled-Sample Technical Support File (POOLTF_I)"
+      },
+      {
+        "code": "PSTPOL_I",
+        "desc": "Pesticides - Organochlorine Pesticides - Pooled Samples  (PSTPOL_I)"
+      },
+      {
+        "code": "PUQMEC_I",
+        "desc": "Pesticide Use (PUQMEC_I)"
+      },
+      {
+        "code": "RHQ_I",
+        "desc": "Reproductive Health (RHQ_I)"
+      },
+      {
+        "code": "RXQASA_I",
+        "desc": "Preventive Aspirin Use (RXQASA_I)"
+      },
+      {
+        "code": "RXQ_RX_I",
+        "desc": "Prescription Medications (RXQ_RX_I)"
+      },
+      {
+        "code": "SLQ_I",
+        "desc": "Sleep Disorders (SLQ_I)"
+      },
+      {
+        "code": "SSAGP_I",
+        "desc": "Alpha-1-Acid Glycoprotein - Serum (Surplus) (SSAGP_I)"
+      },
+      {
+        "code": "SSCLTY_I",
+        "desc": "Chlorinated Tyrosine – Serum (Surplus)  (SSCLTY_I)"
+      },
+      {
+        "code": "SSCT_I",
+        "desc": "Chlamydia Pgp3 (plasmid gene product 3) ELISA (enzyme linked immunosorbent assay) and multiplex bead array (MBA) results (SSCT_I)"
+      },
+      {
+        "code": "SSDEET_I",
+        "desc": "DEET Metabolites - Urine - Surplus  (SSDEET_I)"
+      },
+      {
+        "code": "SSFR_I",
+        "desc": "Flame Retardants - Urine (Surplus) (SSFR_I)"
+      },
+      {
+        "code": "SSGLYP_I",
+        "desc": "Glyphosate (GLYP) - Urine (Surplus) (SSGLYP_I)"
+      },
+      {
+        "code": "SSKL_I",
+        "desc": "Klotho - Serum (Surplus) (SSKL_I)"
+      },
+      {
+        "code": "SSMHHT_I",
+        "desc": "Mono-2-ethyl-5-hydroxyhexyl terephthalate, mono-2-ethyl-5-carboxypentyl terephthalate, and monooxoisononyl phthalate - Urine (Surplus) (SSMHHT_I)"
+      },
+      {
+        "code": "SSNEON_I",
+        "desc": "Neonicotinoids - Urine - Surplus (SSNEON_I)"
+      },
+      {
+        "code": "SSPT_I",
+        "desc": "Pertussis and tetanus – Serum (Surplus) (SSPT_I)"
+      },
+      {
+        "code": "SXQ_I",
+        "desc": "Sexual Behavior (SXQ_I)"
+      },
+      {
+        "code": "TFR_I",
+        "desc": "Transferrin Receptor (TFR_I)"
+      },
+      {
+        "code": "TRICH_I",
+        "desc": "Trichomonas - Urine (TRICH_I)"
+      },
+      {
+        "code": "TRIGLY_I",
+        "desc": "Cholesterol - Low - Density Lipoprotein (LDL) & Triglycerides (TRIGLY_I)"
+      },
+      {
+        "code": "TST_I",
+        "desc": "Sex Steroid Hormone - Serum (TST_I)"
+      },
+      {
+        "code": "UADM_I",
+        "desc": "Aromatic Diamines - Urine  (UADM_I)"
+      },
+      {
+        "code": "UASS_I",
+        "desc": "Speciated Arsenics - Urine - Special Sample (UASS_I)"
+      },
+      {
+        "code": "UAS_I",
+        "desc": "Speciated Arsenics - Urine (UAS_I)"
+      },
+      {
+        "code": "UCFLOW_I",
+        "desc": "Urine Flow Rate  (UCFLOW_I)"
+      },
+      {
+        "code": "UCOTS_I",
+        "desc": "Cotinine, Hydroxycotinine, & Other Nicotine Metabolites and Analogs - Urine - Special Sample (UCOTS_I)"
+      },
+      {
+        "code": "UCOT_I",
+        "desc": "Cotinine, Hydroxycotinine, & Other Nicotine Metabolites and Analogs - Urine (UCOT_I)"
+      },
+      {
+        "code": "UCPREG_I",
+        "desc": "Pregnancy Test - Urine (UCPREG_I)"
+      },
+      {
+        "code": "UFLDE_I",
+        "desc": "Fluoride - Urine  (UFLDE_I)"
+      },
+      {
+        "code": "UHG_I",
+        "desc": "Mercury: Inorganic - Urine (UHG_I)"
+      },
+      {
+        "code": "UIO_I",
+        "desc": "Iodine - Urine (UIO_I)"
+      },
+      {
+        "code": "UMS_I",
+        "desc": "Metals - Urine - Special Sample (UMS_I)"
+      },
+      {
+        "code": "UM_I",
+        "desc": "Metals - Urine  (UM_I)"
+      },
+      {
+        "code": "UPHOPM_I",
+        "desc": "Pyrethroids, Herbicides, & Organophosphorus Metabolites - Urine (UPHOPM_I)"
+      },
+      {
+        "code": "UTASS_I",
+        "desc": "Arsenic - Total - Urine - Special Sample (UTASS_I)"
+      },
+      {
+        "code": "UTAS_I",
+        "desc": "Arsenic - Total - Urine (UTAS_I)"
+      },
+      {
+        "code": "UVOCS_I",
+        "desc": "Volatile Organic Compound (VOC) Metabolites - Urine - Special Sample (UVOCS_I)"
+      },
+      {
+        "code": "UVOC_I",
+        "desc": "Volatile Organic Compound (VOC) Metabolites - Urine (UVOC_I)"
+      },
+      {
+        "code": "VID_I",
+        "desc": "Vitamin D (VID_I)"
+      },
+      {
+        "code": "VOCWBS_I",
+        "desc": "Volatile Organic Compounds and Trihalomethanes/MTBE – Blood – Special Sample  (VOCWBS_I)"
+      },
+      {
+        "code": "VOCWB_I",
+        "desc": "Volatile Organic Compounds and Trihalomethanes/MTBE - Blood  (VOCWB_I)"
+      },
+      {
+        "code": "VTQ_I",
+        "desc": "Volatile Toxicant (VTQ_I)"
+      },
+      {
+        "code": "WHQMEC_I",
+        "desc": "Weight History - Youth (WHQMEC_I)"
+      },
+      {
+        "code": "WHQ_I",
+        "desc": "Weight History (WHQ_I)"
+      }
+    ],
+    "Laboratory": [
+      {
+        "code": "ALB_CR_I",
+        "desc": "Albumin & Creatinine - Urine  (ALB_CR_I)"
+      },
+      {
+        "code": "CBC_I",
+        "desc": "Complete Blood Count with 5-Part Differential - Whole Blood (CBC_I)"
+      },
+      {
+        "code": "HDL_I",
+        "desc": "Cholesterol - High-Density Lipoprotein (HDL)  (HDL_I)"
+      },
+      {
+        "code": "TCHOL_I",
+        "desc": "Cholesterol - Total (TCHOL_I)"
+      }
+    ],
+    "Questionnaire": [
+      {
+        "code": "ALQ_I",
+        "desc": "Alcohol Use (ALQ_I)"
+      },
+      {
+        "code": "CDQ_I",
+        "desc": "Cardiovascular Health (CDQ_I)"
+      },
+      {
+        "code": "HSQ_I",
+        "desc": "Current Health Status (HSQ_I)"
+      },
+      {
+        "code": "SMQFAM_I",
+        "desc": "Smoking - Household Smokers (SMQFAM_I)"
+      },
+      {
+        "code": "SMQRTU_I",
+        "desc": "Smoking - Recent Tobacco Use (SMQRTU_I)"
+      },
+      {
+        "code": "SMQSHS_I",
+        "desc": "Smoking - Secondhand Smoke Exposure (SMQSHS_I)"
+      },
+      {
+        "code": "SMQ_I",
+        "desc": "Smoking - Cigarette Use (SMQ_I)"
+      }
+    ],
+    "Examination": [
+      {
+        "code": "BMX_I",
+        "desc": "Body Measures  (BMX_I)"
+      },
+      {
+        "code": "BPX_I",
+        "desc": "Blood Pressure (BPX_I)"
+      }
+    ],
+    "Dietary": [
+      {
+        "code": "DBQ_I",
+        "desc": "Diet Behavior & Nutrition (DBQ_I)"
+      },
+      {
+        "code": "DR1IFF_I",
+        "desc": "Dietary Interview - Individual Foods, First Day (DR1IFF_I)"
+      },
+      {
+        "code": "DR1TOT_I",
+        "desc": "Dietary Interview - Total Nutrient Intakes, First Day (DR1TOT_I)"
+      },
+      {
+        "code": "DR2IFF_I",
+        "desc": "Dietary Interview - Individual Foods, Second Day (DR2IFF_I)"
+      },
+      {
+        "code": "DR2TOT_I",
+        "desc": "Dietary Interview - Total Nutrient Intakes, Second Day (DR2TOT_I)"
+      }
+    ],
+    "Demographics": [
+      {
+        "code": "DEMO_I",
+        "desc": "Demographic Variables and Sample Weights (DEMO_I)"
+      }
+    ]
+  },
+  "2017-2018": {
+    "Other": [
+      {
+        "code": "ACQ_J",
+        "desc": "Acculturation (ACQ_J)"
+      },
+      {
+        "code": "AUQ_J",
+        "desc": "Audiometry (AUQ_J)"
+      },
+      {
+        "code": "AUXAR_J",
+        "desc": "Audiometry - Acoustic Reflex (AUXAR_J)"
+      },
+      {
+        "code": "AUXTYM_J",
+        "desc": "Audiometry - Tympanometry  (AUXTYM_J)"
+      },
+      {
+        "code": "AUXWBR_J",
+        "desc": "Audiometry - Wideband Reflectance (AUXWBR_J)"
+      },
+      {
+        "code": "AUX_J",
+        "desc": "Audiometry (AUX_J)"
+      },
+      {
+        "code": "BIOPRO_J",
+        "desc": "Standard Biochemistry Profile (BIOPRO_J)"
+      },
+      {
+        "code": "BPQ_J",
+        "desc": "Blood Pressure & Cholesterol (BPQ_J)"
+      },
+      {
+        "code": "CBQPFA_J",
+        "desc": "Consumer Behavior Phone Follow-up Module - Adult (CBQPFA_J)"
+      },
+      {
+        "code": "CBQPFC_J",
+        "desc": "Consumer Behavior Phone Follow-up Module - Child  (CBQPFC_J)"
+      },
+      {
+        "code": "CBQ_J",
+        "desc": "Consumer Behavior (CBQ_J)"
+      },
+      {
+        "code": "CMV_J",
+        "desc": "Cytomegalovirus IgG & IgM Antibodies - Serum (CMV_J)"
+      },
+      {
+        "code": "COT_J",
+        "desc": "Cotinine and Hydroxycotinine - Serum (COT_J)"
+      },
+      {
+        "code": "CRCO_J",
+        "desc": "Chromium & Cobalt (CRCO_J)"
+      },
+      {
+        "code": "DEQ_J",
+        "desc": "Dermatology (DEQ_J)"
+      },
+      {
+        "code": "DIQ_J",
+        "desc": "Diabetes (DIQ_J)"
+      },
+      {
+        "code": "DLQ_J",
+        "desc": "Disability (DLQ_J)"
+      },
+      {
+        "code": "DPQ_J",
+        "desc": "Mental Health - Depression Screener (DPQ_J)"
+      },
+      {
+        "code": "DRXFCD_J",
+        "desc": "Dietary Interview Technical Support File - Food Codes (DRXFCD_J)"
+      },
+      {
+        "code": "DS1IDS_J",
+        "desc": "Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day (DS1IDS_J)"
+      },
+      {
+        "code": "DS1TOT_J",
+        "desc": "Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day  (DS1TOT_J)"
+      },
+      {
+        "code": "DS2IDS_J",
+        "desc": "Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day (DS2IDS_J)"
+      },
+      {
+        "code": "DS2TOT_J",
+        "desc": "Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day  (DS2TOT_J)"
+      },
+      {
+        "code": "DSQIDS_J",
+        "desc": "Dietary Supplement Use 30-Day - Individual Dietary Supplements (DSQIDS_J)"
+      },
+      {
+        "code": "DSQTOT_J",
+        "desc": "Dietary Supplement Use 30-Day - Total Dietary Supplements  (DSQTOT_J)"
+      },
+      {
+        "code": "DUQ_J",
+        "desc": "Drug Use (DUQ_J)"
+      },
+      {
+        "code": "DXXAG_J",
+        "desc": "Dual-Energy X-ray Absorptiometry - Android/Gynoid Measurements  (DXXAG_J)"
+      },
+      {
+        "code": "DXXFEM_J",
+        "desc": "Dual-Energy X-ray Absorptiometry - Femur  (DXXFEM_J)"
+      },
+      {
+        "code": "DXXSPN_J",
+        "desc": "Dual-Energy X-ray Absorptiometry - Spine  (DXXSPN_J)"
+      },
+      {
+        "code": "DXX_J",
+        "desc": "Dual-Energy X-ray Absorptiometry - Whole Body  (DXX_J)"
+      },
+      {
+        "code": "ECQ_J",
+        "desc": "Early Childhood (ECQ_J)"
+      },
+      {
+        "code": "ETHOX_J",
+        "desc": "Ethylene Oxide  (ETHOX_J)"
+      },
+      {
+        "code": "FASTQX_J",
+        "desc": "Fasting Questionnaire (FASTQX_J)"
+      },
+      {
+        "code": "FERTIN_J",
+        "desc": "Ferritin  (FERTIN_J)"
+      },
+      {
+        "code": "FETIB_J",
+        "desc": "Iron Status - Serum (FETIB_J)"
+      },
+      {
+        "code": "FOLATE_J",
+        "desc": "Folate - RBC (FOLATE_J)"
+      },
+      {
+        "code": "FOLFMS_J",
+        "desc": "Folate Forms - Total & Individual - Serum (FOLFMS_J)"
+      },
+      {
+        "code": "FR_J",
+        "desc": "Flame Retardants - Urine  (FR_J)"
+      },
+      {
+        "code": "FSQ_J",
+        "desc": "Food Security (FSQ_J)"
+      },
+      {
+        "code": "GHB_J",
+        "desc": "Glycohemoglobin (GHB_J)"
+      },
+      {
+        "code": "GLU_J",
+        "desc": "Plasma Fasting Glucose  (GLU_J)"
+      },
+      {
+        "code": "HEPA_J",
+        "desc": "Hepatitis A (HEPA_J)"
+      },
+      {
+        "code": "HEPBD_J",
+        "desc": "Hepatitis B: Core antibody, Surface antigen, and Hepatitis D antibody  (HEPBD_J)"
+      },
+      {
+        "code": "HEPB_S_J",
+        "desc": "Hepatitis B: Surface Antibody (HEPB_S_J)"
+      },
+      {
+        "code": "HEPC_J",
+        "desc": "Hepatitis C: RNA (HCV-RNA), Confirmed Antibody (INNO-LIA), & Genotype (HEPC_J)"
+      },
+      {
+        "code": "HEPE_J",
+        "desc": "Hepatitis E: IgG & IgM Antibodies (HEPE_J)"
+      },
+      {
+        "code": "HEQ_J",
+        "desc": "Hepatitis (HEQ_J)"
+      },
+      {
+        "code": "HIQ_J",
+        "desc": "Health Insurance (HIQ_J)"
+      },
+      {
+        "code": "HIV_J",
+        "desc": "HIV Antibody Test  (HIV_J)"
+      },
+      {
+        "code": "HOQ_J",
+        "desc": "Housing Characteristics (HOQ_J)"
+      },
+      {
+        "code": "HSCRP_J",
+        "desc": "High-Sensitivity C-Reactive Protein (HSCRP_J)"
+      },
+      {
+        "code": "HUQ_J",
+        "desc": "Hospital Utilization & Access to Care (HUQ_J)"
+      },
+      {
+        "code": "IHGEM_J",
+        "desc": "Mercury: Inorganic, Ethyl and Methyl - Blood (IHGEM_J)"
+      },
+      {
+        "code": "IMQ_J",
+        "desc": "Immunization (IMQ_J)"
+      },
+      {
+        "code": "INQ_J",
+        "desc": "Income (INQ_J)"
+      },
+      {
+        "code": "INS_J",
+        "desc": "Insulin (INS_J)"
+      },
+      {
+        "code": "KIQ_U_J",
+        "desc": "Kidney Conditions - Urology (KIQ_U_J)"
+      },
+      {
+        "code": "LUX_J",
+        "desc": "Liver Ultrasound Transient Elastography  (LUX_J)"
+      },
+      {
+        "code": "MCQ_J",
+        "desc": "Medical Conditions (MCQ_J)"
+      },
+      {
+        "code": "OCQ_J",
+        "desc": "Occupation (OCQ_J)"
+      },
+      {
+        "code": "OHQ_J",
+        "desc": "Oral Health (OHQ_J)"
+      },
+      {
+        "code": "OHXDEN_J",
+        "desc": "Oral Health - Dentition  (OHXDEN_J)"
+      },
+      {
+        "code": "OHXREF_J",
+        "desc": "Oral Health - Recommendation of Care  (OHXREF_J)"
+      },
+      {
+        "code": "OPD_J",
+        "desc": "Organophosphate Insecticides - Dialkyl Phosphate Metabolites - Urine  (OPD_J)"
+      },
+      {
+        "code": "OSQ_J",
+        "desc": "Osteoporosis (OSQ_J)"
+      },
+      {
+        "code": "PAQY_J",
+        "desc": "Physical Activity - Youth (PAQY_J)"
+      },
+      {
+        "code": "PAQ_J",
+        "desc": "Physical Activity (PAQ_J)"
+      },
+      {
+        "code": "PBCD_J",
+        "desc": "Lead, Cadmium, Total Mercury, Selenium, & Manganese - Blood (PBCD_J)"
+      },
+      {
+        "code": "PERNT_J",
+        "desc": "Perchlorate, Nitrate & Thiocyanate - Urine (PERNT_J)"
+      },
+      {
+        "code": "PFAS_J",
+        "desc": "Perfluoroalkyl and Polyfluoroalkyl Substances (PFAS_J)"
+      },
+      {
+        "code": "PFQ_J",
+        "desc": "Physical Functioning (PFQ_J)"
+      },
+      {
+        "code": "PHTHTE_J",
+        "desc": "Phthalates and Plasticizers Metabolites - Urine  (PHTHTE_J)"
+      },
+      {
+        "code": "PUQMEC_J",
+        "desc": "Pesticide Use (PUQMEC_J)"
+      },
+      {
+        "code": "RHQ_J",
+        "desc": "Reproductive Health (RHQ_J)"
+      },
+      {
+        "code": "RXQASA_J",
+        "desc": "Preventive Aspirin Use (RXQASA_J)"
+      },
+      {
+        "code": "RXQ_RX_J",
+        "desc": "Prescription Medications (RXQ_RX_J)"
+      },
+      {
+        "code": "SLQ_J",
+        "desc": "Sleep Disorders (SLQ_J)"
+      },
+      {
+        "code": "SSAGP_J",
+        "desc": "Alpha-1-Acid Glycoprotein - Serum (Surplus) (SSAGP_J)"
+      },
+      {
+        "code": "SSFR_J",
+        "desc": "Flame Retardants - Urine (Surplus)  (SSFR_J)"
+      },
+      {
+        "code": "SSGLYP_J",
+        "desc": "Glyphosate (GLYP) - Urine (Surplus)  (SSGLYP_J)"
+      },
+      {
+        "code": "SSNEON_J",
+        "desc": "Neonicotinoids - Urine (Surplus) (SSNEON_J)"
+      },
+      {
+        "code": "SSPFAS_J",
+        "desc": "Perfluoroalkyl and Polyfluoroalkyl Substances (Surplus) (SSPFAS_J)"
+      },
+      {
+        "code": "SSTST_J",
+        "desc": "Sex Steroid Hormone Panel - Serum (Surplus) (SSTST_J)"
+      },
+      {
+        "code": "SSUVOC_J",
+        "desc": "Volatile Organic Compound (VOC) Metabolites II - Urine (Surplus) (SSUVOC_J)"
+      },
+      {
+        "code": "TFR_J",
+        "desc": "Transferrin Receptor (TFR_J)"
+      },
+      {
+        "code": "TRIGLY_J",
+        "desc": "Cholesterol - Low-Density Lipoproteins (LDL) & Triglycerides (TRIGLY_J)"
+      },
+      {
+        "code": "UAS_J",
+        "desc": "Arsenics - Speciated - Urine (UAS_J)"
+      },
+      {
+        "code": "UCFLOW_J",
+        "desc": "Urine Flow Rate  (UCFLOW_J)"
+      },
+      {
+        "code": "UCM_J",
+        "desc": "Chromium - Urine (UCM_J)"
+      },
+      {
+        "code": "UCOT_J",
+        "desc": "Cotinine, Hydroxycotinine, & Other Nicotine Metabolites and Analogs - Urine  (UCOT_J)"
+      },
+      {
+        "code": "UCPREG_J",
+        "desc": "Urine Pregnancy Test (UCPREG_J)"
+      },
+      {
+        "code": "UHG_J",
+        "desc": "Mercury: Inorganic - Urine (UHG_J)"
+      },
+      {
+        "code": "UIO_J",
+        "desc": "Iodine - Urine (UIO_J)"
+      },
+      {
+        "code": "UM_J",
+        "desc": "Metals - Urine (UM_J)"
+      },
+      {
+        "code": "UNI_J",
+        "desc": "Nickel - Urine (UNI_J)"
+      },
+      {
+        "code": "UTAS_J",
+        "desc": "Arsenic - Total - Urine (UTAS_J)"
+      },
+      {
+        "code": "UVOC_J",
+        "desc": "Volatile Organic Compound (VOC) Metabolites - Urine (UVOC_J)"
+      },
+      {
+        "code": "VIC_J",
+        "desc": "Vitamin C (VIC_J)"
+      },
+      {
+        "code": "VID_J",
+        "desc": "Vitamin D  (VID_J)"
+      },
+      {
+        "code": "VITAEC_J",
+        "desc": "Vitamin A, Vitamin E & Carotenoids  (VITAEC_J)"
+      },
+      {
+        "code": "VOCWB_J",
+        "desc": "Volatile Organic Compounds and Trihalomethanes/MTBE - Blood  (VOCWB_J)"
+      },
+      {
+        "code": "VTQ_J",
+        "desc": "Volatile Toxicant (VTQ_J)"
+      },
+      {
+        "code": "WHQMEC_J",
+        "desc": "Weight History - Youth (WHQMEC_J)"
+      },
+      {
+        "code": "WHQ_J",
+        "desc": "Weight History (WHQ_J)"
+      }
+    ],
+    "Laboratory": [
+      {
+        "code": "ALB_CR_J",
+        "desc": "Albumin & Creatinine - Urine  (ALB_CR_J)"
+      },
+      {
+        "code": "CBC_J",
+        "desc": "Complete Blood Count with 5-Part Differential (CBC_J)"
+      },
+      {
+        "code": "HDL_J",
+        "desc": "Cholesterol - High - Density Lipoprotein (HDL)  (HDL_J)"
+      },
+      {
+        "code": "TCHOL_J",
+        "desc": "Cholesterol - Total (TCHOL_J)"
+      }
+    ],
+    "Questionnaire": [
+      {
+        "code": "ALQ_J",
+        "desc": "Alcohol Use (ALQ_J)"
+      },
+      {
+        "code": "CDQ_J",
+        "desc": "Cardiovascular Health (CDQ_J)"
+      },
+      {
+        "code": "HSQ_J",
+        "desc": "Current Health Status (HSQ_J)"
+      },
+      {
+        "code": "SMQFAM_J",
+        "desc": "Smoking - Household Smokers (SMQFAM_J)"
+      },
+      {
+        "code": "SMQRTU_J",
+        "desc": "Smoking - Recent Tobacco Use (SMQRTU_J)"
+      },
+      {
+        "code": "SMQSHS_J",
+        "desc": "Smoking - Secondhand Smoke Exposure (SMQSHS_J)"
+      },
+      {
+        "code": "SMQ_J",
+        "desc": "Smoking - Cigarette Use (SMQ_J)"
+      }
+    ],
+    "Examination": [
+      {
+        "code": "BMX_J",
+        "desc": "Body Measures (BMX_J)"
+      },
+      {
+        "code": "BPXO_J",
+        "desc": "Blood Pressure - Oscillometric Measurements  (BPXO_J)"
+      },
+      {
+        "code": "BPX_J",
+        "desc": "Blood Pressure  (BPX_J)"
+      }
+    ],
+    "Dietary": [
+      {
+        "code": "DBQ_J",
+        "desc": "Diet Behavior & Nutrition (DBQ_J)"
+      },
+      {
+        "code": "DR1IFF_J",
+        "desc": "Dietary Interview - Individual Foods, First Day (DR1IFF_J)"
+      },
+      {
+        "code": "DR1TOT_J",
+        "desc": "Dietary Interview - Total Nutrient Intakes, First Day (DR1TOT_J)"
+      },
+      {
+        "code": "DR2IFF_J",
+        "desc": "Dietary Interview - Individual Foods, Second Day (DR2IFF_J)"
+      },
+      {
+        "code": "DR2TOT_J",
+        "desc": "Dietary Interview - Total Nutrient Intakes, Second Day (DR2TOT_J)"
+      }
+    ],
+    "Demographics": [
+      {
+        "code": "DEMO_J",
+        "desc": "Demographic Variables and Sample Weights (DEMO_J)"
+      }
+    ]
+  },
+  "2021-2023": {
+    "Other": [
+      {
+        "code": "ACQ_L",
+        "desc": "Acculturation (ACQ_L)"
+      },
+      {
+        "code": "AGP_L",
+        "desc": "alpha-1-Acid Glycoprotein (AGP_L)"
+      },
+      {
+        "code": "AUQ_L",
+        "desc": "Audiometry  (AUQ_L)"
+      },
+      {
+        "code": "BAQ_L",
+        "desc": "Balance (BAQ_L)"
+      },
+      {
+        "code": "BAX_L",
+        "desc": "Balance  (BAX_L)"
+      },
+      {
+        "code": "BPQ_L",
+        "desc": "Blood Pressure & Cholesterol  (BPQ_L)"
+      },
+      {
+        "code": "DEQ_L",
+        "desc": "Dermatology (DEQ_L)"
+      },
+      {
+        "code": "DIQ_L",
+        "desc": "Diabetes  (DIQ_L)"
+      },
+      {
+        "code": "DPQ_L",
+        "desc": "Mental Health - Depression Screener (DPQ_L)"
+      },
+      {
+        "code": "DRXFCD_L",
+        "desc": "Dietary Interview Technical Support File - Food Codes (DRXFCD_L)"
+      },
+      {
+        "code": "DSQIDS_L",
+        "desc": "Dietary Supplement Use 30-Day - Individual Dietary Supplements (DSQIDS_L)"
+      },
+      {
+        "code": "DSQTOT_L",
+        "desc": "Dietary Supplement Use 30-Day - Total Dietary Supplements (DSQTOT_L)"
+      },
+      {
+        "code": "ECQ_L",
+        "desc": "Early Childhood (ECQ_L)"
+      },
+      {
+        "code": "FASTQX_L",
+        "desc": "Fasting Questionnaire (FASTQX_L)"
+      },
+      {
+        "code": "FERTIN_L",
+        "desc": "Ferritin (FERTIN_L)"
+      },
+      {
+        "code": "FNQ_L",
+        "desc": "Functioning   (FNQ_L)"
+      },
+      {
+        "code": "FOLATE_L",
+        "desc": "Folate - RBC (FOLATE_L)"
+      },
+      {
+        "code": "FOLFMS_L",
+        "desc": "Serum Folate Forms - Total & Individual - Serum (FOLFMS_L)"
+      },
+      {
+        "code": "GHB_L",
+        "desc": "Glycohemoglobin (GHB_L)"
+      },
+      {
+        "code": "GLU_L",
+        "desc": "Plasma Fasting Glucose (GLU_L)"
+      },
+      {
+        "code": "HEPA_L",
+        "desc": "Hepatitis A (HEPA_L)"
+      },
+      {
+        "code": "HEPB_S_L",
+        "desc": "Hepatitis B Surface Antibody  (HEPB_S_L)"
+      },
+      {
+        "code": "HEQ_L",
+        "desc": "Hepatitis  (HEQ_L)"
+      },
+      {
+        "code": "HIQ_L",
+        "desc": "Health Insurance  (HIQ_L)"
+      },
+      {
+        "code": "HOQ_L",
+        "desc": "Housing Characteristics  (HOQ_L)"
+      },
+      {
+        "code": "HSCRP_L",
+        "desc": "High-Sensitivity C-Reactive Protein  (HSCRP_L)"
+      },
+      {
+        "code": "HUQ_L",
+        "desc": "Hospital Utilization & Access to Care  (HUQ_L)"
+      },
+      {
+        "code": "IHGEM_L",
+        "desc": "Mercury:  Inorganic, Ethyl, and Methyl - Blood (IHGEM_L)"
+      },
+      {
+        "code": "IMQ_L",
+        "desc": "Immunization (IMQ_L)"
+      },
+      {
+        "code": "INQ_L",
+        "desc": "Income (INQ_L)"
+      },
+      {
+        "code": "INS_L",
+        "desc": "Insulin (INS_L)"
+      },
+      {
+        "code": "KIQ_U_L",
+        "desc": "Kidney Conditions - Urology (KIQ_U_L)"
+      },
+      {
+        "code": "LUX_L",
+        "desc": "Liver Ultrasound Transient Elastography  (LUX_L)"
+      },
+      {
+        "code": "MCQ_L",
+        "desc": "Medical Conditions (MCQ_L)"
+      },
+      {
+        "code": "OCQ_L",
+        "desc": "Occupation (OCQ_L)"
+      },
+      {
+        "code": "OHQ_L",
+        "desc": "Oral Health (OHQ_L)"
+      },
+      {
+        "code": "PAQY_L",
+        "desc": "Physical Activity - Youth (PAQY_L)"
+      },
+      {
+        "code": "PAQ_L",
+        "desc": "Physical Activity (PAQ_L)"
+      },
+      {
+        "code": "PBCD_L",
+        "desc": "Lead, Cadmium, Total Mercury, Selenium, & Manganese – Blood  (PBCD_L)"
+      },
+      {
+        "code": "PUQMEC_L",
+        "desc": "Pesticide Use  (PUQMEC_L)"
+      },
+      {
+        "code": "RHQ_L",
+        "desc": "Reproductive Health (RHQ_L)"
+      },
+      {
+        "code": "RXQASA_L",
+        "desc": "Preventive Aspirin Use  (RXQASA_L)"
+      },
+      {
+        "code": "RXQ_RX_L",
+        "desc": "Prescription Medications  (RXQ_RX_L)"
+      },
+      {
+        "code": "SLQ_L",
+        "desc": "Sleep Disorders (SLQ_L)"
+      },
+      {
+        "code": "TFR_L",
+        "desc": "Transferrin Receptor (TFR_L)"
+      },
+      {
+        "code": "TST_L",
+        "desc": "Sex Steroid Hormone Panel - Serum  (TST_L)"
+      },
+      {
+        "code": "UCPREG_L",
+        "desc": "Urine Pregnancy Test (UCPREG_L)"
+      },
+      {
+        "code": "VID_L",
+        "desc": "Vitamin D (VID_L)"
+      },
+      {
+        "code": "WHQ_L",
+        "desc": "Weight History (WHQ_L)"
+      }
+    ],
+    "Questionnaire": [
+      {
+        "code": "ALQ_L",
+        "desc": "Alcohol Use (ALQ_L)"
+      },
+      {
+        "code": "HSQ_L",
+        "desc": "Current Health Status  (HSQ_L)"
+      },
+      {
+        "code": "SMQFAM_L",
+        "desc": "Smoking - Household Smokers (SMQFAM_L)"
+      },
+      {
+        "code": "SMQRTU_L",
+        "desc": "Smoking - Recent Tobacco Use (SMQRTU_L)"
+      },
+      {
+        "code": "SMQ_L",
+        "desc": "Smoking - Cigarette Use (SMQ_L)"
+      }
+    ],
+    "Examination": [
+      {
+        "code": "BMX_L",
+        "desc": "Body Measures  (BMX_L)"
+      },
+      {
+        "code": "BPXO_L",
+        "desc": "Blood Pressure - Oscillometric Measurements  (BPXO_L)"
+      }
+    ],
+    "Laboratory": [
+      {
+        "code": "CBC_L",
+        "desc": "Complete Blood Count with 5-Part Differential in Whole Blood  (CBC_L)"
+      },
+      {
+        "code": "HDL_L",
+        "desc": "Cholesterol – High-Density Lipoprotein  (HDL_L)"
+      },
+      {
+        "code": "TCHOL_L",
+        "desc": "Cholesterol - Total  (TCHOL_L)"
+      }
+    ],
+    "Dietary": [
+      {
+        "code": "DBQ_L",
+        "desc": "Diet Behavior & Nutrition (DBQ_L)"
+      },
+      {
+        "code": "DR1IFF_L",
+        "desc": "Dietary Interview - Individual Foods, First Day (DR1IFF_L)"
+      },
+      {
+        "code": "DR1TOT_L",
+        "desc": "Dietary Interview - Total Nutrient Intakes, First Day (DR1TOT_L)"
+      },
+      {
+        "code": "DR2IFF_L",
+        "desc": "Dietary Interview - Individual Foods, Second Day (DR2IFF_L)"
+      },
+      {
+        "code": "DR2TOT_L",
+        "desc": "Dietary Interview - Total Nutrient Intakes, Second Day (DR2TOT_L)"
+      }
+    ],
+    "Demographics": [
+      {
+        "code": "DEMO_L",
+        "desc": "Demographic Variables and Sample Weights (DEMO_L)"
+      }
+    ]
+  }
+}
